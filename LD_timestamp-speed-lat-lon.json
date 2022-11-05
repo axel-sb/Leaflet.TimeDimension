@@ -1,0 +1,9416 @@
+[
+  {
+    "Timestamp": "2022-08-22 13:18",
+    "Speed": 0.2,
+    "Latitude": 51.23907,
+    "Longitude": 6.768507
+  },
+  {
+    "Timestamp": "2022-08-22 12:57",
+    "Speed": 0,
+    "Latitude": 51.23907,
+    "Longitude": 6.768517
+  },
+  {
+    "Timestamp": "2022-08-22 12:35",
+    "Speed": 0,
+    "Latitude": 51.23907,
+    "Longitude": 6.768517
+  },
+  {
+    "Timestamp": "2022-08-22 12:14",
+    "Speed": 0,
+    "Latitude": 51.23906,
+    "Longitude": 6.768488
+  },
+  {
+    "Timestamp": "2022-08-22 11:54",
+    "Speed": 0,
+    "Latitude": 51.23906,
+    "Longitude": 6.768495
+  },
+  {
+    "Timestamp": "2022-08-22 11:33",
+    "Speed": 0,
+    "Latitude": 51.23908,
+    "Longitude": 6.768478
+  },
+  {
+    "Timestamp": "2022-08-22 11:11",
+    "Speed": 0,
+    "Latitude": 51.23906,
+    "Longitude": 6.768492
+  },
+  {
+    "Timestamp": "2022-08-22 10:51",
+    "Speed": 0,
+    "Latitude": 51.23905,
+    "Longitude": 6.768502
+  },
+  {
+    "Timestamp": "2022-08-22 10:29",
+    "Speed": 0,
+    "Latitude": 51.23906,
+    "Longitude": 6.768508
+  },
+  {
+    "Timestamp": "2022-08-22 10:09",
+    "Speed": 0,
+    "Latitude": 51.23907,
+    "Longitude": 6.768515
+  },
+  {
+    "Timestamp": "2022-08-22 09:48",
+    "Speed": 0,
+    "Latitude": 51.23905,
+    "Longitude": 6.768517
+  },
+  {
+    "Timestamp": "2022-08-22 09:26",
+    "Speed": 0,
+    "Latitude": 51.23909,
+    "Longitude": 6.768512
+  },
+  {
+    "Timestamp": "2022-08-22 09:03",
+    "Speed": 0,
+    "Latitude": 51.2391,
+    "Longitude": 6.768517
+  },
+  {
+    "Timestamp": "2022-08-22 08:42",
+    "Speed": 0,
+    "Latitude": 51.2391,
+    "Longitude": 6.76852
+  },
+  {
+    "Timestamp": "2022-08-22 08:20",
+    "Speed": 0,
+    "Latitude": 51.2391,
+    "Longitude": 6.7685
+  },
+  {
+    "Timestamp": "2022-08-22 08:00",
+    "Speed": 0,
+    "Latitude": 51.23908,
+    "Longitude": 6.768492
+  },
+  {
+    "Timestamp": "2022-08-22 07:38",
+    "Speed": 0,
+    "Latitude": 51.23907,
+    "Longitude": 6.768497
+  },
+  {
+    "Timestamp": "2022-08-22 07:18",
+    "Speed": 0,
+    "Latitude": 51.23906,
+    "Longitude": 6.768495
+  },
+  {
+    "Timestamp": "2022-08-22 06:57",
+    "Speed": 0,
+    "Latitude": 51.23908,
+    "Longitude": 6.768502
+  },
+  {
+    "Timestamp": "2022-08-22 06:35",
+    "Speed": 0,
+    "Latitude": 51.23907,
+    "Longitude": 6.768498
+  },
+  {
+    "Timestamp": "2022-08-22 06:14",
+    "Speed": 0,
+    "Latitude": 51.23908,
+    "Longitude": 6.768497
+  },
+  {
+    "Timestamp": "2022-08-22 05:52",
+    "Speed": 0.2,
+    "Latitude": 51.23905,
+    "Longitude": 6.768488
+  },
+  {
+    "Timestamp": "2022-08-22 05:49",
+    "Speed": 4.6,
+    "Latitude": 51.23997,
+    "Longitude": 6.767722
+  },
+  {
+    "Timestamp": "2022-08-22 05:47",
+    "Speed": 7.9,
+    "Latitude": 51.24411,
+    "Longitude": 6.76392
+  },
+  {
+    "Timestamp": "2022-08-22 05:45",
+    "Speed": 7.1,
+    "Latitude": 51.24783,
+    "Longitude": 6.758763
+  },
+  {
+    "Timestamp": "2022-08-22 05:42",
+    "Speed": 6.3,
+    "Latitude": 51.2509,
+    "Longitude": 6.752604
+  },
+  {
+    "Timestamp": "2022-08-22 05:40",
+    "Speed": 6.2,
+    "Latitude": 51.25267,
+    "Longitude": 6.746652
+  },
+  {
+    "Timestamp": "2022-08-22 05:37",
+    "Speed": 5.8,
+    "Latitude": 51.25382,
+    "Longitude": 6.740375
+  },
+  {
+    "Timestamp": "2022-08-22 05:35",
+    "Speed": 5.5,
+    "Latitude": 51.25495,
+    "Longitude": 6.734724
+  },
+  {
+    "Timestamp": "2022-08-22 05:32",
+    "Speed": 5,
+    "Latitude": 51.25584,
+    "Longitude": 6.729393
+  },
+  {
+    "Timestamp": "2022-08-22 05:30",
+    "Speed": 5.5,
+    "Latitude": 51.25711,
+    "Longitude": 6.724063
+  },
+  {
+    "Timestamp": "2022-08-22 05:28",
+    "Speed": 6.6,
+    "Latitude": 51.25875,
+    "Longitude": 6.71853
+  },
+  {
+    "Timestamp": "2022-08-22 05:25",
+    "Speed": 6.4,
+    "Latitude": 51.26105,
+    "Longitude": 6.712162
+  },
+  {
+    "Timestamp": "2022-08-22 05:23",
+    "Speed": 6.3,
+    "Latitude": 51.26371,
+    "Longitude": 6.707283
+  },
+  {
+    "Timestamp": "2022-08-22 05:20",
+    "Speed": 6,
+    "Latitude": 51.26709,
+    "Longitude": 6.70358
+  },
+  {
+    "Timestamp": "2022-08-22 05:18",
+    "Speed": 5.9,
+    "Latitude": 51.27073,
+    "Longitude": 6.701788
+  },
+  {
+    "Timestamp": "2022-08-22 05:15",
+    "Speed": 5.6,
+    "Latitude": 51.27477,
+    "Longitude": 6.701715
+  },
+  {
+    "Timestamp": "2022-08-22 05:13",
+    "Speed": 5.8,
+    "Latitude": 51.27826,
+    "Longitude": 6.703888
+  },
+  {
+    "Timestamp": "2022-08-22 05:10",
+    "Speed": 5.7,
+    "Latitude": 51.28207,
+    "Longitude": 6.707897
+  },
+  {
+    "Timestamp": "2022-08-22 05:08",
+    "Speed": 5.7,
+    "Latitude": 51.28519,
+    "Longitude": 6.711709
+  },
+  {
+    "Timestamp": "2022-08-22 05:05",
+    "Speed": 5.7,
+    "Latitude": 51.28835,
+    "Longitude": 6.71534
+  },
+  {
+    "Timestamp": "2022-08-22 05:03",
+    "Speed": 5.2,
+    "Latitude": 51.29128,
+    "Longitude": 6.719093
+  },
+  {
+    "Timestamp": "2022-08-22 05:00",
+    "Speed": 5.4,
+    "Latitude": 51.29397,
+    "Longitude": 6.722417
+  },
+  {
+    "Timestamp": "2022-08-22 04:58",
+    "Speed": 5.7,
+    "Latitude": 51.29676,
+    "Longitude": 6.725828
+  },
+  {
+    "Timestamp": "2022-08-22 04:55",
+    "Speed": 5.2,
+    "Latitude": 51.30025,
+    "Longitude": 6.729722
+  },
+  {
+    "Timestamp": "2022-08-22 04:53",
+    "Speed": 6.1,
+    "Latitude": 51.30361,
+    "Longitude": 6.73256
+  },
+  {
+    "Timestamp": "2022-08-22 04:50",
+    "Speed": 5.8,
+    "Latitude": 51.30819,
+    "Longitude": 6.734988
+  },
+  {
+    "Timestamp": "2022-08-22 04:47",
+    "Speed": 6.1,
+    "Latitude": 51.31264,
+    "Longitude": 6.735838
+  },
+  {
+    "Timestamp": "2022-08-22 04:44",
+    "Speed": 6.1,
+    "Latitude": 51.31721,
+    "Longitude": 6.735662
+  },
+  {
+    "Timestamp": "2022-08-22 04:42",
+    "Speed": 6,
+    "Latitude": 51.32162,
+    "Longitude": 6.733847
+  },
+  {
+    "Timestamp": "2022-08-22 04:39",
+    "Speed": 6.7,
+    "Latitude": 51.32505,
+    "Longitude": 6.730763
+  },
+  {
+    "Timestamp": "2022-08-22 04:37",
+    "Speed": 6.6,
+    "Latitude": 51.32843,
+    "Longitude": 6.725798
+  },
+  {
+    "Timestamp": "2022-08-22 04:34",
+    "Speed": 7.2,
+    "Latitude": 51.33179,
+    "Longitude": 6.720072
+  },
+  {
+    "Timestamp": "2022-08-22 04:32",
+    "Speed": 7.3,
+    "Latitude": 51.3347,
+    "Longitude": 6.71386
+  },
+  {
+    "Timestamp": "2022-08-22 04:29",
+    "Speed": 5.7,
+    "Latitude": 51.33724,
+    "Longitude": 6.707583
+  },
+  {
+    "Timestamp": "2022-08-22 04:27",
+    "Speed": 5.5,
+    "Latitude": 51.33907,
+    "Longitude": 6.702067
+  },
+  {
+    "Timestamp": "2022-08-22 04:24",
+    "Speed": 5.2,
+    "Latitude": 51.34049,
+    "Longitude": 6.69645
+  },
+  {
+    "Timestamp": "2022-08-22 04:22",
+    "Speed": 5.1,
+    "Latitude": 51.34169,
+    "Longitude": 6.691184
+  },
+  {
+    "Timestamp": "2022-08-22 04:19",
+    "Speed": 5.4,
+    "Latitude": 51.34295,
+    "Longitude": 6.685729
+  },
+  {
+    "Timestamp": "2022-08-22 04:17",
+    "Speed": 5.8,
+    "Latitude": 51.34402,
+    "Longitude": 6.680597
+  },
+  {
+    "Timestamp": "2022-08-22 04:15",
+    "Speed": 5.4,
+    "Latitude": 51.34503,
+    "Longitude": 6.675118
+  },
+  {
+    "Timestamp": "2022-08-22 04:13",
+    "Speed": 6.4,
+    "Latitude": 51.34599,
+    "Longitude": 6.669261
+  },
+  {
+    "Timestamp": "2022-08-22 04:10",
+    "Speed": 5.5,
+    "Latitude": 51.34771,
+    "Longitude": 6.662734
+  },
+  {
+    "Timestamp": "2022-08-22 04:07",
+    "Speed": 6.4,
+    "Latitude": 51.35068,
+    "Longitude": 6.656742
+  },
+  {
+    "Timestamp": "2022-08-22 04:05",
+    "Speed": 6.3,
+    "Latitude": 51.35472,
+    "Longitude": 6.653757
+  },
+  {
+    "Timestamp": "2022-08-22 04:02",
+    "Speed": 6,
+    "Latitude": 51.3587,
+    "Longitude": 6.65326
+  },
+  {
+    "Timestamp": "2022-08-22 04:00",
+    "Speed": 5.7,
+    "Latitude": 51.36226,
+    "Longitude": 6.65513
+  },
+  {
+    "Timestamp": "2022-08-22 03:57",
+    "Speed": 5.6,
+    "Latitude": 51.36563,
+    "Longitude": 6.6596
+  },
+  {
+    "Timestamp": "2022-08-22 03:55",
+    "Speed": 5.1,
+    "Latitude": 51.36766,
+    "Longitude": 6.664927
+  },
+  {
+    "Timestamp": "2022-08-22 03:52",
+    "Speed": 6.3,
+    "Latitude": 51.36952,
+    "Longitude": 6.670535
+  },
+  {
+    "Timestamp": "2022-08-22 03:49",
+    "Speed": 6.3,
+    "Latitude": 51.37088,
+    "Longitude": 6.677166
+  },
+  {
+    "Timestamp": "2022-08-22 03:47",
+    "Speed": 6.5,
+    "Latitude": 51.37172,
+    "Longitude": 6.683065
+  },
+  {
+    "Timestamp": "2022-08-22 03:45",
+    "Speed": 6.1,
+    "Latitude": 51.37243,
+    "Longitude": 6.690678
+  },
+  {
+    "Timestamp": "2022-08-22 03:42",
+    "Speed": 6,
+    "Latitude": 51.3727,
+    "Longitude": 6.697667
+  },
+  {
+    "Timestamp": "2022-08-22 03:40",
+    "Speed": 5.9,
+    "Latitude": 51.37308,
+    "Longitude": 6.703642
+  },
+  {
+    "Timestamp": "2022-08-22 03:37",
+    "Speed": 5.7,
+    "Latitude": 51.37406,
+    "Longitude": 6.71047
+  },
+  {
+    "Timestamp": "2022-08-22 03:34",
+    "Speed": 6.3,
+    "Latitude": 51.37593,
+    "Longitude": 6.716627
+  },
+  {
+    "Timestamp": "2022-08-22 03:32",
+    "Speed": 6.2,
+    "Latitude": 51.3785,
+    "Longitude": 6.72231
+  },
+  {
+    "Timestamp": "2022-08-22 03:29",
+    "Speed": 4.9,
+    "Latitude": 51.38113,
+    "Longitude": 6.726998
+  },
+  {
+    "Timestamp": "2022-08-22 03:27",
+    "Speed": 5.1,
+    "Latitude": 51.38325,
+    "Longitude": 6.730787
+  },
+  {
+    "Timestamp": "2022-08-22 03:24",
+    "Speed": 5.1,
+    "Latitude": 51.38595,
+    "Longitude": 6.73464
+  },
+  {
+    "Timestamp": "2022-08-22 03:22",
+    "Speed": 4.8,
+    "Latitude": 51.38882,
+    "Longitude": 6.738345
+  },
+  {
+    "Timestamp": "2022-08-22 03:19",
+    "Speed": 5.3,
+    "Latitude": 51.39142,
+    "Longitude": 6.740945
+  },
+  {
+    "Timestamp": "2022-08-22 03:17",
+    "Speed": 6.4,
+    "Latitude": 51.39544,
+    "Longitude": 6.74395
+  },
+  {
+    "Timestamp": "2022-08-22 03:14",
+    "Speed": 6.3,
+    "Latitude": 51.3994,
+    "Longitude": 6.745445
+  },
+  {
+    "Timestamp": "2022-08-22 03:12",
+    "Speed": 6.3,
+    "Latitude": 51.40351,
+    "Longitude": 6.745475
+  },
+  {
+    "Timestamp": "2022-08-22 03:10",
+    "Speed": 6.3,
+    "Latitude": 51.40749,
+    "Longitude": 6.744554
+  },
+  {
+    "Timestamp": "2022-08-22 03:07",
+    "Speed": 5.4,
+    "Latitude": 51.41122,
+    "Longitude": 6.742735
+  },
+  {
+    "Timestamp": "2022-08-22 03:05",
+    "Speed": 6.7,
+    "Latitude": 51.41464,
+    "Longitude": 6.74007
+  },
+  {
+    "Timestamp": "2022-08-22 03:03",
+    "Speed": 6.1,
+    "Latitude": 51.41782,
+    "Longitude": 6.736305
+  },
+  {
+    "Timestamp": "2022-08-22 03:01",
+    "Speed": 5.3,
+    "Latitude": 51.42063,
+    "Longitude": 6.73282
+  },
+  {
+    "Timestamp": "2022-08-22 02:58",
+    "Speed": 6,
+    "Latitude": 51.42341,
+    "Longitude": 6.728795
+  },
+  {
+    "Timestamp": "2022-08-22 02:55",
+    "Speed": 6.3,
+    "Latitude": 51.4265,
+    "Longitude": 6.723513
+  },
+  {
+    "Timestamp": "2022-08-22 02:53",
+    "Speed": 6.2,
+    "Latitude": 51.42904,
+    "Longitude": 6.719228
+  },
+  {
+    "Timestamp": "2022-08-22 02:51",
+    "Speed": 6.1,
+    "Latitude": 51.43267,
+    "Longitude": 6.714565
+  },
+  {
+    "Timestamp": "2022-08-22 02:48",
+    "Speed": 5.9,
+    "Latitude": 51.43627,
+    "Longitude": 6.71164
+  },
+  {
+    "Timestamp": "2022-08-22 02:46",
+    "Speed": 5.8,
+    "Latitude": 51.44036,
+    "Longitude": 6.710743
+  },
+  {
+    "Timestamp": "2022-08-22 02:43",
+    "Speed": 5.7,
+    "Latitude": 51.44421,
+    "Longitude": 6.711728
+  },
+  {
+    "Timestamp": "2022-08-22 02:41",
+    "Speed": 6.2,
+    "Latitude": 51.44755,
+    "Longitude": 6.714585
+  },
+  {
+    "Timestamp": "2022-08-22 02:38",
+    "Speed": 6.6,
+    "Latitude": 51.45061,
+    "Longitude": 6.71879
+  },
+  {
+    "Timestamp": "2022-08-22 02:36",
+    "Speed": 7.3,
+    "Latitude": 51.45502,
+    "Longitude": 6.723048
+  },
+  {
+    "Timestamp": "2022-08-22 02:33",
+    "Speed": 6.4,
+    "Latitude": 51.45974,
+    "Longitude": 6.723625
+  },
+  {
+    "Timestamp": "2022-08-22 02:30",
+    "Speed": 6.1,
+    "Latitude": 51.46432,
+    "Longitude": 6.721221
+  },
+  {
+    "Timestamp": "2022-08-22 02:28",
+    "Speed": 5.9,
+    "Latitude": 51.46766,
+    "Longitude": 6.717103
+  },
+  {
+    "Timestamp": "2022-08-22 02:25",
+    "Speed": 6.8,
+    "Latitude": 51.46979,
+    "Longitude": 6.711022
+  },
+  {
+    "Timestamp": "2022-08-22 02:22",
+    "Speed": 6.8,
+    "Latitude": 51.47099,
+    "Longitude": 6.702137
+  },
+  {
+    "Timestamp": "2022-08-22 02:20",
+    "Speed": 5.5,
+    "Latitude": 51.47166,
+    "Longitude": 6.695082
+  },
+  {
+    "Timestamp": "2022-08-22 02:18",
+    "Speed": 5.1,
+    "Latitude": 51.47249,
+    "Longitude": 6.689878
+  },
+  {
+    "Timestamp": "2022-08-22 02:15",
+    "Speed": 6.5,
+    "Latitude": 51.47438,
+    "Longitude": 6.684255
+  },
+  {
+    "Timestamp": "2022-08-22 02:13",
+    "Speed": 6.6,
+    "Latitude": 51.4783,
+    "Longitude": 6.68045
+  },
+  {
+    "Timestamp": "2022-08-22 02:10",
+    "Speed": 6.7,
+    "Latitude": 51.48284,
+    "Longitude": 6.680115
+  },
+  {
+    "Timestamp": "2022-08-22 02:08",
+    "Speed": 6.7,
+    "Latitude": 51.48695,
+    "Longitude": 6.683087
+  },
+  {
+    "Timestamp": "2022-08-22 02:05",
+    "Speed": 5.9,
+    "Latitude": 51.48977,
+    "Longitude": 6.68793
+  },
+  {
+    "Timestamp": "2022-08-22 02:03",
+    "Speed": 6.2,
+    "Latitude": 51.49184,
+    "Longitude": 6.693161
+  },
+  {
+    "Timestamp": "2022-08-22 02:01",
+    "Speed": 5.9,
+    "Latitude": 51.49326,
+    "Longitude": 6.698978
+  },
+  {
+    "Timestamp": "2022-08-22 01:58",
+    "Speed": 5.6,
+    "Latitude": 51.49434,
+    "Longitude": 6.704886
+  },
+  {
+    "Timestamp": "2022-08-22 01:56",
+    "Speed": 5.3,
+    "Latitude": 51.49517,
+    "Longitude": 6.71011
+  },
+  {
+    "Timestamp": "2022-08-22 01:53",
+    "Speed": 5.8,
+    "Latitude": 51.49681,
+    "Longitude": 6.716969
+  },
+  {
+    "Timestamp": "2022-08-22 01:51",
+    "Speed": 6.6,
+    "Latitude": 51.49959,
+    "Longitude": 6.7216
+  },
+  {
+    "Timestamp": "2022-08-22 01:48",
+    "Speed": 6.5,
+    "Latitude": 51.50379,
+    "Longitude": 6.724255
+  },
+  {
+    "Timestamp": "2022-08-22 01:45",
+    "Speed": 6.3,
+    "Latitude": 51.50841,
+    "Longitude": 6.72486
+  },
+  {
+    "Timestamp": "2022-08-22 01:43",
+    "Speed": 6.1,
+    "Latitude": 51.51245,
+    "Longitude": 6.72249
+  },
+  {
+    "Timestamp": "2022-08-22 01:40",
+    "Speed": 5.8,
+    "Latitude": 51.51615,
+    "Longitude": 6.718632
+  },
+  {
+    "Timestamp": "2022-08-22 01:37",
+    "Speed": 5.6,
+    "Latitude": 51.51928,
+    "Longitude": 6.71383
+  },
+  {
+    "Timestamp": "2022-08-22 01:35",
+    "Speed": 5.6,
+    "Latitude": 51.52172,
+    "Longitude": 6.708527
+  },
+  {
+    "Timestamp": "2022-08-22 01:32",
+    "Speed": 5.2,
+    "Latitude": 51.52348,
+    "Longitude": 6.702755
+  },
+  {
+    "Timestamp": "2022-08-22 01:28",
+    "Speed": 5.4,
+    "Latitude": 51.52588,
+    "Longitude": 6.694883
+  },
+  {
+    "Timestamp": "2022-08-22 01:26",
+    "Speed": 5.3,
+    "Latitude": 51.52744,
+    "Longitude": 6.689983
+  },
+  {
+    "Timestamp": "2022-08-22 01:23",
+    "Speed": 4.8,
+    "Latitude": 51.52964,
+    "Longitude": 6.684625
+  },
+  {
+    "Timestamp": "2022-08-22 01:21",
+    "Speed": 5,
+    "Latitude": 51.532,
+    "Longitude": 6.680435
+  },
+  {
+    "Timestamp": "2022-08-22 01:18",
+    "Speed": 5.8,
+    "Latitude": 51.53526,
+    "Longitude": 6.67701
+  },
+  {
+    "Timestamp": "2022-08-22 01:16",
+    "Speed": 6.2,
+    "Latitude": 51.53895,
+    "Longitude": 6.675375
+  },
+  {
+    "Timestamp": "2022-08-22 01:13",
+    "Speed": 6.4,
+    "Latitude": 51.54301,
+    "Longitude": 6.675682
+  },
+  {
+    "Timestamp": "2022-08-22 01:11",
+    "Speed": 6.1,
+    "Latitude": 51.54701,
+    "Longitude": 6.677175
+  },
+  {
+    "Timestamp": "2022-08-22 01:08",
+    "Speed": 6.2,
+    "Latitude": 51.55094,
+    "Longitude": 6.679423
+  },
+  {
+    "Timestamp": "2022-08-22 01:06",
+    "Speed": 6.2,
+    "Latitude": 51.55454,
+    "Longitude": 6.682088
+  },
+  {
+    "Timestamp": "2022-08-22 01:04",
+    "Speed": 6.4,
+    "Latitude": 51.55812,
+    "Longitude": 6.685258
+  },
+  {
+    "Timestamp": "2022-08-22 01:01",
+    "Speed": 6.9,
+    "Latitude": 51.56261,
+    "Longitude": 6.687145
+  },
+  {
+    "Timestamp": "2022-08-22 00:59",
+    "Speed": 6.3,
+    "Latitude": 51.56659,
+    "Longitude": 6.687307
+  },
+  {
+    "Timestamp": "2022-08-22 00:57",
+    "Speed": 6.2,
+    "Latitude": 51.57061,
+    "Longitude": 6.685558
+  },
+  {
+    "Timestamp": "2022-08-22 00:54",
+    "Speed": 6,
+    "Latitude": 51.57395,
+    "Longitude": 6.681452
+  },
+  {
+    "Timestamp": "2022-08-22 00:52",
+    "Speed": 5.6,
+    "Latitude": 51.57613,
+    "Longitude": 6.676486
+  },
+  {
+    "Timestamp": "2022-08-22 00:49",
+    "Speed": 5.6,
+    "Latitude": 51.5775,
+    "Longitude": 6.67075
+  },
+  {
+    "Timestamp": "2022-08-22 00:47",
+    "Speed": 5.9,
+    "Latitude": 51.57804,
+    "Longitude": 6.664979
+  },
+  {
+    "Timestamp": "2022-08-22 00:44",
+    "Speed": 6.4,
+    "Latitude": 51.57788,
+    "Longitude": 6.657883
+  },
+  {
+    "Timestamp": "2022-08-22 00:42",
+    "Speed": 4.8,
+    "Latitude": 51.5773,
+    "Longitude": 6.651755
+  },
+  {
+    "Timestamp": "2022-08-22 00:40",
+    "Speed": 4.4,
+    "Latitude": 51.57644,
+    "Longitude": 6.647305
+  },
+  {
+    "Timestamp": "2022-08-22 00:37",
+    "Speed": 4.4,
+    "Latitude": 51.57522,
+    "Longitude": 6.642875
+  },
+  {
+    "Timestamp": "2022-08-22 00:35",
+    "Speed": 4.5,
+    "Latitude": 51.57372,
+    "Longitude": 6.639359
+  },
+  {
+    "Timestamp": "2022-08-22 00:32",
+    "Speed": 4.6,
+    "Latitude": 51.57161,
+    "Longitude": 6.63464
+  },
+  {
+    "Timestamp": "2022-08-22 00:30",
+    "Speed": 4.8,
+    "Latitude": 51.56957,
+    "Longitude": 6.630172
+  },
+  {
+    "Timestamp": "2022-08-22 00:27",
+    "Speed": 5.6,
+    "Latitude": 51.56781,
+    "Longitude": 6.625162
+  },
+  {
+    "Timestamp": "2022-08-22 00:24",
+    "Speed": 6,
+    "Latitude": 51.56636,
+    "Longitude": 6.618063
+  },
+  {
+    "Timestamp": "2022-08-22 00:22",
+    "Speed": 5.8,
+    "Latitude": 51.5669,
+    "Longitude": 6.611193
+  },
+  {
+    "Timestamp": "2022-08-22 00:19",
+    "Speed": 5.9,
+    "Latitude": 51.56895,
+    "Longitude": 6.604565
+  },
+  {
+    "Timestamp": "2022-08-22 00:17",
+    "Speed": 5.8,
+    "Latitude": 51.57144,
+    "Longitude": 6.60061
+  },
+  {
+    "Timestamp": "2022-08-22 00:13",
+    "Speed": 6.1,
+    "Latitude": 51.57755,
+    "Longitude": 6.59701
+  },
+  {
+    "Timestamp": "2022-08-22 00:09",
+    "Speed": 6.9,
+    "Latitude": 51.5842,
+    "Longitude": 6.597732
+  },
+  {
+    "Timestamp": "2022-08-22 00:07",
+    "Speed": 7,
+    "Latitude": 51.58875,
+    "Longitude": 6.598265
+  },
+  {
+    "Timestamp": "2022-08-22 00:04",
+    "Speed": 6.6,
+    "Latitude": 51.59362,
+    "Longitude": 6.598272
+  },
+  {
+    "Timestamp": "2022-08-22 00:01",
+    "Speed": 5.9,
+    "Latitude": 51.59817,
+    "Longitude": 6.597187
+  },
+  {
+    "Timestamp": "2022-08-21 23:58",
+    "Speed": 5.6,
+    "Latitude": 51.60336,
+    "Longitude": 6.595165
+  },
+  {
+    "Timestamp": "2022-08-21 23:56",
+    "Speed": 6.2,
+    "Latitude": 51.60678,
+    "Longitude": 6.593325
+  },
+  {
+    "Timestamp": "2022-08-21 23:53",
+    "Speed": 6.2,
+    "Latitude": 51.6108,
+    "Longitude": 6.59088
+  },
+  {
+    "Timestamp": "2022-08-21 23:51",
+    "Speed": 5.9,
+    "Latitude": 51.61457,
+    "Longitude": 6.588795
+  },
+  {
+    "Timestamp": "2022-08-21 23:48",
+    "Speed": 6,
+    "Latitude": 51.6189,
+    "Longitude": 6.586318
+  },
+  {
+    "Timestamp": "2022-08-21 23:46",
+    "Speed": 6,
+    "Latitude": 51.62302,
+    "Longitude": 6.586117
+  },
+  {
+    "Timestamp": "2022-08-21 23:43",
+    "Speed": 5.8,
+    "Latitude": 51.62684,
+    "Longitude": 6.588268
+  },
+  {
+    "Timestamp": "2022-08-21 23:40",
+    "Speed": 6.2,
+    "Latitude": 51.63048,
+    "Longitude": 6.592733
+  },
+  {
+    "Timestamp": "2022-08-21 23:38",
+    "Speed": 6.6,
+    "Latitude": 51.63367,
+    "Longitude": 6.597695
+  },
+  {
+    "Timestamp": "2022-08-21 23:35",
+    "Speed": 6.5,
+    "Latitude": 51.63681,
+    "Longitude": 6.602043
+  },
+  {
+    "Timestamp": "2022-08-21 23:32",
+    "Speed": 6.4,
+    "Latitude": 51.64193,
+    "Longitude": 6.604977
+  },
+  {
+    "Timestamp": "2022-08-21 23:30",
+    "Speed": 6.4,
+    "Latitude": 51.64603,
+    "Longitude": 6.604555
+  },
+  {
+    "Timestamp": "2022-08-21 23:27",
+    "Speed": 6.6,
+    "Latitude": 51.65146,
+    "Longitude": 6.601153
+  },
+  {
+    "Timestamp": "2022-08-21 23:23",
+    "Speed": 6.4,
+    "Latitude": 51.6562,
+    "Longitude": 6.594018
+  },
+  {
+    "Timestamp": "2022-08-21 23:21",
+    "Speed": 6,
+    "Latitude": 51.65863,
+    "Longitude": 6.58792
+  },
+  {
+    "Timestamp": "2022-08-21 23:18",
+    "Speed": 6.5,
+    "Latitude": 51.65973,
+    "Longitude": 6.581697
+  },
+  {
+    "Timestamp": "2022-08-21 23:16",
+    "Speed": 6.5,
+    "Latitude": 51.65977,
+    "Longitude": 6.574286
+  },
+  {
+    "Timestamp": "2022-08-21 23:13",
+    "Speed": 6.4,
+    "Latitude": 51.65959,
+    "Longitude": 6.567335
+  },
+  {
+    "Timestamp": "2022-08-21 23:11",
+    "Speed": 6.3,
+    "Latitude": 51.65896,
+    "Longitude": 6.56074
+  },
+  {
+    "Timestamp": "2022-08-21 23:08",
+    "Speed": 6.1,
+    "Latitude": 51.65806,
+    "Longitude": 6.553993
+  },
+  {
+    "Timestamp": "2022-08-21 23:06",
+    "Speed": 6,
+    "Latitude": 51.65768,
+    "Longitude": 6.547323
+  },
+  {
+    "Timestamp": "2022-08-21 23:04",
+    "Speed": 6.2,
+    "Latitude": 51.65821,
+    "Longitude": 6.541081
+  },
+  {
+    "Timestamp": "2022-08-21 23:01",
+    "Speed": 7.2,
+    "Latitude": 51.66005,
+    "Longitude": 6.533918
+  },
+  {
+    "Timestamp": "2022-08-21 22:58",
+    "Speed": 6.7,
+    "Latitude": 51.66187,
+    "Longitude": 6.524832
+  },
+  {
+    "Timestamp": "2022-08-21 22:55",
+    "Speed": 5.9,
+    "Latitude": 51.66208,
+    "Longitude": 6.516978
+  },
+  {
+    "Timestamp": "2022-08-21 22:52",
+    "Speed": 6.5,
+    "Latitude": 51.66142,
+    "Longitude": 6.507603
+  },
+  {
+    "Timestamp": "2022-08-21 22:49",
+    "Speed": 7,
+    "Latitude": 51.66159,
+    "Longitude": 6.499365
+  },
+  {
+    "Timestamp": "2022-08-21 22:47",
+    "Speed": 7.1,
+    "Latitude": 51.66197,
+    "Longitude": 6.493114
+  },
+  {
+    "Timestamp": "2022-08-21 22:43",
+    "Speed": 7.1,
+    "Latitude": 51.6654,
+    "Longitude": 6.482005
+  },
+  {
+    "Timestamp": "2022-08-21 22:40",
+    "Speed": 7.1,
+    "Latitude": 51.67012,
+    "Longitude": 6.476297
+  },
+  {
+    "Timestamp": "2022-08-21 22:36",
+    "Speed": 6.6,
+    "Latitude": 51.67751,
+    "Longitude": 6.472498
+  },
+  {
+    "Timestamp": "2022-08-21 22:33",
+    "Speed": 5.9,
+    "Latitude": 51.70023,
+    "Longitude": 6.46263
+  },
+  {
+    "Timestamp": "2022-08-21 22:31",
+    "Speed": 5.9,
+    "Latitude": 51.70023,
+    "Longitude": 6.46263
+  },
+  {
+    "Timestamp": "2022-08-21 22:28",
+    "Speed": 6.7,
+    "Latitude": 51.69233,
+    "Longitude": 6.467848
+  },
+  {
+    "Timestamp": "2022-08-21 22:25",
+    "Speed": 6.3,
+    "Latitude": 51.69729,
+    "Longitude": 6.46531
+  },
+  {
+    "Timestamp": "2022-08-21 22:21",
+    "Speed": 6.5,
+    "Latitude": 51.70283,
+    "Longitude": 6.45918
+  },
+  {
+    "Timestamp": "2022-08-21 22:19",
+    "Speed": 7,
+    "Latitude": 51.70531,
+    "Longitude": 6.45461
+  },
+  {
+    "Timestamp": "2022-08-21 22:17",
+    "Speed": 7,
+    "Latitude": 51.7075,
+    "Longitude": 6.44726
+  },
+  {
+    "Timestamp": "2022-08-21 22:15",
+    "Speed": 7,
+    "Latitude": 51.7082,
+    "Longitude": 6.443205
+  },
+  {
+    "Timestamp": "2022-08-21 22:07",
+    "Speed": 6,
+    "Latitude": 51.71075,
+    "Longitude": 6.4211
+  },
+  {
+    "Timestamp": "2022-08-21 22:04",
+    "Speed": 6.4,
+    "Latitude": 51.71277,
+    "Longitude": 6.414494
+  },
+  {
+    "Timestamp": "2022-08-21 22:02",
+    "Speed": 7,
+    "Latitude": 51.71571,
+    "Longitude": 6.409616
+  },
+  {
+    "Timestamp": "2022-08-21 21:54",
+    "Speed": 7.1,
+    "Latitude": 51.72964,
+    "Longitude": 6.412197
+  },
+  {
+    "Timestamp": "2022-08-21 21:51",
+    "Speed": 6.5,
+    "Latitude": 51.75084,
+    "Longitude": 6.4172
+  },
+  {
+    "Timestamp": "2022-08-21 21:49",
+    "Speed": 6.5,
+    "Latitude": 51.75084,
+    "Longitude": 6.4172
+  },
+  {
+    "Timestamp": "2022-08-21 21:43",
+    "Speed": 6.1,
+    "Latitude": 51.74689,
+    "Longitude": 6.421198
+  },
+  {
+    "Timestamp": "2022-08-21 21:40",
+    "Speed": 6.3,
+    "Latitude": 51.75171,
+    "Longitude": 6.41595
+  },
+  {
+    "Timestamp": "2022-08-21 21:37",
+    "Speed": 6.1,
+    "Latitude": 51.75397,
+    "Longitude": 6.41078
+  },
+  {
+    "Timestamp": "2022-08-21 21:35",
+    "Speed": 6.5,
+    "Latitude": 51.75515,
+    "Longitude": 6.404018
+  },
+  {
+    "Timestamp": "2022-08-21 21:25",
+    "Speed": 6.4,
+    "Latitude": 51.75418,
+    "Longitude": 6.376443
+  },
+  {
+    "Timestamp": "2022-08-21 21:15",
+    "Speed": 7.8,
+    "Latitude": 51.75591,
+    "Longitude": 6.346338
+  },
+  {
+    "Timestamp": "2022-08-21 21:06",
+    "Speed": 7.4,
+    "Latitude": 51.76845,
+    "Longitude": 6.328327
+  },
+  {
+    "Timestamp": "2022-08-21 21:03",
+    "Speed": 7.4,
+    "Latitude": 51.77464,
+    "Longitude": 6.324793
+  },
+  {
+    "Timestamp": "2022-08-21 21:00",
+    "Speed": 6.8,
+    "Latitude": 51.78111,
+    "Longitude": 6.32253
+  },
+  {
+    "Timestamp": "2022-08-21 20:57",
+    "Speed": 5.8,
+    "Latitude": 51.78647,
+    "Longitude": 6.32136
+  },
+  {
+    "Timestamp": "2022-08-21 20:44",
+    "Speed": 6.7,
+    "Latitude": 51.80646,
+    "Longitude": 6.300562
+  },
+  {
+    "Timestamp": "2022-08-21 20:33",
+    "Speed": 8,
+    "Latitude": 51.81913,
+    "Longitude": 6.268734
+  },
+  {
+    "Timestamp": "2022-08-21 19:53",
+    "Speed": 5.5,
+    "Latitude": 51.83881,
+    "Longitude": 6.170185
+  },
+  {
+    "Timestamp": "2022-08-21 19:50",
+    "Speed": 5.3,
+    "Latitude": 51.84057,
+    "Longitude": 6.165022
+  },
+  {
+    "Timestamp": "2022-08-21 19:48",
+    "Speed": 6.3,
+    "Latitude": 51.8425,
+    "Longitude": 6.158868
+  },
+  {
+    "Timestamp": "2022-08-21 19:30",
+    "Speed": 6.4,
+    "Latitude": 51.84797,
+    "Longitude": 6.112445
+  },
+  {
+    "Timestamp": "2022-08-21 19:28",
+    "Speed": 6.8,
+    "Latitude": 51.84814,
+    "Longitude": 6.105085
+  },
+  {
+    "Timestamp": "2022-08-21 19:24",
+    "Speed": 6.9,
+    "Latitude": 51.85019,
+    "Longitude": 6.094258
+  },
+  {
+    "Timestamp": "2022-08-21 19:22",
+    "Speed": 6.9,
+    "Latitude": 51.85281,
+    "Longitude": 6.087222
+  },
+  {
+    "Timestamp": "2022-08-21 19:19",
+    "Speed": 7,
+    "Latitude": 51.85583,
+    "Longitude": 6.081675
+  },
+  {
+    "Timestamp": "2022-08-21 19:17",
+    "Speed": 7.1,
+    "Latitude": 51.85958,
+    "Longitude": 6.076435
+  },
+  {
+    "Timestamp": "2022-08-21 19:14",
+    "Speed": 6.1,
+    "Latitude": 51.86248,
+    "Longitude": 6.071193
+  },
+  {
+    "Timestamp": "2022-08-21 19:12",
+    "Speed": 6.1,
+    "Latitude": 51.86483,
+    "Longitude": 6.065553
+  },
+  {
+    "Timestamp": "2022-08-21 19:09",
+    "Speed": 6,
+    "Latitude": 51.86695,
+    "Longitude": 6.059124
+  },
+  {
+    "Timestamp": "2022-08-21 19:06",
+    "Speed": 6,
+    "Latitude": 51.86871,
+    "Longitude": 6.052605
+  },
+  {
+    "Timestamp": "2022-08-21 19:04",
+    "Speed": 7.1,
+    "Latitude": 51.87032,
+    "Longitude": 6.045982
+  },
+  {
+    "Timestamp": "2022-08-21 19:02",
+    "Speed": 5.8,
+    "Latitude": 51.87165,
+    "Longitude": 6.038983
+  },
+  {
+    "Timestamp": "2022-08-21 18:59",
+    "Speed": 6.2,
+    "Latitude": 51.87331,
+    "Longitude": 6.03296
+  },
+  {
+    "Timestamp": "2022-08-21 18:57",
+    "Speed": 7,
+    "Latitude": 51.87595,
+    "Longitude": 6.027235
+  },
+  {
+    "Timestamp": "2022-08-21 18:54",
+    "Speed": 7.1,
+    "Latitude": 51.87907,
+    "Longitude": 6.021713
+  },
+  {
+    "Timestamp": "2022-08-21 18:52",
+    "Speed": 6.7,
+    "Latitude": 51.88123,
+    "Longitude": 6.015692
+  },
+  {
+    "Timestamp": "2022-08-21 18:50",
+    "Speed": 7.1,
+    "Latitude": 51.88173,
+    "Longitude": 6.007773
+  },
+  {
+    "Timestamp": "2022-08-21 18:46",
+    "Speed": 6.5,
+    "Latitude": 51.87948,
+    "Longitude": 5.999375
+  },
+  {
+    "Timestamp": "2022-08-21 18:44",
+    "Speed": 6.4,
+    "Latitude": 51.87623,
+    "Longitude": 5.993927
+  },
+  {
+    "Timestamp": "2022-08-21 18:41",
+    "Speed": 6.9,
+    "Latitude": 51.87223,
+    "Longitude": 5.989075
+  },
+  {
+    "Timestamp": "2022-08-21 18:39",
+    "Speed": 6.6,
+    "Latitude": 51.86789,
+    "Longitude": 5.985865
+  },
+  {
+    "Timestamp": "2022-08-21 18:36",
+    "Speed": 6.7,
+    "Latitude": 51.86363,
+    "Longitude": 5.983758
+  },
+  {
+    "Timestamp": "2022-08-21 18:34",
+    "Speed": 6.9,
+    "Latitude": 51.85933,
+    "Longitude": 5.981421
+  },
+  {
+    "Timestamp": "2022-08-21 18:31",
+    "Speed": 7,
+    "Latitude": 51.856,
+    "Longitude": 5.976488
+  },
+  {
+    "Timestamp": "2022-08-21 18:29",
+    "Speed": 7.2,
+    "Latitude": 51.85413,
+    "Longitude": 5.969295
+  },
+  {
+    "Timestamp": "2022-08-21 18:26",
+    "Speed": 7.1,
+    "Latitude": 51.85457,
+    "Longitude": 5.96079
+  },
+  {
+    "Timestamp": "2022-08-21 18:23",
+    "Speed": 6.8,
+    "Latitude": 51.85762,
+    "Longitude": 5.953053
+  },
+  {
+    "Timestamp": "2022-08-21 18:21",
+    "Speed": 7.8,
+    "Latitude": 51.86192,
+    "Longitude": 5.947622
+  },
+  {
+    "Timestamp": "2022-08-21 18:18",
+    "Speed": 7.4,
+    "Latitude": 51.86648,
+    "Longitude": 5.94344
+  },
+  {
+    "Timestamp": "2022-08-21 18:16",
+    "Speed": 6.8,
+    "Latitude": 51.86994,
+    "Longitude": 5.939372
+  },
+  {
+    "Timestamp": "2022-08-21 18:13",
+    "Speed": 7.2,
+    "Latitude": 51.87287,
+    "Longitude": 5.932518
+  },
+  {
+    "Timestamp": "2022-08-21 18:11",
+    "Speed": 6.9,
+    "Latitude": 51.87429,
+    "Longitude": 5.925601
+  },
+  {
+    "Timestamp": "2022-08-21 18:09",
+    "Speed": 6.6,
+    "Latitude": 51.87439,
+    "Longitude": 5.918577
+  },
+  {
+    "Timestamp": "2022-08-21 18:06",
+    "Speed": 7.1,
+    "Latitude": 51.87372,
+    "Longitude": 5.91177
+  },
+  {
+    "Timestamp": "2022-08-21 18:04",
+    "Speed": 7.4,
+    "Latitude": 51.87248,
+    "Longitude": 5.904312
+  },
+  {
+    "Timestamp": "2022-08-21 18:02",
+    "Speed": 6.5,
+    "Latitude": 51.87063,
+    "Longitude": 5.897318
+  },
+  {
+    "Timestamp": "2022-08-21 17:59",
+    "Speed": 5.8,
+    "Latitude": 51.86862,
+    "Longitude": 5.892238
+  },
+  {
+    "Timestamp": "2022-08-21 17:57",
+    "Speed": 6.6,
+    "Latitude": 51.86615,
+    "Longitude": 5.887935
+  },
+  {
+    "Timestamp": "2022-08-21 17:55",
+    "Speed": 9.5,
+    "Latitude": 51.8627,
+    "Longitude": 5.88313
+  },
+  {
+    "Timestamp": "2022-08-21 17:52",
+    "Speed": 6.7,
+    "Latitude": 51.85832,
+    "Longitude": 5.880655
+  },
+  {
+    "Timestamp": "2022-08-21 17:50",
+    "Speed": 6.4,
+    "Latitude": 51.8537,
+    "Longitude": 5.877316
+  },
+  {
+    "Timestamp": "2022-08-21 17:47",
+    "Speed": 3.4,
+    "Latitude": 51.85162,
+    "Longitude": 5.87295
+  },
+  {
+    "Timestamp": "2022-08-21 17:44",
+    "Speed": 2.1,
+    "Latitude": 51.8509,
+    "Longitude": 5.869272
+  },
+  {
+    "Timestamp": "2022-08-21 17:40",
+    "Speed": 3.9,
+    "Latitude": 51.85054,
+    "Longitude": 5.864733
+  },
+  {
+    "Timestamp": "2022-08-21 17:38",
+    "Speed": 1.6,
+    "Latitude": 51.85049,
+    "Longitude": 5.861262
+  },
+  {
+    "Timestamp": "2022-08-21 17:18",
+    "Speed": 0,
+    "Latitude": 51.85037,
+    "Longitude": 5.860892
+  },
+  {
+    "Timestamp": "2022-08-21 16:57",
+    "Speed": 0,
+    "Latitude": 51.85035,
+    "Longitude": 5.860892
+  },
+  {
+    "Timestamp": "2022-08-21 16:35",
+    "Speed": 0,
+    "Latitude": 51.85037,
+    "Longitude": 5.860882
+  },
+  {
+    "Timestamp": "2022-08-21 16:13",
+    "Speed": 0,
+    "Latitude": 51.85037,
+    "Longitude": 5.860895
+  },
+  {
+    "Timestamp": "2022-08-21 15:52",
+    "Speed": 0,
+    "Latitude": 51.85038,
+    "Longitude": 5.860912
+  },
+  {
+    "Timestamp": "2022-08-21 15:31",
+    "Speed": 0,
+    "Latitude": 51.85039,
+    "Longitude": 5.860892
+  },
+  {
+    "Timestamp": "2022-08-21 15:10",
+    "Speed": 0,
+    "Latitude": 51.85037,
+    "Longitude": 5.860902
+  },
+  {
+    "Timestamp": "2022-08-21 14:49",
+    "Speed": 0,
+    "Latitude": 51.85036,
+    "Longitude": 5.860903
+  },
+  {
+    "Timestamp": "2022-08-21 14:25",
+    "Speed": 0,
+    "Latitude": 51.85037,
+    "Longitude": 5.86091
+  },
+  {
+    "Timestamp": "2022-08-21 14:05",
+    "Speed": 0,
+    "Latitude": 51.85036,
+    "Longitude": 5.860897
+  },
+  {
+    "Timestamp": "2022-08-21 13:44",
+    "Speed": 0,
+    "Latitude": 51.85037,
+    "Longitude": 5.8609
+  },
+  {
+    "Timestamp": "2022-08-21 13:21",
+    "Speed": 0,
+    "Latitude": 51.85037,
+    "Longitude": 5.860895
+  },
+  {
+    "Timestamp": "2022-08-21 12:59",
+    "Speed": 0,
+    "Latitude": 51.85037,
+    "Longitude": 5.860892
+  },
+  {
+    "Timestamp": "2022-08-21 12:38",
+    "Speed": 0,
+    "Latitude": 51.85035,
+    "Longitude": 5.860885
+  },
+  {
+    "Timestamp": "2022-08-21 12:17",
+    "Speed": 0,
+    "Latitude": 51.85035,
+    "Longitude": 5.860893
+  },
+  {
+    "Timestamp": "2022-08-21 11:56",
+    "Speed": 0,
+    "Latitude": 51.85034,
+    "Longitude": 5.860895
+  },
+  {
+    "Timestamp": "2022-08-21 11:35",
+    "Speed": 0,
+    "Latitude": 51.85036,
+    "Longitude": 5.860888
+  },
+  {
+    "Timestamp": "2022-08-21 11:14",
+    "Speed": 0,
+    "Latitude": 51.85038,
+    "Longitude": 5.860915
+  },
+  {
+    "Timestamp": "2022-08-21 10:50",
+    "Speed": 0,
+    "Latitude": 51.85041,
+    "Longitude": 5.860882
+  },
+  {
+    "Timestamp": "2022-08-21 10:29",
+    "Speed": 0,
+    "Latitude": 51.85037,
+    "Longitude": 5.860912
+  },
+  {
+    "Timestamp": "2022-08-21 10:09",
+    "Speed": 0,
+    "Latitude": 51.85037,
+    "Longitude": 5.860883
+  },
+  {
+    "Timestamp": "2022-08-21 09:46",
+    "Speed": 0,
+    "Latitude": 51.85041,
+    "Longitude": 5.860873
+  },
+  {
+    "Timestamp": "2022-08-21 09:25",
+    "Speed": 0,
+    "Latitude": 51.85039,
+    "Longitude": 5.860885
+  },
+  {
+    "Timestamp": "2022-08-21 09:02",
+    "Speed": 0,
+    "Latitude": 51.85037,
+    "Longitude": 5.8609
+  },
+  {
+    "Timestamp": "2022-08-21 08:39",
+    "Speed": 0,
+    "Latitude": 51.85035,
+    "Longitude": 5.860892
+  },
+  {
+    "Timestamp": "2022-08-21 08:17",
+    "Speed": 0,
+    "Latitude": 51.85036,
+    "Longitude": 5.860885
+  },
+  {
+    "Timestamp": "2022-08-21 07:56",
+    "Speed": 0,
+    "Latitude": 51.85035,
+    "Longitude": 5.860892
+  },
+  {
+    "Timestamp": "2022-08-21 07:35",
+    "Speed": 0,
+    "Latitude": 51.85036,
+    "Longitude": 5.860905
+  },
+  {
+    "Timestamp": "2022-08-21 07:14",
+    "Speed": 0,
+    "Latitude": 51.85035,
+    "Longitude": 5.860887
+  },
+  {
+    "Timestamp": "2022-08-21 06:53",
+    "Speed": 0,
+    "Latitude": 51.85036,
+    "Longitude": 5.860892
+  },
+  {
+    "Timestamp": "2022-08-21 06:30",
+    "Speed": 0,
+    "Latitude": 51.85035,
+    "Longitude": 5.860902
+  },
+  {
+    "Timestamp": "2022-08-21 06:08",
+    "Speed": 0,
+    "Latitude": 51.85036,
+    "Longitude": 5.860913
+  },
+  {
+    "Timestamp": "2022-08-21 05:46",
+    "Speed": 0,
+    "Latitude": 51.85035,
+    "Longitude": 5.860902
+  },
+  {
+    "Timestamp": "2022-08-21 05:25",
+    "Speed": 0.1,
+    "Latitude": 51.8504,
+    "Longitude": 5.860675
+  },
+  {
+    "Timestamp": "2022-08-21 05:23",
+    "Speed": 0.5,
+    "Latitude": 51.85051,
+    "Longitude": 5.860532
+  },
+  {
+    "Timestamp": "2022-08-21 05:19",
+    "Speed": 3.3,
+    "Latitude": 51.85119,
+    "Longitude": 5.858205
+  },
+  {
+    "Timestamp": "2022-08-21 05:17",
+    "Speed": 5.1,
+    "Latitude": 51.85222,
+    "Longitude": 5.853905
+  },
+  {
+    "Timestamp": "2022-08-21 05:14",
+    "Speed": 6.2,
+    "Latitude": 51.85452,
+    "Longitude": 5.847538
+  },
+  {
+    "Timestamp": "2022-08-21 05:12",
+    "Speed": 6.1,
+    "Latitude": 51.85673,
+    "Longitude": 5.842788
+  },
+  {
+    "Timestamp": "2022-08-21 05:09",
+    "Speed": 6.1,
+    "Latitude": 51.85967,
+    "Longitude": 5.837224
+  },
+  {
+    "Timestamp": "2022-08-21 05:07",
+    "Speed": 6.9,
+    "Latitude": 51.86298,
+    "Longitude": 5.831252
+  },
+  {
+    "Timestamp": "2022-08-21 05:04",
+    "Speed": 6.3,
+    "Latitude": 51.86618,
+    "Longitude": 5.826263
+  },
+  {
+    "Timestamp": "2022-08-21 05:02",
+    "Speed": 6.5,
+    "Latitude": 51.86906,
+    "Longitude": 5.82122
+  },
+  {
+    "Timestamp": "2022-08-21 04:59",
+    "Speed": 6.1,
+    "Latitude": 51.87135,
+    "Longitude": 5.815762
+  },
+  {
+    "Timestamp": "2022-08-21 04:57",
+    "Speed": 6.7,
+    "Latitude": 51.87357,
+    "Longitude": 5.80993
+  },
+  {
+    "Timestamp": "2022-08-21 04:54",
+    "Speed": 6.6,
+    "Latitude": 51.87532,
+    "Longitude": 5.802888
+  },
+  {
+    "Timestamp": "2022-08-21 04:51",
+    "Speed": 6.8,
+    "Latitude": 51.87707,
+    "Longitude": 5.79344
+  },
+  {
+    "Timestamp": "2022-08-21 04:49",
+    "Speed": 5.8,
+    "Latitude": 51.87775,
+    "Longitude": 5.786988
+  },
+  {
+    "Timestamp": "2022-08-21 04:46",
+    "Speed": 6.6,
+    "Latitude": 51.87826,
+    "Longitude": 5.780375
+  },
+  {
+    "Timestamp": "2022-08-21 04:44",
+    "Speed": 6.5,
+    "Latitude": 51.87852,
+    "Longitude": 5.77297
+  },
+  {
+    "Timestamp": "2022-08-21 04:41",
+    "Speed": 6.3,
+    "Latitude": 51.87951,
+    "Longitude": 5.765775
+  },
+  {
+    "Timestamp": "2022-08-21 04:39",
+    "Speed": 6.4,
+    "Latitude": 51.88123,
+    "Longitude": 5.759122
+  },
+  {
+    "Timestamp": "2022-08-21 04:36",
+    "Speed": 6.2,
+    "Latitude": 51.88298,
+    "Longitude": 5.75332
+  },
+  {
+    "Timestamp": "2022-08-21 04:34",
+    "Speed": 6.1,
+    "Latitude": 51.88445,
+    "Longitude": 5.747272
+  },
+  {
+    "Timestamp": "2022-08-21 04:32",
+    "Speed": 6,
+    "Latitude": 51.8853,
+    "Longitude": 5.741027
+  },
+  {
+    "Timestamp": "2022-08-21 04:29",
+    "Speed": 6.2,
+    "Latitude": 51.88573,
+    "Longitude": 5.734145
+  },
+  {
+    "Timestamp": "2022-08-21 04:26",
+    "Speed": 6.7,
+    "Latitude": 51.88668,
+    "Longitude": 5.726228
+  },
+  {
+    "Timestamp": "2022-08-21 04:24",
+    "Speed": 6.4,
+    "Latitude": 51.88847,
+    "Longitude": 5.719923
+  },
+  {
+    "Timestamp": "2022-08-21 04:22",
+    "Speed": 6,
+    "Latitude": 51.89077,
+    "Longitude": 5.71371
+  },
+  {
+    "Timestamp": "2022-08-21 04:19",
+    "Speed": 5.6,
+    "Latitude": 51.89251,
+    "Longitude": 5.709317
+  },
+  {
+    "Timestamp": "2022-08-21 04:17",
+    "Speed": 6.1,
+    "Latitude": 51.89427,
+    "Longitude": 5.703375
+  },
+  {
+    "Timestamp": "2022-08-21 04:15",
+    "Speed": 6.4,
+    "Latitude": 51.89522,
+    "Longitude": 5.696983
+  },
+  {
+    "Timestamp": "2022-08-21 04:12",
+    "Speed": 5.8,
+    "Latitude": 51.89565,
+    "Longitude": 5.690748
+  },
+  {
+    "Timestamp": "2022-08-21 04:10",
+    "Speed": 6.3,
+    "Latitude": 51.8957,
+    "Longitude": 5.683908
+  },
+  {
+    "Timestamp": "2022-08-21 04:07",
+    "Speed": 6.4,
+    "Latitude": 51.89554,
+    "Longitude": 5.677382
+  },
+  {
+    "Timestamp": "2022-08-21 04:05",
+    "Speed": 6,
+    "Latitude": 51.89525,
+    "Longitude": 5.670838
+  },
+  {
+    "Timestamp": "2022-08-21 04:03",
+    "Speed": 6,
+    "Latitude": 51.89545,
+    "Longitude": 5.664287
+  },
+  {
+    "Timestamp": "2022-08-21 04:00",
+    "Speed": 6,
+    "Latitude": 51.89596,
+    "Longitude": 5.658008
+  },
+  {
+    "Timestamp": "2022-08-21 03:58",
+    "Speed": 6.1,
+    "Latitude": 51.89693,
+    "Longitude": 5.651818
+  },
+  {
+    "Timestamp": "2022-08-21 03:56",
+    "Speed": 5.8,
+    "Latitude": 51.89796,
+    "Longitude": 5.645892
+  },
+  {
+    "Timestamp": "2022-08-21 03:53",
+    "Speed": 6.3,
+    "Latitude": 51.89883,
+    "Longitude": 5.6399
+  },
+  {
+    "Timestamp": "2022-08-21 03:51",
+    "Speed": 6,
+    "Latitude": 51.89937,
+    "Longitude": 5.63277
+  },
+  {
+    "Timestamp": "2022-08-21 03:48",
+    "Speed": 5.9,
+    "Latitude": 51.89956,
+    "Longitude": 5.626438
+  },
+  {
+    "Timestamp": "2022-08-21 03:46",
+    "Speed": 6.3,
+    "Latitude": 51.89939,
+    "Longitude": 5.620077
+  },
+  {
+    "Timestamp": "2022-08-21 03:44",
+    "Speed": 6,
+    "Latitude": 51.89924,
+    "Longitude": 5.613852
+  },
+  {
+    "Timestamp": "2022-08-21 03:41",
+    "Speed": 6.4,
+    "Latitude": 51.89904,
+    "Longitude": 5.607262
+  },
+  {
+    "Timestamp": "2022-08-21 03:39",
+    "Speed": 7,
+    "Latitude": 51.89883,
+    "Longitude": 5.599705
+  },
+  {
+    "Timestamp": "2022-08-21 03:36",
+    "Speed": 6.6,
+    "Latitude": 51.89932,
+    "Longitude": 5.591367
+  },
+  {
+    "Timestamp": "2022-08-21 03:33",
+    "Speed": 6.6,
+    "Latitude": 51.90031,
+    "Longitude": 5.58367
+  },
+  {
+    "Timestamp": "2022-08-21 03:31",
+    "Speed": 6.2,
+    "Latitude": 51.9012,
+    "Longitude": 5.577052
+  },
+  {
+    "Timestamp": "2022-08-21 03:28",
+    "Speed": 6.1,
+    "Latitude": 51.90182,
+    "Longitude": 5.569782
+  },
+  {
+    "Timestamp": "2022-08-21 03:26",
+    "Speed": 6.7,
+    "Latitude": 51.90179,
+    "Longitude": 5.56284
+  },
+  {
+    "Timestamp": "2022-08-21 03:23",
+    "Speed": 6.8,
+    "Latitude": 51.90089,
+    "Longitude": 5.554777
+  },
+  {
+    "Timestamp": "2022-08-21 03:21",
+    "Speed": 7,
+    "Latitude": 51.89967,
+    "Longitude": 5.547373
+  },
+  {
+    "Timestamp": "2022-08-21 03:18",
+    "Speed": 6.4,
+    "Latitude": 51.89791,
+    "Longitude": 5.54034
+  },
+  {
+    "Timestamp": "2022-08-21 03:16",
+    "Speed": 6.3,
+    "Latitude": 51.89582,
+    "Longitude": 5.534672
+  },
+  {
+    "Timestamp": "2022-08-21 03:14",
+    "Speed": 6.2,
+    "Latitude": 51.89391,
+    "Longitude": 5.528555
+  },
+  {
+    "Timestamp": "2022-08-21 03:11",
+    "Speed": 5.1,
+    "Latitude": 51.89246,
+    "Longitude": 5.522463
+  },
+  {
+    "Timestamp": "2022-08-21 03:09",
+    "Speed": 6.3,
+    "Latitude": 51.8911,
+    "Longitude": 5.517182
+  },
+  {
+    "Timestamp": "2022-08-21 03:06",
+    "Speed": 6.5,
+    "Latitude": 51.89005,
+    "Longitude": 5.510183
+  },
+  {
+    "Timestamp": "2022-08-21 03:04",
+    "Speed": 5.9,
+    "Latitude": 51.88899,
+    "Longitude": 5.504008
+  },
+  {
+    "Timestamp": "2022-08-21 03:02",
+    "Speed": 7.4,
+    "Latitude": 51.8886,
+    "Longitude": 5.49729
+  },
+  {
+    "Timestamp": "2022-08-21 02:59",
+    "Speed": 6.6,
+    "Latitude": 51.88888,
+    "Longitude": 5.489408
+  },
+  {
+    "Timestamp": "2022-08-21 02:57",
+    "Speed": 6.4,
+    "Latitude": 51.88944,
+    "Longitude": 5.482623
+  },
+  {
+    "Timestamp": "2022-08-21 02:55",
+    "Speed": 6.3,
+    "Latitude": 51.88986,
+    "Longitude": 5.47624
+  },
+  {
+    "Timestamp": "2022-08-21 02:52",
+    "Speed": 6.6,
+    "Latitude": 51.88983,
+    "Longitude": 5.46961
+  },
+  {
+    "Timestamp": "2022-08-21 02:50",
+    "Speed": 6.5,
+    "Latitude": 51.88909,
+    "Longitude": 5.462787
+  },
+  {
+    "Timestamp": "2022-08-21 02:48",
+    "Speed": 6.7,
+    "Latitude": 51.88789,
+    "Longitude": 5.45606
+  },
+  {
+    "Timestamp": "2022-08-21 02:45",
+    "Speed": 7,
+    "Latitude": 51.88592,
+    "Longitude": 5.44914
+  },
+  {
+    "Timestamp": "2022-08-21 02:42",
+    "Speed": 7.1,
+    "Latitude": 51.88302,
+    "Longitude": 5.442263
+  },
+  {
+    "Timestamp": "2022-08-21 02:40",
+    "Speed": 6.7,
+    "Latitude": 51.87953,
+    "Longitude": 5.436685
+  },
+  {
+    "Timestamp": "2022-08-21 02:37",
+    "Speed": 5.7,
+    "Latitude": 51.87599,
+    "Longitude": 5.432312
+  },
+  {
+    "Timestamp": "2022-08-21 02:35",
+    "Speed": 6.4,
+    "Latitude": 51.87215,
+    "Longitude": 5.428435
+  },
+  {
+    "Timestamp": "2022-08-21 02:32",
+    "Speed": 6.6,
+    "Latitude": 51.86867,
+    "Longitude": 5.4246
+  },
+  {
+    "Timestamp": "2022-08-21 02:30",
+    "Speed": 6.5,
+    "Latitude": 51.86475,
+    "Longitude": 5.420982
+  },
+  {
+    "Timestamp": "2022-08-21 02:27",
+    "Speed": 6.3,
+    "Latitude": 51.86033,
+    "Longitude": 5.418682
+  },
+  {
+    "Timestamp": "2022-08-21 02:25",
+    "Speed": 5.8,
+    "Latitude": 51.85609,
+    "Longitude": 5.417343
+  },
+  {
+    "Timestamp": "2022-08-21 02:22",
+    "Speed": 6.7,
+    "Latitude": 51.85138,
+    "Longitude": 5.415642
+  },
+  {
+    "Timestamp": "2022-08-21 02:20",
+    "Speed": 7.1,
+    "Latitude": 51.84727,
+    "Longitude": 5.412909
+  },
+  {
+    "Timestamp": "2022-08-21 02:17",
+    "Speed": 6.9,
+    "Latitude": 51.84314,
+    "Longitude": 5.409055
+  },
+  {
+    "Timestamp": "2022-08-21 02:15",
+    "Speed": 6.8,
+    "Latitude": 51.83987,
+    "Longitude": 5.404465
+  },
+  {
+    "Timestamp": "2022-08-21 02:13",
+    "Speed": 6.8,
+    "Latitude": 51.83668,
+    "Longitude": 5.399543
+  },
+  {
+    "Timestamp": "2022-08-21 02:10",
+    "Speed": 7.7,
+    "Latitude": 51.83358,
+    "Longitude": 5.394145
+  },
+  {
+    "Timestamp": "2022-08-21 02:08",
+    "Speed": 8,
+    "Latitude": 51.83053,
+    "Longitude": 5.389087
+  },
+  {
+    "Timestamp": "2022-08-21 02:06",
+    "Speed": 8,
+    "Latitude": 51.82663,
+    "Longitude": 5.384077
+  },
+  {
+    "Timestamp": "2022-08-21 02:04",
+    "Speed": 7.8,
+    "Latitude": 51.82268,
+    "Longitude": 5.380022
+  },
+  {
+    "Timestamp": "2022-08-21 02:01",
+    "Speed": 7.8,
+    "Latitude": 51.81816,
+    "Longitude": 5.376397
+  },
+  {
+    "Timestamp": "2022-08-21 01:59",
+    "Speed": 7.5,
+    "Latitude": 51.81447,
+    "Longitude": 5.373281
+  },
+  {
+    "Timestamp": "2022-08-21 01:57",
+    "Speed": 7.4,
+    "Latitude": 51.81034,
+    "Longitude": 5.369205
+  },
+  {
+    "Timestamp": "2022-08-21 01:55",
+    "Speed": 7.4,
+    "Latitude": 51.80717,
+    "Longitude": 5.364312
+  },
+  {
+    "Timestamp": "2022-08-21 01:53",
+    "Speed": 7.4,
+    "Latitude": 51.80478,
+    "Longitude": 5.358307
+  },
+  {
+    "Timestamp": "2022-08-21 01:50",
+    "Speed": 7.3,
+    "Latitude": 51.80402,
+    "Longitude": 5.350787
+  },
+  {
+    "Timestamp": "2022-08-21 01:48",
+    "Speed": 7.4,
+    "Latitude": 51.8049,
+    "Longitude": 5.343837
+  },
+  {
+    "Timestamp": "2022-08-21 01:46",
+    "Speed": 7.6,
+    "Latitude": 51.80752,
+    "Longitude": 5.337353
+  },
+  {
+    "Timestamp": "2022-08-21 01:44",
+    "Speed": 7.8,
+    "Latitude": 51.81077,
+    "Longitude": 5.332808
+  },
+  {
+    "Timestamp": "2022-08-21 01:42",
+    "Speed": 7.7,
+    "Latitude": 51.8148,
+    "Longitude": 5.327971
+  },
+  {
+    "Timestamp": "2022-08-21 01:39",
+    "Speed": 7.6,
+    "Latitude": 51.81831,
+    "Longitude": 5.32344
+  },
+  {
+    "Timestamp": "2022-08-21 01:37",
+    "Speed": 7.6,
+    "Latitude": 51.82147,
+    "Longitude": 5.317395
+  },
+  {
+    "Timestamp": "2022-08-21 01:35",
+    "Speed": 8,
+    "Latitude": 51.82352,
+    "Longitude": 5.309938
+  },
+  {
+    "Timestamp": "2022-08-21 01:32",
+    "Speed": 7.7,
+    "Latitude": 51.82409,
+    "Longitude": 5.301298
+  },
+  {
+    "Timestamp": "2022-08-21 01:30",
+    "Speed": 7.8,
+    "Latitude": 51.82354,
+    "Longitude": 5.293193
+  },
+  {
+    "Timestamp": "2022-08-21 01:27",
+    "Speed": 8.5,
+    "Latitude": 51.82125,
+    "Longitude": 5.282957
+  },
+  {
+    "Timestamp": "2022-08-21 01:25",
+    "Speed": 8.7,
+    "Latitude": 51.81949,
+    "Longitude": 5.274581
+  },
+  {
+    "Timestamp": "2022-08-21 01:22",
+    "Speed": 8.6,
+    "Latitude": 51.81839,
+    "Longitude": 5.266198
+  },
+  {
+    "Timestamp": "2022-08-21 01:20",
+    "Speed": 8.7,
+    "Latitude": 51.81777,
+    "Longitude": 5.256715
+  },
+  {
+    "Timestamp": "2022-08-21 01:18",
+    "Speed": 7.6,
+    "Latitude": 51.81741,
+    "Longitude": 5.248291
+  },
+  {
+    "Timestamp": "2022-08-21 01:15",
+    "Speed": 8.6,
+    "Latitude": 51.8158,
+    "Longitude": 5.240871
+  },
+  {
+    "Timestamp": "2022-08-21 01:13",
+    "Speed": 8.9,
+    "Latitude": 51.81367,
+    "Longitude": 5.233218
+  },
+  {
+    "Timestamp": "2022-08-21 01:11",
+    "Speed": 8.6,
+    "Latitude": 51.8117,
+    "Longitude": 5.224107
+  },
+  {
+    "Timestamp": "2022-08-21 01:09",
+    "Speed": 8.4,
+    "Latitude": 51.81011,
+    "Longitude": 5.216317
+  },
+  {
+    "Timestamp": "2022-08-21 01:06",
+    "Speed": 8.7,
+    "Latitude": 51.80939,
+    "Longitude": 5.208202
+  },
+  {
+    "Timestamp": "2022-08-21 01:04",
+    "Speed": 8.7,
+    "Latitude": 51.8102,
+    "Longitude": 5.198645
+  },
+  {
+    "Timestamp": "2022-08-21 01:02",
+    "Speed": 9,
+    "Latitude": 51.81213,
+    "Longitude": 5.190615
+  },
+  {
+    "Timestamp": "2022-08-21 00:59",
+    "Speed": 8.5,
+    "Latitude": 51.81485,
+    "Longitude": 5.181863
+  },
+  {
+    "Timestamp": "2022-08-21 00:57",
+    "Speed": 8.7,
+    "Latitude": 51.81669,
+    "Longitude": 5.174237
+  },
+  {
+    "Timestamp": "2022-08-21 00:55",
+    "Speed": 8.8,
+    "Latitude": 51.81697,
+    "Longitude": 5.165113
+  },
+  {
+    "Timestamp": "2022-08-21 00:53",
+    "Speed": 8.9,
+    "Latitude": 51.81601,
+    "Longitude": 5.156637
+  },
+  {
+    "Timestamp": "2022-08-21 00:50",
+    "Speed": 8.9,
+    "Latitude": 51.81425,
+    "Longitude": 5.14714
+  },
+  {
+    "Timestamp": "2022-08-21 00:48",
+    "Speed": 9.2,
+    "Latitude": 51.81341,
+    "Longitude": 5.138528
+  },
+  {
+    "Timestamp": "2022-08-21 00:45",
+    "Speed": 9.2,
+    "Latitude": 51.81438,
+    "Longitude": 5.1283
+  },
+  {
+    "Timestamp": "2022-08-21 00:43",
+    "Speed": 9,
+    "Latitude": 51.81679,
+    "Longitude": 5.119612
+  },
+  {
+    "Timestamp": "2022-08-21 00:41",
+    "Speed": 9.3,
+    "Latitude": 51.81974,
+    "Longitude": 5.112113
+  },
+  {
+    "Timestamp": "2022-08-21 00:38",
+    "Speed": 9.2,
+    "Latitude": 51.82329,
+    "Longitude": 5.103508
+  },
+  {
+    "Timestamp": "2022-08-21 00:36",
+    "Speed": 9,
+    "Latitude": 51.82591,
+    "Longitude": 5.094244
+  },
+  {
+    "Timestamp": "2022-08-21 00:33",
+    "Speed": 9.1,
+    "Latitude": 51.82673,
+    "Longitude": 5.084203
+  },
+  {
+    "Timestamp": "2022-08-21 00:31",
+    "Speed": 9.3,
+    "Latitude": 51.82563,
+    "Longitude": 5.07485
+  },
+  {
+    "Timestamp": "2022-08-21 00:29",
+    "Speed": 9.4,
+    "Latitude": 51.82331,
+    "Longitude": 5.066679
+  },
+  {
+    "Timestamp": "2022-08-21 00:26",
+    "Speed": 9.4,
+    "Latitude": 51.81964,
+    "Longitude": 5.057148
+  },
+  {
+    "Timestamp": "2022-08-21 00:24",
+    "Speed": 9.6,
+    "Latitude": 51.81758,
+    "Longitude": 5.0486
+  },
+  {
+    "Timestamp": "2022-08-21 00:22",
+    "Speed": 9.5,
+    "Latitude": 51.81675,
+    "Longitude": 5.03809
+  },
+  {
+    "Timestamp": "2022-08-21 00:19",
+    "Speed": 9.7,
+    "Latitude": 51.81812,
+    "Longitude": 5.02743
+  },
+  {
+    "Timestamp": "2022-08-21 00:16",
+    "Speed": 9.8,
+    "Latitude": 51.81999,
+    "Longitude": 5.016315
+  },
+  {
+    "Timestamp": "2022-08-21 00:14",
+    "Speed": 9.5,
+    "Latitude": 51.821,
+    "Longitude": 5.005635
+  },
+  {
+    "Timestamp": "2022-08-21 00:12",
+    "Speed": 9.9,
+    "Latitude": 51.82069,
+    "Longitude": 4.996137
+  },
+  {
+    "Timestamp": "2022-08-21 00:09",
+    "Speed": 10,
+    "Latitude": 51.82109,
+    "Longitude": 4.984975
+  },
+  {
+    "Timestamp": "2022-08-21 00:07",
+    "Speed": 10.1,
+    "Latitude": 51.82225,
+    "Longitude": 4.975395
+  },
+  {
+    "Timestamp": "2022-08-21 00:05",
+    "Speed": 9.9,
+    "Latitude": 51.82397,
+    "Longitude": 4.96452
+  },
+  {
+    "Timestamp": "2022-08-21 00:02",
+    "Speed": 10,
+    "Latitude": 51.82523,
+    "Longitude": 4.95439
+  },
+  {
+    "Timestamp": "2022-08-21 00:00",
+    "Speed": 10,
+    "Latitude": 51.82646,
+    "Longitude": 4.943402
+  },
+  {
+    "Timestamp": "2022-08-20 23:57",
+    "Speed": 9.8,
+    "Latitude": 51.82795,
+    "Longitude": 4.932467
+  },
+  {
+    "Timestamp": "2022-08-20 23:55",
+    "Speed": 9.8,
+    "Latitude": 51.82817,
+    "Longitude": 4.921705
+  },
+  {
+    "Timestamp": "2022-08-20 23:52",
+    "Speed": 10,
+    "Latitude": 51.82629,
+    "Longitude": 4.911053
+  },
+  {
+    "Timestamp": "2022-08-20 23:50",
+    "Speed": 10.2,
+    "Latitude": 51.82302,
+    "Longitude": 4.900953
+  },
+  {
+    "Timestamp": "2022-08-20 23:48",
+    "Speed": 10,
+    "Latitude": 51.81981,
+    "Longitude": 4.892682
+  },
+  {
+    "Timestamp": "2022-08-20 23:45",
+    "Speed": 9.2,
+    "Latitude": 51.8158,
+    "Longitude": 4.884115
+  },
+  {
+    "Timestamp": "2022-08-20 23:43",
+    "Speed": 9.3,
+    "Latitude": 51.8119,
+    "Longitude": 4.877632
+  },
+  {
+    "Timestamp": "2022-08-20 23:40",
+    "Speed": 9.3,
+    "Latitude": 51.80737,
+    "Longitude": 4.870245
+  },
+  {
+    "Timestamp": "2022-08-20 23:38",
+    "Speed": 9.4,
+    "Latitude": 51.80346,
+    "Longitude": 4.86268
+  },
+  {
+    "Timestamp": "2022-08-20 23:36",
+    "Speed": 9.2,
+    "Latitude": 51.80024,
+    "Longitude": 4.853583
+  },
+  {
+    "Timestamp": "2022-08-20 23:33",
+    "Speed": 9.2,
+    "Latitude": 51.79836,
+    "Longitude": 4.844692
+  },
+  {
+    "Timestamp": "2022-08-20 23:31",
+    "Speed": 9.1,
+    "Latitude": 51.79755,
+    "Longitude": 4.835098
+  },
+  {
+    "Timestamp": "2022-08-20 23:29",
+    "Speed": 9.3,
+    "Latitude": 51.7979,
+    "Longitude": 4.826282
+  },
+  {
+    "Timestamp": "2022-08-20 23:26",
+    "Speed": 9.1,
+    "Latitude": 51.79977,
+    "Longitude": 4.817125
+  },
+  {
+    "Timestamp": "2022-08-20 23:24",
+    "Speed": 9.1,
+    "Latitude": 51.80079,
+    "Longitude": 4.80779
+  },
+  {
+    "Timestamp": "2022-08-20 23:22",
+    "Speed": 9.2,
+    "Latitude": 51.80037,
+    "Longitude": 4.798244
+  },
+  {
+    "Timestamp": "2022-08-20 23:19",
+    "Speed": 9.5,
+    "Latitude": 51.79845,
+    "Longitude": 4.788143
+  },
+  {
+    "Timestamp": "2022-08-20 23:17",
+    "Speed": 9.3,
+    "Latitude": 51.79608,
+    "Longitude": 4.779099
+  },
+  {
+    "Timestamp": "2022-08-20 23:14",
+    "Speed": 9.5,
+    "Latitude": 51.79229,
+    "Longitude": 4.770512
+  },
+  {
+    "Timestamp": "2022-08-20 23:12",
+    "Speed": 9.6,
+    "Latitude": 51.78857,
+    "Longitude": 4.76352
+  },
+  {
+    "Timestamp": "2022-08-20 23:10",
+    "Speed": 9.3,
+    "Latitude": 51.78455,
+    "Longitude": 4.757068
+  },
+  {
+    "Timestamp": "2022-08-20 23:08",
+    "Speed": 9.4,
+    "Latitude": 51.7791,
+    "Longitude": 4.751438
+  },
+  {
+    "Timestamp": "2022-08-20 23:05",
+    "Speed": 9.7,
+    "Latitude": 51.77327,
+    "Longitude": 4.748255
+  },
+  {
+    "Timestamp": "2022-08-20 23:03",
+    "Speed": 9.8,
+    "Latitude": 51.76714,
+    "Longitude": 4.745632
+  },
+  {
+    "Timestamp": "2022-08-20 23:01",
+    "Speed": 9.4,
+    "Latitude": 51.76107,
+    "Longitude": 4.74284
+  },
+  {
+    "Timestamp": "2022-08-20 22:58",
+    "Speed": 9.8,
+    "Latitude": 51.75568,
+    "Longitude": 4.737852
+  },
+  {
+    "Timestamp": "2022-08-20 22:56",
+    "Speed": 9.9,
+    "Latitude": 51.75007,
+    "Longitude": 4.731682
+  },
+  {
+    "Timestamp": "2022-08-20 22:53",
+    "Speed": 9.9,
+    "Latitude": 51.74488,
+    "Longitude": 4.724462
+  },
+  {
+    "Timestamp": "2022-08-20 22:51",
+    "Speed": 10,
+    "Latitude": 51.74085,
+    "Longitude": 4.717323
+  },
+  {
+    "Timestamp": "2022-08-20 22:49",
+    "Speed": 10.1,
+    "Latitude": 51.73713,
+    "Longitude": 4.709635
+  },
+  {
+    "Timestamp": "2022-08-20 22:47",
+    "Speed": 10,
+    "Latitude": 51.73321,
+    "Longitude": 4.701277
+  },
+  {
+    "Timestamp": "2022-08-20 22:44",
+    "Speed": 10.1,
+    "Latitude": 51.72985,
+    "Longitude": 4.69243
+  },
+  {
+    "Timestamp": "2022-08-20 22:42",
+    "Speed": 10.2,
+    "Latitude": 51.7268,
+    "Longitude": 4.683145
+  },
+  {
+    "Timestamp": "2022-08-20 22:40",
+    "Speed": 10.4,
+    "Latitude": 51.72368,
+    "Longitude": 4.673535
+  },
+  {
+    "Timestamp": "2022-08-20 22:37",
+    "Speed": 10.3,
+    "Latitude": 51.72155,
+    "Longitude": 4.66324
+  },
+  {
+    "Timestamp": "2022-08-20 22:35",
+    "Speed": 10.5,
+    "Latitude": 51.71995,
+    "Longitude": 4.652888
+  },
+  {
+    "Timestamp": "2022-08-20 22:33",
+    "Speed": 10.6,
+    "Latitude": 51.71805,
+    "Longitude": 4.642205
+  },
+  {
+    "Timestamp": "2022-08-20 22:30",
+    "Speed": 10.7,
+    "Latitude": 51.71567,
+    "Longitude": 4.631043
+  },
+  {
+    "Timestamp": "2022-08-20 22:27",
+    "Speed": 10.4,
+    "Latitude": 51.71352,
+    "Longitude": 4.619029
+  },
+  {
+    "Timestamp": "2022-08-20 22:25",
+    "Speed": 10.9,
+    "Latitude": 51.71139,
+    "Longitude": 4.606722
+  },
+  {
+    "Timestamp": "2022-08-20 22:22",
+    "Speed": 10.5,
+    "Latitude": 51.70811,
+    "Longitude": 4.595833
+  },
+  {
+    "Timestamp": "2022-08-20 22:20",
+    "Speed": 10,
+    "Latitude": 51.70572,
+    "Longitude": 4.585337
+  },
+  {
+    "Timestamp": "2022-08-20 22:17",
+    "Speed": 10,
+    "Latitude": 51.70368,
+    "Longitude": 4.57542
+  },
+  {
+    "Timestamp": "2022-08-20 22:15",
+    "Speed": 10.1,
+    "Latitude": 51.70177,
+    "Longitude": 4.566168
+  },
+  {
+    "Timestamp": "2022-08-20 22:13",
+    "Speed": 10.1,
+    "Latitude": 51.69987,
+    "Longitude": 4.556901
+  },
+  {
+    "Timestamp": "2022-08-20 22:11",
+    "Speed": 10.4,
+    "Latitude": 51.69794,
+    "Longitude": 4.546717
+  },
+  {
+    "Timestamp": "2022-08-20 22:09",
+    "Speed": 10.6,
+    "Latitude": 51.69638,
+    "Longitude": 4.537718
+  },
+  {
+    "Timestamp": "2022-08-20 22:06",
+    "Speed": 10.6,
+    "Latitude": 51.695,
+    "Longitude": 4.526958
+  },
+  {
+    "Timestamp": "2022-08-20 22:04",
+    "Speed": 10.6,
+    "Latitude": 51.69389,
+    "Longitude": 4.516098
+  },
+  {
+    "Timestamp": "2022-08-20 22:02",
+    "Speed": 10.6,
+    "Latitude": 51.69328,
+    "Longitude": 4.505993
+  },
+  {
+    "Timestamp": "2022-08-20 21:59",
+    "Speed": 10.7,
+    "Latitude": 51.69333,
+    "Longitude": 4.490218
+  },
+  {
+    "Timestamp": "2022-08-20 21:56",
+    "Speed": 10.6,
+    "Latitude": 51.69411,
+    "Longitude": 4.479907
+  },
+  {
+    "Timestamp": "2022-08-20 21:54",
+    "Speed": 10.7,
+    "Latitude": 51.69525,
+    "Longitude": 4.469883
+  },
+  {
+    "Timestamp": "2022-08-20 21:52",
+    "Speed": 10.7,
+    "Latitude": 51.6965,
+    "Longitude": 4.459752
+  },
+  {
+    "Timestamp": "2022-08-20 21:50",
+    "Speed": 10.7,
+    "Latitude": 51.69803,
+    "Longitude": 4.448822
+  },
+  {
+    "Timestamp": "2022-08-20 21:47",
+    "Speed": 10.3,
+    "Latitude": 51.69942,
+    "Longitude": 4.438189
+  },
+  {
+    "Timestamp": "2022-08-20 21:45",
+    "Speed": 8.5,
+    "Latitude": 51.69917,
+    "Longitude": 4.428223
+  },
+  {
+    "Timestamp": "2022-08-20 21:43",
+    "Speed": 7.7,
+    "Latitude": 51.69651,
+    "Longitude": 4.422197
+  },
+  {
+    "Timestamp": "2022-08-20 21:41",
+    "Speed": 6.5,
+    "Latitude": 51.69354,
+    "Longitude": 4.416867
+  },
+  {
+    "Timestamp": "2022-08-20 21:39",
+    "Speed": 4.1,
+    "Latitude": 51.69176,
+    "Longitude": 4.413434
+  },
+  {
+    "Timestamp": "2022-08-20 21:37",
+    "Speed": 2.5,
+    "Latitude": 51.69039,
+    "Longitude": 4.410915
+  },
+  {
+    "Timestamp": "2022-08-20 21:32",
+    "Speed": 0,
+    "Latitude": 51.69001,
+    "Longitude": 4.410275
+  },
+  {
+    "Timestamp": "2022-08-20 21:23",
+    "Speed": 2.9,
+    "Latitude": 51.68901,
+    "Longitude": 4.408398
+  },
+  {
+    "Timestamp": "2022-08-20 21:21",
+    "Speed": 3.2,
+    "Latitude": 51.68786,
+    "Longitude": 4.406273
+  },
+  {
+    "Timestamp": "2022-08-20 21:19",
+    "Speed": 3.1,
+    "Latitude": 51.68667,
+    "Longitude": 4.403947
+  },
+  {
+    "Timestamp": "2022-08-20 21:17",
+    "Speed": 4.6,
+    "Latitude": 51.68548,
+    "Longitude": 4.400955
+  },
+  {
+    "Timestamp": "2022-08-20 21:15",
+    "Speed": 6.1,
+    "Latitude": 51.68356,
+    "Longitude": 4.396232
+  },
+  {
+    "Timestamp": "2022-08-20 21:12",
+    "Speed": 8.5,
+    "Latitude": 51.68035,
+    "Longitude": 4.39124
+  },
+  {
+    "Timestamp": "2022-08-20 21:10",
+    "Speed": 10,
+    "Latitude": 51.67611,
+    "Longitude": 4.386535
+  },
+  {
+    "Timestamp": "2022-08-20 21:08",
+    "Speed": 11.1,
+    "Latitude": 51.67086,
+    "Longitude": 4.380628
+  },
+  {
+    "Timestamp": "2022-08-20 21:06",
+    "Speed": 11.2,
+    "Latitude": 51.66603,
+    "Longitude": 4.372046
+  },
+  {
+    "Timestamp": "2022-08-20 21:04",
+    "Speed": 11.2,
+    "Latitude": 51.66255,
+    "Longitude": 4.362768
+  },
+  {
+    "Timestamp": "2022-08-20 21:02",
+    "Speed": 11.4,
+    "Latitude": 51.66033,
+    "Longitude": 4.353295
+  },
+  {
+    "Timestamp": "2022-08-20 21:00",
+    "Speed": 11.4,
+    "Latitude": 51.65891,
+    "Longitude": 4.342447
+  },
+  {
+    "Timestamp": "2022-08-20 20:57",
+    "Speed": 11.3,
+    "Latitude": 51.65781,
+    "Longitude": 4.331745
+  },
+  {
+    "Timestamp": "2022-08-20 20:55",
+    "Speed": 11.3,
+    "Latitude": 51.65602,
+    "Longitude": 4.318735
+  },
+  {
+    "Timestamp": "2022-08-20 20:53",
+    "Speed": 11.3,
+    "Latitude": 51.65429,
+    "Longitude": 4.309003
+  },
+  {
+    "Timestamp": "2022-08-20 20:50",
+    "Speed": 11.4,
+    "Latitude": 51.65155,
+    "Longitude": 4.297127
+  },
+  {
+    "Timestamp": "2022-08-20 20:48",
+    "Speed": 11.4,
+    "Latitude": 51.648,
+    "Longitude": 4.285733
+  },
+  {
+    "Timestamp": "2022-08-20 20:45",
+    "Speed": 11.4,
+    "Latitude": 51.64454,
+    "Longitude": 4.274392
+  },
+  {
+    "Timestamp": "2022-08-20 20:43",
+    "Speed": 11.5,
+    "Latitude": 51.64113,
+    "Longitude": 4.262833
+  },
+  {
+    "Timestamp": "2022-08-20 20:40",
+    "Speed": 11.5,
+    "Latitude": 51.63735,
+    "Longitude": 4.249748
+  },
+  {
+    "Timestamp": "2022-08-20 20:38",
+    "Speed": 11.2,
+    "Latitude": 51.63415,
+    "Longitude": 4.239138
+  },
+  {
+    "Timestamp": "2022-08-20 20:35",
+    "Speed": 11.2,
+    "Latitude": 51.63112,
+    "Longitude": 4.228415
+  },
+  {
+    "Timestamp": "2022-08-20 20:33",
+    "Speed": 10.8,
+    "Latitude": 51.6285,
+    "Longitude": 4.217822
+  },
+  {
+    "Timestamp": "2022-08-20 20:31",
+    "Speed": 10.8,
+    "Latitude": 51.62502,
+    "Longitude": 4.20796
+  },
+  {
+    "Timestamp": "2022-08-20 20:28",
+    "Speed": 11,
+    "Latitude": 51.62001,
+    "Longitude": 4.200177
+  },
+  {
+    "Timestamp": "2022-08-20 20:26",
+    "Speed": 10.5,
+    "Latitude": 51.61277,
+    "Longitude": 4.193933
+  },
+  {
+    "Timestamp": "2022-08-20 20:23",
+    "Speed": 10.9,
+    "Latitude": 51.60556,
+    "Longitude": 4.1907
+  },
+  {
+    "Timestamp": "2022-08-20 20:19",
+    "Speed": 10.8,
+    "Latitude": 51.59423,
+    "Longitude": 4.192513
+  },
+  {
+    "Timestamp": "2022-08-20 20:17",
+    "Speed": 11.1,
+    "Latitude": 51.58747,
+    "Longitude": 4.197673
+  },
+  {
+    "Timestamp": "2022-08-20 20:14",
+    "Speed": 11.1,
+    "Latitude": 51.58062,
+    "Longitude": 4.206267
+  },
+  {
+    "Timestamp": "2022-08-20 20:11",
+    "Speed": 11.1,
+    "Latitude": 51.57391,
+    "Longitude": 4.21507
+  },
+  {
+    "Timestamp": "2022-08-20 20:09",
+    "Speed": 11.3,
+    "Latitude": 51.56796,
+    "Longitude": 4.222905
+  },
+  {
+    "Timestamp": "2022-08-20 20:06",
+    "Speed": 11,
+    "Latitude": 51.56141,
+    "Longitude": 4.230622
+  },
+  {
+    "Timestamp": "2022-08-20 20:04",
+    "Speed": 10.6,
+    "Latitude": 51.55509,
+    "Longitude": 4.234977
+  },
+  {
+    "Timestamp": "2022-08-20 20:01",
+    "Speed": 11,
+    "Latitude": 51.5481,
+    "Longitude": 4.236187
+  },
+  {
+    "Timestamp": "2022-08-20 19:58",
+    "Speed": 11.1,
+    "Latitude": 51.53925,
+    "Longitude": 4.234133
+  },
+  {
+    "Timestamp": "2022-08-20 19:55",
+    "Speed": 11.2,
+    "Latitude": 51.52996,
+    "Longitude": 4.22916
+  },
+  {
+    "Timestamp": "2022-08-20 19:53",
+    "Speed": 11.1,
+    "Latitude": 51.5242,
+    "Longitude": 4.225915
+  },
+  {
+    "Timestamp": "2022-08-20 19:50",
+    "Speed": 10.6,
+    "Latitude": 51.5145,
+    "Longitude": 4.220567
+  },
+  {
+    "Timestamp": "2022-08-20 19:47",
+    "Speed": 10.6,
+    "Latitude": 51.50779,
+    "Longitude": 4.219382
+  },
+  {
+    "Timestamp": "2022-08-20 19:45",
+    "Speed": 11.2,
+    "Latitude": 51.50021,
+    "Longitude": 4.220362
+  },
+  {
+    "Timestamp": "2022-08-20 19:42",
+    "Speed": 10.8,
+    "Latitude": 51.49118,
+    "Longitude": 4.222405
+  },
+  {
+    "Timestamp": "2022-08-20 19:39",
+    "Speed": 10.9,
+    "Latitude": 51.48332,
+    "Longitude": 4.22412
+  },
+  {
+    "Timestamp": "2022-08-20 19:37",
+    "Speed": 11.2,
+    "Latitude": 51.47618,
+    "Longitude": 4.225672
+  },
+  {
+    "Timestamp": "2022-08-20 19:35",
+    "Speed": 11,
+    "Latitude": 51.47007,
+    "Longitude": 4.226972
+  },
+  {
+    "Timestamp": "2022-08-20 19:32",
+    "Speed": 11,
+    "Latitude": 51.46253,
+    "Longitude": 4.22826
+  },
+  {
+    "Timestamp": "2022-08-20 19:30",
+    "Speed": 10.1,
+    "Latitude": 51.45553,
+    "Longitude": 4.229537
+  },
+  {
+    "Timestamp": "2022-08-20 19:23",
+    "Speed": 0.5,
+    "Latitude": 51.44871,
+    "Longitude": 4.230943
+  },
+  {
+    "Timestamp": "2022-08-20 19:18",
+    "Speed": 0.1,
+    "Latitude": 51.44866,
+    "Longitude": 4.230923
+  },
+  {
+    "Timestamp": "2022-08-20 19:13",
+    "Speed": 2.4,
+    "Latitude": 51.44841,
+    "Longitude": 4.230982
+  },
+  {
+    "Timestamp": "2022-08-20 19:08",
+    "Speed": 6.8,
+    "Latitude": 51.44181,
+    "Longitude": 4.232292
+  },
+  {
+    "Timestamp": "2022-08-20 19:05",
+    "Speed": 9,
+    "Latitude": 51.43568,
+    "Longitude": 4.2333
+  },
+  {
+    "Timestamp": "2022-08-20 19:03",
+    "Speed": 9.6,
+    "Latitude": 51.43044,
+    "Longitude": 4.234365
+  },
+  {
+    "Timestamp": "2022-08-20 18:59",
+    "Speed": 9.6,
+    "Latitude": 51.42082,
+    "Longitude": 4.236072
+  },
+  {
+    "Timestamp": "2022-08-20 18:46",
+    "Speed": 9.2,
+    "Latitude": 51.38664,
+    "Longitude": 4.247324
+  },
+  {
+    "Timestamp": "2022-08-20 18:40",
+    "Speed": 9.4,
+    "Latitude": 51.37616,
+    "Longitude": 4.266207
+  },
+  {
+    "Timestamp": "2022-08-20 18:38",
+    "Speed": 9.6,
+    "Latitude": 51.37463,
+    "Longitude": 4.274138
+  },
+  {
+    "Timestamp": "2022-08-20 18:35",
+    "Speed": 9.5,
+    "Latitude": 51.37405,
+    "Longitude": 4.286149
+  },
+  {
+    "Timestamp": "2022-08-20 18:33",
+    "Speed": 6.8,
+    "Latitude": 51.37318,
+    "Longitude": 4.295688
+  },
+  {
+    "Timestamp": "2022-08-20 18:29",
+    "Speed": 8,
+    "Latitude": 51.36829,
+    "Longitude": 4.300455
+  },
+  {
+    "Timestamp": "2022-08-20 18:27",
+    "Speed": 9.7,
+    "Latitude": 51.36191,
+    "Longitude": 4.300931
+  },
+  {
+    "Timestamp": "2022-08-20 18:23",
+    "Speed": 9.9,
+    "Latitude": 51.35253,
+    "Longitude": 4.301095
+  },
+  {
+    "Timestamp": "2022-08-20 18:21",
+    "Speed": 10,
+    "Latitude": 51.34661,
+    "Longitude": 4.301113
+  },
+  {
+    "Timestamp": "2022-08-20 18:17",
+    "Speed": 10.2,
+    "Latitude": 51.33521,
+    "Longitude": 4.303782
+  },
+  {
+    "Timestamp": "2022-08-20 18:15",
+    "Speed": 10.2,
+    "Latitude": 51.32857,
+    "Longitude": 4.307848
+  },
+  {
+    "Timestamp": "2022-08-20 18:10",
+    "Speed": 10.3,
+    "Latitude": 51.31679,
+    "Longitude": 4.315902
+  },
+  {
+    "Timestamp": "2022-08-20 18:08",
+    "Speed": 10.3,
+    "Latitude": 51.31035,
+    "Longitude": 4.320853
+  },
+  {
+    "Timestamp": "2022-08-20 18:04",
+    "Speed": 10.3,
+    "Latitude": 51.30193,
+    "Longitude": 4.327693
+  },
+  {
+    "Timestamp": "2022-08-20 18:01",
+    "Speed": 10.3,
+    "Latitude": 51.29295,
+    "Longitude": 4.334313
+  },
+  {
+    "Timestamp": "2022-08-20 17:58",
+    "Speed": 10.1,
+    "Latitude": 51.28521,
+    "Longitude": 4.339898
+  },
+  {
+    "Timestamp": "2022-08-20 17:56",
+    "Speed": 9.2,
+    "Latitude": 51.27965,
+    "Longitude": 4.342847
+  },
+  {
+    "Timestamp": "2022-08-20 17:53",
+    "Speed": 5.5,
+    "Latitude": 51.27507,
+    "Longitude": 4.33968
+  },
+  {
+    "Timestamp": "2022-08-20 17:51",
+    "Speed": 4.7,
+    "Latitude": 51.27606,
+    "Longitude": 4.335623
+  },
+  {
+    "Timestamp": "2022-08-20 17:48",
+    "Speed": 0.6,
+    "Latitude": 51.27777,
+    "Longitude": 4.333193
+  },
+  {
+    "Timestamp": "2022-08-20 17:38",
+    "Speed": 0,
+    "Latitude": 51.2778,
+    "Longitude": 4.333157
+  },
+  {
+    "Timestamp": "2022-08-20 17:15",
+    "Speed": 0.1,
+    "Latitude": 51.27779,
+    "Longitude": 4.333182
+  },
+  {
+    "Timestamp": "2022-08-20 17:13",
+    "Speed": 2.8,
+    "Latitude": 51.27846,
+    "Longitude": 4.332162
+  },
+  {
+    "Timestamp": "2022-08-20 17:10",
+    "Speed": 3.9,
+    "Latitude": 51.28054,
+    "Longitude": 4.329182
+  },
+  {
+    "Timestamp": "2022-08-20 17:06",
+    "Speed": 7.6,
+    "Latitude": 51.28101,
+    "Longitude": 4.322075
+  },
+  {
+    "Timestamp": "2022-08-20 17:04",
+    "Speed": 8,
+    "Latitude": 51.27715,
+    "Longitude": 4.316982
+  },
+  {
+    "Timestamp": "2022-08-20 17:01",
+    "Speed": 5,
+    "Latitude": 51.27449,
+    "Longitude": 4.312383
+  },
+  {
+    "Timestamp": "2022-08-20 16:58",
+    "Speed": 6.8,
+    "Latitude": 51.27048,
+    "Longitude": 4.307633
+  },
+  {
+    "Timestamp": "2022-08-20 16:56",
+    "Speed": 4.8,
+    "Latitude": 51.26761,
+    "Longitude": 4.303598
+  },
+  {
+    "Timestamp": "2022-08-20 16:53",
+    "Speed": 7.2,
+    "Latitude": 51.2639,
+    "Longitude": 4.299475
+  },
+  {
+    "Timestamp": "2022-08-20 16:50",
+    "Speed": 8.8,
+    "Latitude": 51.25749,
+    "Longitude": 4.301971
+  },
+  {
+    "Timestamp": "2022-08-20 16:47",
+    "Speed": 10.5,
+    "Latitude": 51.25364,
+    "Longitude": 4.311626
+  },
+  {
+    "Timestamp": "2022-08-20 16:44",
+    "Speed": 10.4,
+    "Latitude": 51.25185,
+    "Longitude": 4.325153
+  },
+  {
+    "Timestamp": "2022-08-20 16:41",
+    "Speed": 9.5,
+    "Latitude": 51.24765,
+    "Longitude": 4.335289
+  },
+  {
+    "Timestamp": "2022-08-20 16:38",
+    "Speed": 8.5,
+    "Latitude": 51.24174,
+    "Longitude": 4.343975
+  },
+  {
+    "Timestamp": "2022-08-20 16:36",
+    "Speed": 8.7,
+    "Latitude": 51.23905,
+    "Longitude": 4.351557
+  },
+  {
+    "Timestamp": "2022-08-20 16:33",
+    "Speed": 9.2,
+    "Latitude": 51.23827,
+    "Longitude": 4.360742
+  },
+  {
+    "Timestamp": "2022-08-20 16:31",
+    "Speed": 9.8,
+    "Latitude": 51.23823,
+    "Longitude": 4.371615
+  },
+  {
+    "Timestamp": "2022-08-20 16:28",
+    "Speed": 9.2,
+    "Latitude": 51.23845,
+    "Longitude": 4.381228
+  },
+  {
+    "Timestamp": "2022-08-20 16:26",
+    "Speed": 9.4,
+    "Latitude": 51.23766,
+    "Longitude": 4.392748
+  },
+  {
+    "Timestamp": "2022-08-20 16:23",
+    "Speed": 9.8,
+    "Latitude": 51.23244,
+    "Longitude": 4.39893
+  },
+  {
+    "Timestamp": "2022-08-20 16:21",
+    "Speed": 9.9,
+    "Latitude": 51.22662,
+    "Longitude": 4.397155
+  },
+  {
+    "Timestamp": "2022-08-20 16:18",
+    "Speed": 10.2,
+    "Latitude": 51.22053,
+    "Longitude": 4.393217
+  },
+  {
+    "Timestamp": "2022-08-20 16:16",
+    "Speed": 9.9,
+    "Latitude": 51.2143,
+    "Longitude": 4.388348
+  },
+  {
+    "Timestamp": "2022-08-20 16:13",
+    "Speed": 8.2,
+    "Latitude": 51.20906,
+    "Longitude": 4.381175
+  },
+  {
+    "Timestamp": "2022-08-20 16:11",
+    "Speed": 0.9,
+    "Latitude": 51.20756,
+    "Longitude": 4.378365
+  },
+  {
+    "Timestamp": "2022-08-20 16:09",
+    "Speed": 5,
+    "Latitude": 51.20827,
+    "Longitude": 4.382142
+  },
+  {
+    "Timestamp": "2022-08-20 15:45",
+    "Speed": 0,
+    "Latitude": 51.20947,
+    "Longitude": 4.384975
+  },
+  {
+    "Timestamp": "2022-08-20 15:22",
+    "Speed": 0,
+    "Latitude": 51.20947,
+    "Longitude": 4.384965
+  },
+  {
+    "Timestamp": "2022-08-20 14:58",
+    "Speed": 0,
+    "Latitude": 51.20949,
+    "Longitude": 4.384978
+  },
+  {
+    "Timestamp": "2022-08-20 14:38",
+    "Speed": 0,
+    "Latitude": 51.20949,
+    "Longitude": 4.384972
+  },
+  {
+    "Timestamp": "2022-08-20 14:13",
+    "Speed": 0,
+    "Latitude": 51.20945,
+    "Longitude": 4.384962
+  },
+  {
+    "Timestamp": "2022-08-20 13:52",
+    "Speed": 0,
+    "Latitude": 51.20948,
+    "Longitude": 4.384968
+  },
+  {
+    "Timestamp": "2022-08-20 13:30",
+    "Speed": 0,
+    "Latitude": 51.20947,
+    "Longitude": 4.384972
+  },
+  {
+    "Timestamp": "2022-08-20 13:09",
+    "Speed": 0,
+    "Latitude": 51.20945,
+    "Longitude": 4.385015
+  },
+  {
+    "Timestamp": "2022-08-20 12:47",
+    "Speed": 0,
+    "Latitude": 51.20949,
+    "Longitude": 4.384988
+  },
+  {
+    "Timestamp": "2022-08-20 12:25",
+    "Speed": 0,
+    "Latitude": 51.2095,
+    "Longitude": 4.384985
+  },
+  {
+    "Timestamp": "2022-08-20 12:02",
+    "Speed": 0,
+    "Latitude": 51.2095,
+    "Longitude": 4.384988
+  },
+  {
+    "Timestamp": "2022-08-20 11:39",
+    "Speed": 0,
+    "Latitude": 51.20951,
+    "Longitude": 4.384972
+  },
+  {
+    "Timestamp": "2022-08-20 11:17",
+    "Speed": 0,
+    "Latitude": 51.20949,
+    "Longitude": 4.384955
+  },
+  {
+    "Timestamp": "2022-08-20 10:54",
+    "Speed": 0,
+    "Latitude": 51.20949,
+    "Longitude": 4.384974
+  },
+  {
+    "Timestamp": "2022-08-20 10:33",
+    "Speed": 0,
+    "Latitude": 51.20945,
+    "Longitude": 4.384967
+  },
+  {
+    "Timestamp": "2022-08-20 10:09",
+    "Speed": 0,
+    "Latitude": 51.20945,
+    "Longitude": 4.384958
+  },
+  {
+    "Timestamp": "2022-08-20 09:47",
+    "Speed": 0.1,
+    "Latitude": 51.20945,
+    "Longitude": 4.384948
+  },
+  {
+    "Timestamp": "2022-08-20 09:23",
+    "Speed": 0,
+    "Latitude": 51.20944,
+    "Longitude": 4.384957
+  },
+  {
+    "Timestamp": "2022-08-20 09:01",
+    "Speed": 0,
+    "Latitude": 51.20948,
+    "Longitude": 4.384982
+  },
+  {
+    "Timestamp": "2022-08-20 08:38",
+    "Speed": 0,
+    "Latitude": 51.20947,
+    "Longitude": 4.384978
+  },
+  {
+    "Timestamp": "2022-08-20 08:16",
+    "Speed": 0,
+    "Latitude": 51.20947,
+    "Longitude": 4.384968
+  },
+  {
+    "Timestamp": "2022-08-20 07:53",
+    "Speed": 0,
+    "Latitude": 51.20948,
+    "Longitude": 4.38496
+  },
+  {
+    "Timestamp": "2022-08-20 07:31",
+    "Speed": 0,
+    "Latitude": 51.20949,
+    "Longitude": 4.384962
+  },
+  {
+    "Timestamp": "2022-08-20 07:09",
+    "Speed": 0,
+    "Latitude": 51.20948,
+    "Longitude": 4.38497
+  },
+  {
+    "Timestamp": "2022-08-20 06:47",
+    "Speed": 0,
+    "Latitude": 51.20949,
+    "Longitude": 4.38497
+  },
+  {
+    "Timestamp": "2022-08-20 06:27",
+    "Speed": 0,
+    "Latitude": 51.20951,
+    "Longitude": 4.384984
+  },
+  {
+    "Timestamp": "2022-08-20 06:05",
+    "Speed": 0,
+    "Latitude": 51.2095,
+    "Longitude": 4.384975
+  },
+  {
+    "Timestamp": "2022-08-20 05:41",
+    "Speed": 0,
+    "Latitude": 51.20948,
+    "Longitude": 4.384967
+  },
+  {
+    "Timestamp": "2022-08-20 05:19",
+    "Speed": 0,
+    "Latitude": 51.20948,
+    "Longitude": 4.384974
+  },
+  {
+    "Timestamp": "2022-08-20 04:57",
+    "Speed": 0,
+    "Latitude": 51.20949,
+    "Longitude": 4.38497
+  },
+  {
+    "Timestamp": "2022-08-20 04:35",
+    "Speed": 0,
+    "Latitude": 51.20948,
+    "Longitude": 4.384995
+  },
+  {
+    "Timestamp": "2022-08-20 04:13",
+    "Speed": 0,
+    "Latitude": 51.20949,
+    "Longitude": 4.384968
+  },
+  {
+    "Timestamp": "2022-08-20 03:50",
+    "Speed": 0,
+    "Latitude": 51.20948,
+    "Longitude": 4.384967
+  },
+  {
+    "Timestamp": "2022-08-20 03:27",
+    "Speed": 0,
+    "Latitude": 51.20947,
+    "Longitude": 4.38498
+  },
+  {
+    "Timestamp": "2022-08-20 03:06",
+    "Speed": 0,
+    "Latitude": 51.20949,
+    "Longitude": 4.384975
+  },
+  {
+    "Timestamp": "2022-08-20 02:44",
+    "Speed": 0,
+    "Latitude": 51.20949,
+    "Longitude": 4.384967
+  },
+  {
+    "Timestamp": "2022-08-20 02:21",
+    "Speed": 0,
+    "Latitude": 51.2095,
+    "Longitude": 4.38497
+  },
+  {
+    "Timestamp": "2022-08-20 01:59",
+    "Speed": 0,
+    "Latitude": 51.20949,
+    "Longitude": 4.384965
+  },
+  {
+    "Timestamp": "2022-08-20 01:35",
+    "Speed": 0.6,
+    "Latitude": 51.20965,
+    "Longitude": 4.385092
+  },
+  {
+    "Timestamp": "2022-08-20 01:32",
+    "Speed": 2.7,
+    "Latitude": 51.21103,
+    "Longitude": 4.386017
+  },
+  {
+    "Timestamp": "2022-08-20 01:30",
+    "Speed": 5.7,
+    "Latitude": 51.21335,
+    "Longitude": 4.387955
+  },
+  {
+    "Timestamp": "2022-08-20 01:27",
+    "Speed": 8.4,
+    "Latitude": 51.21779,
+    "Longitude": 4.390282
+  },
+  {
+    "Timestamp": "2022-08-20 01:24",
+    "Speed": 10.2,
+    "Latitude": 51.2245,
+    "Longitude": 4.394665
+  },
+  {
+    "Timestamp": "2022-08-20 01:22",
+    "Speed": 9.4,
+    "Latitude": 51.23135,
+    "Longitude": 4.3987
+  },
+  {
+    "Timestamp": "2022-08-20 01:19",
+    "Speed": 10.2,
+    "Latitude": 51.2364,
+    "Longitude": 4.396095
+  },
+  {
+    "Timestamp": "2022-08-20 01:17",
+    "Speed": 10.5,
+    "Latitude": 51.23826,
+    "Longitude": 4.385278
+  },
+  {
+    "Timestamp": "2022-08-20 01:14",
+    "Speed": 10.5,
+    "Latitude": 51.23833,
+    "Longitude": 4.37286
+  },
+  {
+    "Timestamp": "2022-08-20 01:12",
+    "Speed": 10,
+    "Latitude": 51.23806,
+    "Longitude": 4.361423
+  },
+  {
+    "Timestamp": "2022-08-20 01:09",
+    "Speed": 9.8,
+    "Latitude": 51.23863,
+    "Longitude": 4.35132
+  },
+  {
+    "Timestamp": "2022-08-20 01:07",
+    "Speed": 10,
+    "Latitude": 51.24178,
+    "Longitude": 4.342692
+  },
+  {
+    "Timestamp": "2022-08-20 01:05",
+    "Speed": 10,
+    "Latitude": 51.24597,
+    "Longitude": 4.335943
+  },
+  {
+    "Timestamp": "2022-08-20 01:02",
+    "Speed": 9.8,
+    "Latitude": 51.25139,
+    "Longitude": 4.326618
+  },
+  {
+    "Timestamp": "2022-08-20 00:59",
+    "Speed": 10.6,
+    "Latitude": 51.25282,
+    "Longitude": 4.315438
+  },
+  {
+    "Timestamp": "2022-08-20 00:57",
+    "Speed": 10.4,
+    "Latitude": 51.25447,
+    "Longitude": 4.304273
+  },
+  {
+    "Timestamp": "2022-08-20 00:54",
+    "Speed": 9.8,
+    "Latitude": 51.26052,
+    "Longitude": 4.297818
+  },
+  {
+    "Timestamp": "2022-08-20 00:51",
+    "Speed": 10.5,
+    "Latitude": 51.2683,
+    "Longitude": 4.302195
+  },
+  {
+    "Timestamp": "2022-08-20 00:49",
+    "Speed": 10.6,
+    "Latitude": 51.2734,
+    "Longitude": 4.31052
+  },
+  {
+    "Timestamp": "2022-08-20 00:46",
+    "Speed": 10,
+    "Latitude": 51.27816,
+    "Longitude": 4.318933
+  },
+  {
+    "Timestamp": "2022-08-20 00:44",
+    "Speed": 10,
+    "Latitude": 51.28371,
+    "Longitude": 4.321638
+  },
+  {
+    "Timestamp": "2022-08-20 00:42",
+    "Speed": 10.2,
+    "Latitude": 51.28976,
+    "Longitude": 4.31646
+  },
+  {
+    "Timestamp": "2022-08-20 00:39",
+    "Speed": 10.7,
+    "Latitude": 51.29379,
+    "Longitude": 4.305974
+  },
+  {
+    "Timestamp": "2022-08-20 00:36",
+    "Speed": 10.8,
+    "Latitude": 51.29651,
+    "Longitude": 4.294
+  },
+  {
+    "Timestamp": "2022-08-20 00:34",
+    "Speed": 10.5,
+    "Latitude": 51.29911,
+    "Longitude": 4.283612
+  },
+  {
+    "Timestamp": "2022-08-20 00:31",
+    "Speed": 10.6,
+    "Latitude": 51.30442,
+    "Longitude": 4.274648
+  },
+  {
+    "Timestamp": "2022-08-20 00:29",
+    "Speed": 10.7,
+    "Latitude": 51.31011,
+    "Longitude": 4.271007
+  },
+  {
+    "Timestamp": "2022-08-20 00:27",
+    "Speed": 10.7,
+    "Latitude": 51.31713,
+    "Longitude": 4.27106
+  },
+  {
+    "Timestamp": "2022-08-20 00:25",
+    "Speed": 10.5,
+    "Latitude": 51.32305,
+    "Longitude": 4.27467
+  },
+  {
+    "Timestamp": "2022-08-20 00:22",
+    "Speed": 10.7,
+    "Latitude": 51.3299,
+    "Longitude": 4.275795
+  },
+  {
+    "Timestamp": "2022-08-20 00:20",
+    "Speed": 8.5,
+    "Latitude": 51.33672,
+    "Longitude": 4.274909
+  },
+  {
+    "Timestamp": "2022-08-20 00:17",
+    "Speed": 9.3,
+    "Latitude": 51.34215,
+    "Longitude": 4.27098
+  },
+  {
+    "Timestamp": "2022-08-20 00:15",
+    "Speed": 5.8,
+    "Latitude": 51.34566,
+    "Longitude": 4.270258
+  },
+  {
+    "Timestamp": "2022-08-20 00:12",
+    "Speed": 5.4,
+    "Latitude": 51.3452,
+    "Longitude": 4.275283
+  },
+  {
+    "Timestamp": "2022-08-20 00:10",
+    "Speed": 5.3,
+    "Latitude": 51.34453,
+    "Longitude": 4.281072
+  },
+  {
+    "Timestamp": "2022-08-20 00:07",
+    "Speed": 1.5,
+    "Latitude": 51.34427,
+    "Longitude": 4.286203
+  },
+  {
+    "Timestamp": "2022-08-20 00:04",
+    "Speed": 0,
+    "Latitude": 51.34426,
+    "Longitude": 4.286572
+  },
+  {
+    "Timestamp": "2022-08-19 23:41",
+    "Speed": 0,
+    "Latitude": 51.34427,
+    "Longitude": 4.286553
+  },
+  {
+    "Timestamp": "2022-08-19 23:37",
+    "Speed": 2.8,
+    "Latitude": 51.34417,
+    "Longitude": 4.287993
+  },
+  {
+    "Timestamp": "2022-08-19 23:35",
+    "Speed": 2.4,
+    "Latitude": 51.34389,
+    "Longitude": 4.29072
+  },
+  {
+    "Timestamp": "2022-08-19 23:32",
+    "Speed": 3.4,
+    "Latitude": 51.34493,
+    "Longitude": 4.294199
+  },
+  {
+    "Timestamp": "2022-08-19 23:30",
+    "Speed": 8,
+    "Latitude": 51.34756,
+    "Longitude": 4.29852
+  },
+  {
+    "Timestamp": "2022-08-19 23:27",
+    "Speed": 11.2,
+    "Latitude": 51.35397,
+    "Longitude": 4.300728
+  },
+  {
+    "Timestamp": "2022-08-19 23:24",
+    "Speed": 11,
+    "Latitude": 51.36221,
+    "Longitude": 4.300605
+  },
+  {
+    "Timestamp": "2022-08-19 23:20",
+    "Speed": 11,
+    "Latitude": 51.37305,
+    "Longitude": 4.293585
+  },
+  {
+    "Timestamp": "2022-08-19 23:17",
+    "Speed": 11.3,
+    "Latitude": 51.37392,
+    "Longitude": 4.27939
+  },
+  {
+    "Timestamp": "2022-08-19 23:15",
+    "Speed": 11,
+    "Latitude": 51.37563,
+    "Longitude": 4.267426
+  },
+  {
+    "Timestamp": "2022-08-19 23:12",
+    "Speed": 10.9,
+    "Latitude": 51.38012,
+    "Longitude": 4.255692
+  },
+  {
+    "Timestamp": "2022-08-19 23:01",
+    "Speed": 6.5,
+    "Latitude": 51.40937,
+    "Longitude": 4.238153
+  },
+  {
+    "Timestamp": "2022-08-19 22:30",
+    "Speed": 0.1,
+    "Latitude": 51.44831,
+    "Longitude": 4.229979
+  },
+  {
+    "Timestamp": "2022-08-19 22:27",
+    "Speed": 1.3,
+    "Latitude": 51.44957,
+    "Longitude": 4.229733
+  },
+  {
+    "Timestamp": "2022-08-19 22:24",
+    "Speed": 1.7,
+    "Latitude": 51.45075,
+    "Longitude": 4.229528
+  },
+  {
+    "Timestamp": "2022-08-19 22:21",
+    "Speed": 2.3,
+    "Latitude": 51.45224,
+    "Longitude": 4.229357
+  },
+  {
+    "Timestamp": "2022-08-19 22:18",
+    "Speed": 4.8,
+    "Latitude": 51.45528,
+    "Longitude": 4.229136
+  },
+  {
+    "Timestamp": "2022-08-19 22:15",
+    "Speed": 6.4,
+    "Latitude": 51.45879,
+    "Longitude": 4.228702
+  },
+  {
+    "Timestamp": "2022-08-19 22:13",
+    "Speed": 11.6,
+    "Latitude": 51.46487,
+    "Longitude": 4.227632
+  },
+  {
+    "Timestamp": "2022-08-19 22:10",
+    "Speed": 11.9,
+    "Latitude": 51.47244,
+    "Longitude": 4.225528
+  },
+  {
+    "Timestamp": "2022-08-19 22:08",
+    "Speed": 11,
+    "Latitude": 51.48096,
+    "Longitude": 4.223922
+  },
+  {
+    "Timestamp": "2022-08-19 22:05",
+    "Speed": 9,
+    "Latitude": 51.48727,
+    "Longitude": 4.222456
+  },
+  {
+    "Timestamp": "2022-08-19 22:02",
+    "Speed": 11.7,
+    "Latitude": 51.4967,
+    "Longitude": 4.220593
+  },
+  {
+    "Timestamp": "2022-08-19 22:00",
+    "Speed": 11.6,
+    "Latitude": 51.50468,
+    "Longitude": 4.219137
+  },
+  {
+    "Timestamp": "2022-08-19 21:57",
+    "Speed": 11.5,
+    "Latitude": 51.51278,
+    "Longitude": 4.219387
+  },
+  {
+    "Timestamp": "2022-08-19 21:55",
+    "Speed": 12.1,
+    "Latitude": 51.52077,
+    "Longitude": 4.223392
+  },
+  {
+    "Timestamp": "2022-08-19 21:52",
+    "Speed": 11.4,
+    "Latitude": 51.52905,
+    "Longitude": 4.228577
+  },
+  {
+    "Timestamp": "2022-08-19 21:49",
+    "Speed": 11.8,
+    "Latitude": 51.53648,
+    "Longitude": 4.232572
+  },
+  {
+    "Timestamp": "2022-08-19 21:47",
+    "Speed": 11.4,
+    "Latitude": 51.54474,
+    "Longitude": 4.235848
+  },
+  {
+    "Timestamp": "2022-08-19 21:44",
+    "Speed": 11.5,
+    "Latitude": 51.5526,
+    "Longitude": 4.235458
+  },
+  {
+    "Timestamp": "2022-08-19 21:42",
+    "Speed": 11.8,
+    "Latitude": 51.5602,
+    "Longitude": 4.231473
+  },
+  {
+    "Timestamp": "2022-08-19 21:38",
+    "Speed": 11.7,
+    "Latitude": 51.56981,
+    "Longitude": 4.219968
+  },
+  {
+    "Timestamp": "2022-08-19 21:35",
+    "Speed": 11.8,
+    "Latitude": 51.57715,
+    "Longitude": 4.210117
+  },
+  {
+    "Timestamp": "2022-08-19 21:32",
+    "Speed": 11.5,
+    "Latitude": 51.58469,
+    "Longitude": 4.2003
+  },
+  {
+    "Timestamp": "2022-08-19 21:29",
+    "Speed": 11.6,
+    "Latitude": 51.59254,
+    "Longitude": 4.193092
+  },
+  {
+    "Timestamp": "2022-08-19 21:26",
+    "Speed": 11.7,
+    "Latitude": 51.60263,
+    "Longitude": 4.190135
+  },
+  {
+    "Timestamp": "2022-08-19 21:24",
+    "Speed": 11.6,
+    "Latitude": 51.61016,
+    "Longitude": 4.191893
+  },
+  {
+    "Timestamp": "2022-08-19 21:21",
+    "Speed": 11.6,
+    "Latitude": 51.61811,
+    "Longitude": 4.197723
+  },
+  {
+    "Timestamp": "2022-08-19 21:19",
+    "Speed": 11.8,
+    "Latitude": 51.62341,
+    "Longitude": 4.204718
+  },
+  {
+    "Timestamp": "2022-08-19 21:16",
+    "Speed": 11.7,
+    "Latitude": 51.62783,
+    "Longitude": 4.215545
+  },
+  {
+    "Timestamp": "2022-08-19 21:14",
+    "Speed": 11.9,
+    "Latitude": 51.63077,
+    "Longitude": 4.22768
+  },
+  {
+    "Timestamp": "2022-08-19 21:12",
+    "Speed": 11.9,
+    "Latitude": 51.63375,
+    "Longitude": 4.238227
+  },
+  {
+    "Timestamp": "2022-08-19 21:09",
+    "Speed": 12.4,
+    "Latitude": 51.63752,
+    "Longitude": 4.249447
+  },
+  {
+    "Timestamp": "2022-08-19 21:07",
+    "Speed": 12.2,
+    "Latitude": 51.64199,
+    "Longitude": 4.26213
+  },
+  {
+    "Timestamp": "2022-08-19 21:05",
+    "Speed": 12.2,
+    "Latitude": 51.6455,
+    "Longitude": 4.272413
+  },
+  {
+    "Timestamp": "2022-08-19 21:02",
+    "Speed": 12.2,
+    "Latitude": 51.64937,
+    "Longitude": 4.2855
+  },
+  {
+    "Timestamp": "2022-08-19 21:00",
+    "Speed": 12.5,
+    "Latitude": 51.65258,
+    "Longitude": 4.297225
+  },
+  {
+    "Timestamp": "2022-08-19 20:57",
+    "Speed": 12.5,
+    "Latitude": 51.65617,
+    "Longitude": 4.309864
+  },
+  {
+    "Timestamp": "2022-08-19 20:55",
+    "Speed": 12.3,
+    "Latitude": 51.65891,
+    "Longitude": 4.321977
+  },
+  {
+    "Timestamp": "2022-08-19 20:53",
+    "Speed": 12.4,
+    "Latitude": 51.66008,
+    "Longitude": 4.333783
+  },
+  {
+    "Timestamp": "2022-08-19 20:50",
+    "Speed": 12,
+    "Latitude": 51.66078,
+    "Longitude": 4.345587
+  },
+  {
+    "Timestamp": "2022-08-19 20:48",
+    "Speed": 12.3,
+    "Latitude": 51.6636,
+    "Longitude": 4.358388
+  },
+  {
+    "Timestamp": "2022-08-19 20:46",
+    "Speed": 12,
+    "Latitude": 51.66679,
+    "Longitude": 4.36914
+  },
+  {
+    "Timestamp": "2022-08-19 20:44",
+    "Speed": 11.8,
+    "Latitude": 51.6707,
+    "Longitude": 4.378692
+  },
+  {
+    "Timestamp": "2022-08-19 20:41",
+    "Speed": 11.8,
+    "Latitude": 51.67639,
+    "Longitude": 4.385667
+  },
+  {
+    "Timestamp": "2022-08-19 20:39",
+    "Speed": 8.7,
+    "Latitude": 51.68197,
+    "Longitude": 4.392406
+  },
+  {
+    "Timestamp": "2022-08-19 20:37",
+    "Speed": 8.4,
+    "Latitude": 51.6855,
+    "Longitude": 4.398197
+  },
+  {
+    "Timestamp": "2022-08-19 20:35",
+    "Speed": 7.1,
+    "Latitude": 51.68839,
+    "Longitude": 4.40389
+  },
+  {
+    "Timestamp": "2022-08-19 20:33",
+    "Speed": 0.5,
+    "Latitude": 51.69032,
+    "Longitude": 4.407477
+  },
+  {
+    "Timestamp": "2022-08-19 20:17",
+    "Speed": 0,
+    "Latitude": 51.69035,
+    "Longitude": 4.407533
+  },
+  {
+    "Timestamp": "2022-08-19 20:15",
+    "Speed": 1.3,
+    "Latitude": 51.6905,
+    "Longitude": 4.407778
+  },
+  {
+    "Timestamp": "2022-08-19 20:11",
+    "Speed": 4.7,
+    "Latitude": 51.69301,
+    "Longitude": 4.412418
+  },
+  {
+    "Timestamp": "2022-08-19 20:09",
+    "Speed": 6.6,
+    "Latitude": 51.69505,
+    "Longitude": 4.41645
+  },
+  {
+    "Timestamp": "2022-08-19 20:07",
+    "Speed": 7.9,
+    "Latitude": 51.69805,
+    "Longitude": 4.422735
+  },
+  {
+    "Timestamp": "2022-08-19 20:05",
+    "Speed": 10.5,
+    "Latitude": 51.69964,
+    "Longitude": 4.430237
+  },
+  {
+    "Timestamp": "2022-08-19 20:02",
+    "Speed": 10.2,
+    "Latitude": 51.69858,
+    "Longitude": 4.444048
+  },
+  {
+    "Timestamp": "2022-08-19 19:59",
+    "Speed": 4.9,
+    "Latitude": 51.69721,
+    "Longitude": 4.446852
+  },
+  {
+    "Timestamp": "2022-08-19 19:57",
+    "Speed": 2.4,
+    "Latitude": 51.69579,
+    "Longitude": 4.442948
+  },
+  {
+    "Timestamp": "2022-08-19 19:40",
+    "Speed": 0.1,
+    "Latitude": 51.69573,
+    "Longitude": 4.442577
+  },
+  {
+    "Timestamp": "2022-08-19 19:18",
+    "Speed": 0,
+    "Latitude": 51.6957,
+    "Longitude": 4.442567
+  },
+  {
+    "Timestamp": "2022-08-19 18:56",
+    "Speed": 0,
+    "Latitude": 51.69571,
+    "Longitude": 4.442564
+  },
+  {
+    "Timestamp": "2022-08-19 18:33",
+    "Speed": 0,
+    "Latitude": 51.69572,
+    "Longitude": 4.442574
+  },
+  {
+    "Timestamp": "2022-08-19 18:12",
+    "Speed": 0,
+    "Latitude": 51.69572,
+    "Longitude": 4.442568
+  },
+  {
+    "Timestamp": "2022-08-19 17:49",
+    "Speed": 0,
+    "Latitude": 51.6957,
+    "Longitude": 4.44255
+  },
+  {
+    "Timestamp": "2022-08-19 17:27",
+    "Speed": 0,
+    "Latitude": 51.69571,
+    "Longitude": 4.442574
+  },
+  {
+    "Timestamp": "2022-08-19 17:05",
+    "Speed": 0,
+    "Latitude": 51.69569,
+    "Longitude": 4.442584
+  },
+  {
+    "Timestamp": "2022-08-19 16:43",
+    "Speed": 0,
+    "Latitude": 51.69569,
+    "Longitude": 4.44258
+  },
+  {
+    "Timestamp": "2022-08-19 16:21",
+    "Speed": 0,
+    "Latitude": 51.69568,
+    "Longitude": 4.442577
+  },
+  {
+    "Timestamp": "2022-08-19 16:00",
+    "Speed": 0,
+    "Latitude": 51.6957,
+    "Longitude": 4.442567
+  },
+  {
+    "Timestamp": "2022-08-19 15:38",
+    "Speed": 0,
+    "Latitude": 51.69569,
+    "Longitude": 4.442587
+  },
+  {
+    "Timestamp": "2022-08-19 15:16",
+    "Speed": 0,
+    "Latitude": 51.69569,
+    "Longitude": 4.442587
+  },
+  {
+    "Timestamp": "2022-08-19 14:55",
+    "Speed": 0,
+    "Latitude": 51.69569,
+    "Longitude": 4.442584
+  },
+  {
+    "Timestamp": "2022-08-19 14:33",
+    "Speed": 0,
+    "Latitude": 51.69569,
+    "Longitude": 4.442574
+  },
+  {
+    "Timestamp": "2022-08-19 14:12",
+    "Speed": 0,
+    "Latitude": 51.69569,
+    "Longitude": 4.442606
+  },
+  {
+    "Timestamp": "2022-08-19 13:49",
+    "Speed": 0,
+    "Latitude": 51.69572,
+    "Longitude": 4.442577
+  },
+  {
+    "Timestamp": "2022-08-19 13:27",
+    "Speed": 0,
+    "Latitude": 51.69573,
+    "Longitude": 4.442558
+  },
+  {
+    "Timestamp": "2022-08-19 13:05",
+    "Speed": 0,
+    "Latitude": 51.69573,
+    "Longitude": 4.44257
+  },
+  {
+    "Timestamp": "2022-08-19 12:44",
+    "Speed": 0,
+    "Latitude": 51.69572,
+    "Longitude": 4.442552
+  },
+  {
+    "Timestamp": "2022-08-19 12:42",
+    "Speed": 0.6,
+    "Latitude": 51.69574,
+    "Longitude": 4.442678
+  },
+  {
+    "Timestamp": "2022-08-19 12:39",
+    "Speed": 2.6,
+    "Latitude": 51.69621,
+    "Longitude": 4.444489
+  },
+  {
+    "Timestamp": "2022-08-19 12:37",
+    "Speed": 6.5,
+    "Latitude": 51.69674,
+    "Longitude": 4.447127
+  },
+  {
+    "Timestamp": "2022-08-19 12:35",
+    "Speed": 12.2,
+    "Latitude": 51.69654,
+    "Longitude": 4.45827
+  },
+  {
+    "Timestamp": "2022-08-19 12:33",
+    "Speed": 11.9,
+    "Latitude": 51.69623,
+    "Longitude": 4.469863
+  },
+  {
+    "Timestamp": "2022-08-19 12:30",
+    "Speed": 12.2,
+    "Latitude": 51.69515,
+    "Longitude": 4.482162
+  },
+  {
+    "Timestamp": "2022-08-19 12:28",
+    "Speed": 12.2,
+    "Latitude": 51.69477,
+    "Longitude": 4.495022
+  },
+  {
+    "Timestamp": "2022-08-19 12:26",
+    "Speed": 12.1,
+    "Latitude": 51.69499,
+    "Longitude": 4.506828
+  },
+  {
+    "Timestamp": "2022-08-19 12:24",
+    "Speed": 12,
+    "Latitude": 51.69546,
+    "Longitude": 4.518288
+  },
+  {
+    "Timestamp": "2022-08-19 12:21",
+    "Speed": 12,
+    "Latitude": 51.69687,
+    "Longitude": 4.530543
+  },
+  {
+    "Timestamp": "2022-08-19 12:19",
+    "Speed": 12.2,
+    "Latitude": 51.69895,
+    "Longitude": 4.541697
+  },
+  {
+    "Timestamp": "2022-08-19 12:17",
+    "Speed": 12.2,
+    "Latitude": 51.70107,
+    "Longitude": 4.553093
+  },
+  {
+    "Timestamp": "2022-08-19 12:14",
+    "Speed": 12.2,
+    "Latitude": 51.70374,
+    "Longitude": 4.566998
+  },
+  {
+    "Timestamp": "2022-08-19 12:12",
+    "Speed": 12.1,
+    "Latitude": 51.70595,
+    "Longitude": 4.5782
+  },
+  {
+    "Timestamp": "2022-08-19 12:10",
+    "Speed": 12,
+    "Latitude": 51.70857,
+    "Longitude": 4.58999
+  },
+  {
+    "Timestamp": "2022-08-19 12:08",
+    "Speed": 11.7,
+    "Latitude": 51.71087,
+    "Longitude": 4.600858
+  },
+  {
+    "Timestamp": "2022-08-19 12:06",
+    "Speed": 11.1,
+    "Latitude": 51.71291,
+    "Longitude": 4.61058
+  },
+  {
+    "Timestamp": "2022-08-19 12:03",
+    "Speed": 12.2,
+    "Latitude": 51.71751,
+    "Longitude": 4.61947
+  },
+  {
+    "Timestamp": "2022-08-19 12:01",
+    "Speed": 12.3,
+    "Latitude": 51.72594,
+    "Longitude": 4.625013
+  },
+  {
+    "Timestamp": "2022-08-19 11:58",
+    "Speed": 12.5,
+    "Latitude": 51.73425,
+    "Longitude": 4.62868
+  },
+  {
+    "Timestamp": "2022-08-19 11:56",
+    "Speed": 12.3,
+    "Latitude": 51.74208,
+    "Longitude": 4.631027
+  },
+  {
+    "Timestamp": "2022-08-19 11:54",
+    "Speed": 12.4,
+    "Latitude": 51.74951,
+    "Longitude": 4.631232
+  },
+  {
+    "Timestamp": "2022-08-19 11:51",
+    "Speed": 12.8,
+    "Latitude": 51.75743,
+    "Longitude": 4.62796
+  },
+  {
+    "Timestamp": "2022-08-19 11:49",
+    "Speed": 12.8,
+    "Latitude": 51.76555,
+    "Longitude": 4.626165
+  },
+  {
+    "Timestamp": "2022-08-19 11:47",
+    "Speed": 12.8,
+    "Latitude": 51.77394,
+    "Longitude": 4.626825
+  },
+  {
+    "Timestamp": "2022-08-19 11:44",
+    "Speed": 12.6,
+    "Latitude": 51.78151,
+    "Longitude": 4.627113
+  },
+  {
+    "Timestamp": "2022-08-19 11:42",
+    "Speed": 12.7,
+    "Latitude": 51.78841,
+    "Longitude": 4.624678
+  },
+  {
+    "Timestamp": "2022-08-19 11:40",
+    "Speed": 10.9,
+    "Latitude": 51.7964,
+    "Longitude": 4.621802
+  },
+  {
+    "Timestamp": "2022-08-19 11:38",
+    "Speed": 10.3,
+    "Latitude": 51.80103,
+    "Longitude": 4.627079
+  },
+  {
+    "Timestamp": "2022-08-19 11:36",
+    "Speed": 11.1,
+    "Latitude": 51.80342,
+    "Longitude": 4.636776
+  },
+  {
+    "Timestamp": "2022-08-19 11:33",
+    "Speed": 11.3,
+    "Latitude": 51.80819,
+    "Longitude": 4.645487
+  },
+  {
+    "Timestamp": "2022-08-19 11:31",
+    "Speed": 11.5,
+    "Latitude": 51.81352,
+    "Longitude": 4.65269
+  },
+  {
+    "Timestamp": "2022-08-19 11:29",
+    "Speed": 11.8,
+    "Latitude": 51.81861,
+    "Longitude": 4.661783
+  },
+  {
+    "Timestamp": "2022-08-19 11:26",
+    "Speed": 11.8,
+    "Latitude": 51.82419,
+    "Longitude": 4.668694
+  },
+  {
+    "Timestamp": "2022-08-19 11:24",
+    "Speed": 12.1,
+    "Latitude": 51.83141,
+    "Longitude": 4.669718
+  },
+  {
+    "Timestamp": "2022-08-19 11:22",
+    "Speed": 10.7,
+    "Latitude": 51.83819,
+    "Longitude": 4.672688
+  },
+  {
+    "Timestamp": "2022-08-19 11:20",
+    "Speed": 12.3,
+    "Latitude": 51.84546,
+    "Longitude": 4.666564
+  },
+  {
+    "Timestamp": "2022-08-19 11:17",
+    "Speed": 11.2,
+    "Latitude": 51.85275,
+    "Longitude": 4.657632
+  },
+  {
+    "Timestamp": "2022-08-19 11:14",
+    "Speed": 12.3,
+    "Latitude": 51.86078,
+    "Longitude": 4.649633
+  },
+  {
+    "Timestamp": "2022-08-19 11:11",
+    "Speed": 12.4,
+    "Latitude": 51.86797,
+    "Longitude": 4.63874
+  },
+  {
+    "Timestamp": "2022-08-19 11:09",
+    "Speed": 12.5,
+    "Latitude": 51.87323,
+    "Longitude": 4.63185
+  },
+  {
+    "Timestamp": "2022-08-19 11:07",
+    "Speed": 12.3,
+    "Latitude": 51.88103,
+    "Longitude": 4.626172
+  },
+  {
+    "Timestamp": "2022-08-19 11:04",
+    "Speed": 11.7,
+    "Latitude": 51.88766,
+    "Longitude": 4.619562
+  },
+  {
+    "Timestamp": "2022-08-19 11:02",
+    "Speed": 12.1,
+    "Latitude": 51.89099,
+    "Longitude": 4.608634
+  },
+  {
+    "Timestamp": "2022-08-19 10:59",
+    "Speed": 12,
+    "Latitude": 51.89499,
+    "Longitude": 4.592145
+  },
+  {
+    "Timestamp": "2022-08-19 10:56",
+    "Speed": 11.8,
+    "Latitude": 51.90083,
+    "Longitude": 4.581855
+  },
+  {
+    "Timestamp": "2022-08-19 10:53",
+    "Speed": 12,
+    "Latitude": 51.90363,
+    "Longitude": 4.569165
+  },
+  {
+    "Timestamp": "2022-08-19 10:51",
+    "Speed": 12,
+    "Latitude": 51.90467,
+    "Longitude": 4.55774
+  },
+  {
+    "Timestamp": "2022-08-19 10:49",
+    "Speed": 7.7,
+    "Latitude": 51.90336,
+    "Longitude": 4.542797
+  },
+  {
+    "Timestamp": "2022-08-19 10:46",
+    "Speed": 10.8,
+    "Latitude": 51.90022,
+    "Longitude": 4.529013
+  },
+  {
+    "Timestamp": "2022-08-19 10:43",
+    "Speed": 11.4,
+    "Latitude": 51.90224,
+    "Longitude": 4.51875
+  },
+  {
+    "Timestamp": "2022-08-19 10:41",
+    "Speed": 11,
+    "Latitude": 51.91025,
+    "Longitude": 4.51533
+  },
+  {
+    "Timestamp": "2022-08-19 10:38",
+    "Speed": 11.3,
+    "Latitude": 51.9159,
+    "Longitude": 4.509593
+  },
+  {
+    "Timestamp": "2022-08-19 10:36",
+    "Speed": 10.9,
+    "Latitude": 51.918,
+    "Longitude": 4.497033
+  },
+  {
+    "Timestamp": "2022-08-19 10:34",
+    "Speed": 1.9,
+    "Latitude": 51.91587,
+    "Longitude": 4.491098
+  },
+  {
+    "Timestamp": "2022-08-19 10:31",
+    "Speed": 0.5,
+    "Latitude": 51.91587,
+    "Longitude": 4.490363
+  },
+  {
+    "Timestamp": "2022-08-19 10:22",
+    "Speed": 0.1,
+    "Latitude": 51.9159,
+    "Longitude": 4.490312
+  },
+  {
+    "Timestamp": "2022-08-19 09:59",
+    "Speed": 0,
+    "Latitude": 51.91584,
+    "Longitude": 4.490207
+  },
+  {
+    "Timestamp": "2022-08-19 09:37",
+    "Speed": 0,
+    "Latitude": 51.91584,
+    "Longitude": 4.490215
+  },
+  {
+    "Timestamp": "2022-08-19 09:15",
+    "Speed": 0.1,
+    "Latitude": 51.91585,
+    "Longitude": 4.49022
+  },
+  {
+    "Timestamp": "2022-08-19 08:52",
+    "Speed": 0.1,
+    "Latitude": 51.91583,
+    "Longitude": 4.490207
+  },
+  {
+    "Timestamp": "2022-08-19 08:29",
+    "Speed": 0,
+    "Latitude": 51.91583,
+    "Longitude": 4.49022
+  },
+  {
+    "Timestamp": "2022-08-19 08:08",
+    "Speed": 0,
+    "Latitude": 51.91585,
+    "Longitude": 4.490162
+  },
+  {
+    "Timestamp": "2022-08-19 07:46",
+    "Speed": 0,
+    "Latitude": 51.91585,
+    "Longitude": 4.490208
+  },
+  {
+    "Timestamp": "2022-08-19 07:24",
+    "Speed": 0,
+    "Latitude": 51.91585,
+    "Longitude": 4.490227
+  },
+  {
+    "Timestamp": "2022-08-19 07:00",
+    "Speed": 0,
+    "Latitude": 51.91585,
+    "Longitude": 4.490185
+  },
+  {
+    "Timestamp": "2022-08-19 06:38",
+    "Speed": 0,
+    "Latitude": 51.91583,
+    "Longitude": 4.490171
+  },
+  {
+    "Timestamp": "2022-08-19 06:17",
+    "Speed": 0,
+    "Latitude": 51.91583,
+    "Longitude": 4.490191
+  },
+  {
+    "Timestamp": "2022-08-19 05:54",
+    "Speed": 0,
+    "Latitude": 51.91584,
+    "Longitude": 4.490171
+  },
+  {
+    "Timestamp": "2022-08-19 05:32",
+    "Speed": 0,
+    "Latitude": 51.91584,
+    "Longitude": 4.490201
+  },
+  {
+    "Timestamp": "2022-08-19 05:11",
+    "Speed": 0,
+    "Latitude": 51.91585,
+    "Longitude": 4.4902
+  },
+  {
+    "Timestamp": "2022-08-19 04:48",
+    "Speed": 0,
+    "Latitude": 51.91585,
+    "Longitude": 4.4902
+  },
+  {
+    "Timestamp": "2022-08-19 04:27",
+    "Speed": 0,
+    "Latitude": 51.91584,
+    "Longitude": 4.490222
+  },
+  {
+    "Timestamp": "2022-08-19 04:05",
+    "Speed": 0,
+    "Latitude": 51.91583,
+    "Longitude": 4.490218
+  },
+  {
+    "Timestamp": "2022-08-19 03:43",
+    "Speed": 0,
+    "Latitude": 51.91585,
+    "Longitude": 4.490232
+  },
+  {
+    "Timestamp": "2022-08-19 03:21",
+    "Speed": 0,
+    "Latitude": 51.91585,
+    "Longitude": 4.4902
+  },
+  {
+    "Timestamp": "2022-08-19 03:00",
+    "Speed": 0.3,
+    "Latitude": 51.91578,
+    "Longitude": 4.490318
+  },
+  {
+    "Timestamp": "2022-08-19 02:57",
+    "Speed": 0.6,
+    "Latitude": 51.91559,
+    "Longitude": 4.490555
+  },
+  {
+    "Timestamp": "2022-08-19 02:55",
+    "Speed": 1.3,
+    "Latitude": 51.91498,
+    "Longitude": 4.49082
+  },
+  {
+    "Timestamp": "2022-08-19 02:52",
+    "Speed": 5.2,
+    "Latitude": 51.91595,
+    "Longitude": 4.49394
+  },
+  {
+    "Timestamp": "2022-08-19 02:50",
+    "Speed": 6.6,
+    "Latitude": 51.9177,
+    "Longitude": 4.499087
+  },
+  {
+    "Timestamp": "2022-08-19 02:47",
+    "Speed": 8.8,
+    "Latitude": 51.91721,
+    "Longitude": 4.507033
+  },
+  {
+    "Timestamp": "2022-08-19 02:45",
+    "Speed": 9.3,
+    "Latitude": 51.91389,
+    "Longitude": 4.513842
+  },
+  {
+    "Timestamp": "2022-08-19 02:43",
+    "Speed": 9.8,
+    "Latitude": 51.90845,
+    "Longitude": 4.517211
+  },
+  {
+    "Timestamp": "2022-08-19 02:41",
+    "Speed": 8.9,
+    "Latitude": 51.90315,
+    "Longitude": 4.520103
+  },
+  {
+    "Timestamp": "2022-08-19 02:39",
+    "Speed": 9.8,
+    "Latitude": 51.90071,
+    "Longitude": 4.527213
+  },
+  {
+    "Timestamp": "2022-08-19 02:36",
+    "Speed": 10.2,
+    "Latitude": 51.90304,
+    "Longitude": 4.538785
+  },
+  {
+    "Timestamp": "2022-08-19 02:34",
+    "Speed": 9.9,
+    "Latitude": 51.90467,
+    "Longitude": 4.547425
+  },
+  {
+    "Timestamp": "2022-08-19 02:32",
+    "Speed": 10.1,
+    "Latitude": 51.90547,
+    "Longitude": 4.556955
+  },
+  {
+    "Timestamp": "2022-08-19 02:30",
+    "Speed": 10.2,
+    "Latitude": 51.90468,
+    "Longitude": 4.567383
+  },
+  {
+    "Timestamp": "2022-08-19 02:28",
+    "Speed": 10.1,
+    "Latitude": 51.90331,
+    "Longitude": 4.57622
+  },
+  {
+    "Timestamp": "2022-08-19 02:25",
+    "Speed": 10,
+    "Latitude": 51.90005,
+    "Longitude": 4.585223
+  },
+  {
+    "Timestamp": "2022-08-19 02:23",
+    "Speed": 9.8,
+    "Latitude": 51.89575,
+    "Longitude": 4.592717
+  },
+  {
+    "Timestamp": "2022-08-19 02:21",
+    "Speed": 10.7,
+    "Latitude": 51.89295,
+    "Longitude": 4.601558
+  },
+  {
+    "Timestamp": "2022-08-19 02:18",
+    "Speed": 10,
+    "Latitude": 51.89063,
+    "Longitude": 4.613687
+  },
+  {
+    "Timestamp": "2022-08-19 02:16",
+    "Speed": 9.3,
+    "Latitude": 51.88969,
+    "Longitude": 4.623417
+  },
+  {
+    "Timestamp": "2022-08-19 02:13",
+    "Speed": 9.3,
+    "Latitude": 51.89063,
+    "Longitude": 4.63321
+  },
+  {
+    "Timestamp": "2022-08-19 02:11",
+    "Speed": 9.5,
+    "Latitude": 51.89063,
+    "Longitude": 4.642962
+  },
+  {
+    "Timestamp": "2022-08-19 02:09",
+    "Speed": 9.6,
+    "Latitude": 51.89011,
+    "Longitude": 4.652332
+  },
+  {
+    "Timestamp": "2022-08-19 02:06",
+    "Speed": 9.2,
+    "Latitude": 51.88991,
+    "Longitude": 4.662883
+  },
+  {
+    "Timestamp": "2022-08-19 02:04",
+    "Speed": 9.3,
+    "Latitude": 51.89051,
+    "Longitude": 4.672359
+  },
+  {
+    "Timestamp": "2022-08-19 02:02",
+    "Speed": 9.6,
+    "Latitude": 51.89283,
+    "Longitude": 4.680793
+  },
+  {
+    "Timestamp": "2022-08-19 02:00",
+    "Speed": 9.5,
+    "Latitude": 51.89489,
+    "Longitude": 4.690328
+  },
+  {
+    "Timestamp": "2022-08-19 01:57",
+    "Speed": 9.3,
+    "Latitude": 51.89663,
+    "Longitude": 4.69974
+  },
+  {
+    "Timestamp": "2022-08-19 01:55",
+    "Speed": 9.5,
+    "Latitude": 51.89709,
+    "Longitude": 4.70956
+  },
+  {
+    "Timestamp": "2022-08-19 01:53",
+    "Speed": 9.3,
+    "Latitude": 51.89745,
+    "Longitude": 4.718618
+  },
+  {
+    "Timestamp": "2022-08-19 01:50",
+    "Speed": 9.9,
+    "Latitude": 51.89962,
+    "Longitude": 4.727962
+  },
+  {
+    "Timestamp": "2022-08-19 01:48",
+    "Speed": 9.9,
+    "Latitude": 51.90257,
+    "Longitude": 4.736435
+  },
+  {
+    "Timestamp": "2022-08-19 01:46",
+    "Speed": 9.9,
+    "Latitude": 51.90625,
+    "Longitude": 4.744935
+  },
+  {
+    "Timestamp": "2022-08-19 01:43",
+    "Speed": 10,
+    "Latitude": 51.91071,
+    "Longitude": 4.753597
+  },
+  {
+    "Timestamp": "2022-08-19 01:41",
+    "Speed": 9.9,
+    "Latitude": 51.91446,
+    "Longitude": 4.762002
+  },
+  {
+    "Timestamp": "2022-08-19 01:39",
+    "Speed": 9.8,
+    "Latitude": 51.91662,
+    "Longitude": 4.770935
+  },
+  {
+    "Timestamp": "2022-08-19 01:37",
+    "Speed": 9.9,
+    "Latitude": 51.91747,
+    "Longitude": 4.780165
+  },
+  {
+    "Timestamp": "2022-08-19 01:34",
+    "Speed": 10.2,
+    "Latitude": 51.91963,
+    "Longitude": 4.790302
+  },
+  {
+    "Timestamp": "2022-08-19 01:32",
+    "Speed": 9.8,
+    "Latitude": 51.92151,
+    "Longitude": 4.800243
+  },
+  {
+    "Timestamp": "2022-08-19 01:30",
+    "Speed": 9.9,
+    "Latitude": 51.92398,
+    "Longitude": 4.809593
+  },
+  {
+    "Timestamp": "2022-08-19 01:27",
+    "Speed": 9.9,
+    "Latitude": 51.92842,
+    "Longitude": 4.817068
+  },
+  {
+    "Timestamp": "2022-08-19 01:25",
+    "Speed": 9.9,
+    "Latitude": 51.93392,
+    "Longitude": 4.82486
+  },
+  {
+    "Timestamp": "2022-08-19 01:22",
+    "Speed": 9.4,
+    "Latitude": 51.93927,
+    "Longitude": 4.83265
+  },
+  {
+    "Timestamp": "2022-08-19 01:19",
+    "Speed": 9.5,
+    "Latitude": 51.9412,
+    "Longitude": 4.843502
+  },
+  {
+    "Timestamp": "2022-08-19 01:16",
+    "Speed": 9,
+    "Latitude": 51.9414,
+    "Longitude": 4.855999
+  },
+  {
+    "Timestamp": "2022-08-19 01:14",
+    "Speed": 9.6,
+    "Latitude": 51.9395,
+    "Longitude": 4.866263
+  },
+  {
+    "Timestamp": "2022-08-19 01:11",
+    "Speed": 9.6,
+    "Latitude": 51.93816,
+    "Longitude": 4.876693
+  },
+  {
+    "Timestamp": "2022-08-19 01:09",
+    "Speed": 10.2,
+    "Latitude": 51.93909,
+    "Longitude": 4.888337
+  },
+  {
+    "Timestamp": "2022-08-19 01:06",
+    "Speed": 10.5,
+    "Latitude": 51.94075,
+    "Longitude": 4.900658
+  },
+  {
+    "Timestamp": "2022-08-19 01:03",
+    "Speed": 9.9,
+    "Latitude": 51.94236,
+    "Longitude": 4.913495
+  },
+  {
+    "Timestamp": "2022-08-19 01:00",
+    "Speed": 10,
+    "Latitude": 51.94617,
+    "Longitude": 4.923062
+  },
+  {
+    "Timestamp": "2022-08-19 00:58",
+    "Speed": 10.2,
+    "Latitude": 51.95204,
+    "Longitude": 4.92791
+  },
+  {
+    "Timestamp": "2022-08-19 00:56",
+    "Speed": 10,
+    "Latitude": 51.95816,
+    "Longitude": 4.93175
+  },
+  {
+    "Timestamp": "2022-08-19 00:53",
+    "Speed": 10.1,
+    "Latitude": 51.96295,
+    "Longitude": 4.93875
+  },
+  {
+    "Timestamp": "2022-08-19 00:51",
+    "Speed": 9.9,
+    "Latitude": 51.96346,
+    "Longitude": 4.949518
+  },
+  {
+    "Timestamp": "2022-08-19 00:48",
+    "Speed": 9.6,
+    "Latitude": 51.96045,
+    "Longitude": 4.959098
+  },
+  {
+    "Timestamp": "2022-08-19 00:46",
+    "Speed": 9.2,
+    "Latitude": 51.96036,
+    "Longitude": 4.969543
+  },
+  {
+    "Timestamp": "2022-08-19 00:43",
+    "Speed": 9.8,
+    "Latitude": 51.96483,
+    "Longitude": 4.97713
+  },
+  {
+    "Timestamp": "2022-08-19 00:41",
+    "Speed": 9.9,
+    "Latitude": 51.9703,
+    "Longitude": 4.982685
+  },
+  {
+    "Timestamp": "2022-08-19 00:38",
+    "Speed": 9.9,
+    "Latitude": 51.97544,
+    "Longitude": 4.991187
+  },
+  {
+    "Timestamp": "2022-08-19 00:36",
+    "Speed": 9.7,
+    "Latitude": 51.97719,
+    "Longitude": 5.004655
+  },
+  {
+    "Timestamp": "2022-08-19 00:34",
+    "Speed": 9.7,
+    "Latitude": 51.9756,
+    "Longitude": 5.00982
+  },
+  {
+    "Timestamp": "2022-08-19 00:31",
+    "Speed": 9.6,
+    "Latitude": 51.97114,
+    "Longitude": 5.016917
+  },
+  {
+    "Timestamp": "2022-08-19 00:29",
+    "Speed": 9.4,
+    "Latitude": 51.9687,
+    "Longitude": 5.02565
+  },
+  {
+    "Timestamp": "2022-08-19 00:27",
+    "Speed": 9.2,
+    "Latitude": 51.97065,
+    "Longitude": 5.03525
+  },
+  {
+    "Timestamp": "2022-08-19 00:24",
+    "Speed": 9.6,
+    "Latitude": 51.97615,
+    "Longitude": 5.03985
+  },
+  {
+    "Timestamp": "2022-08-19 00:22",
+    "Speed": 9.8,
+    "Latitude": 51.98122,
+    "Longitude": 5.044135
+  },
+  {
+    "Timestamp": "2022-08-19 00:19",
+    "Speed": 9.3,
+    "Latitude": 51.98595,
+    "Longitude": 5.05266
+  },
+  {
+    "Timestamp": "2022-08-19 00:17",
+    "Speed": 9.4,
+    "Latitude": 51.98958,
+    "Longitude": 5.060315
+  },
+  {
+    "Timestamp": "2022-08-19 00:14",
+    "Speed": 8.9,
+    "Latitude": 51.99446,
+    "Longitude": 5.067902
+  },
+  {
+    "Timestamp": "2022-08-19 00:12",
+    "Speed": 9,
+    "Latitude": 51.99705,
+    "Longitude": 5.07557
+  },
+  {
+    "Timestamp": "2022-08-19 00:10",
+    "Speed": 9.2,
+    "Latitude": 51.99999,
+    "Longitude": 5.08544
+  },
+  {
+    "Timestamp": "2022-08-19 00:07",
+    "Speed": 9.3,
+    "Latitude": 52.00244,
+    "Longitude": 5.095237
+  },
+  {
+    "Timestamp": "2022-08-19 00:05",
+    "Speed": 8.2,
+    "Latitude": 52.0039,
+    "Longitude": 5.10331
+  },
+  {
+    "Timestamp": "2022-08-19 00:02",
+    "Speed": 5.9,
+    "Latitude": 52.00777,
+    "Longitude": 5.107312
+  },
+  {
+    "Timestamp": "2022-08-19 00:00",
+    "Speed": 3.5,
+    "Latitude": 52.01147,
+    "Longitude": 5.109588
+  },
+  {
+    "Timestamp": "2022-08-18 23:58",
+    "Speed": 1.6,
+    "Latitude": 52.01264,
+    "Longitude": 5.110135
+  },
+  {
+    "Timestamp": "2022-08-18 23:41",
+    "Speed": 0.1,
+    "Latitude": 52.01282,
+    "Longitude": 5.110183
+  },
+  {
+    "Timestamp": "2022-08-18 23:36",
+    "Speed": 2.4,
+    "Latitude": 52.01384,
+    "Longitude": 5.110641
+  },
+  {
+    "Timestamp": "2022-08-18 23:32",
+    "Speed": 3.3,
+    "Latitude": 52.01668,
+    "Longitude": 5.112051
+  },
+  {
+    "Timestamp": "2022-08-18 23:30",
+    "Speed": 3.8,
+    "Latitude": 52.01897,
+    "Longitude": 5.11298
+  },
+  {
+    "Timestamp": "2022-08-18 23:27",
+    "Speed": 4,
+    "Latitude": 52.02181,
+    "Longitude": 5.113863
+  },
+  {
+    "Timestamp": "2022-08-18 23:25",
+    "Speed": 4.5,
+    "Latitude": 52.02412,
+    "Longitude": 5.114588
+  },
+  {
+    "Timestamp": "2022-08-18 23:22",
+    "Speed": 5.4,
+    "Latitude": 52.02843,
+    "Longitude": 5.11485
+  },
+  {
+    "Timestamp": "2022-08-18 23:19",
+    "Speed": 6.1,
+    "Latitude": 52.03259,
+    "Longitude": 5.113395
+  },
+  {
+    "Timestamp": "2022-08-18 23:17",
+    "Speed": 7.6,
+    "Latitude": 52.03654,
+    "Longitude": 5.111693
+  },
+  {
+    "Timestamp": "2022-08-18 23:14",
+    "Speed": 8.3,
+    "Latitude": 52.04279,
+    "Longitude": 5.108645
+  },
+  {
+    "Timestamp": "2022-08-18 23:12",
+    "Speed": 8.6,
+    "Latitude": 52.04761,
+    "Longitude": 5.106343
+  },
+  {
+    "Timestamp": "2022-08-18 23:10",
+    "Speed": 9.3,
+    "Latitude": 52.05392,
+    "Longitude": 5.102967
+  },
+  {
+    "Timestamp": "2022-08-18 23:07",
+    "Speed": 9.7,
+    "Latitude": 52.05905,
+    "Longitude": 5.098732
+  },
+  {
+    "Timestamp": "2022-08-18 23:05",
+    "Speed": 8.6,
+    "Latitude": 52.06418,
+    "Longitude": 5.093926
+  },
+  {
+    "Timestamp": "2022-08-18 23:03",
+    "Speed": 8.6,
+    "Latitude": 52.0689,
+    "Longitude": 5.089422
+  },
+  {
+    "Timestamp": "2022-08-18 23:00",
+    "Speed": 8.2,
+    "Latitude": 52.07467,
+    "Longitude": 5.084143
+  },
+  {
+    "Timestamp": "2022-08-18 22:57",
+    "Speed": 9.6,
+    "Latitude": 52.08105,
+    "Longitude": 5.080347
+  },
+  {
+    "Timestamp": "2022-08-18 22:54",
+    "Speed": 9.5,
+    "Latitude": 52.0892,
+    "Longitude": 5.07865
+  },
+  {
+    "Timestamp": "2022-08-18 22:51",
+    "Speed": 9.2,
+    "Latitude": 52.09579,
+    "Longitude": 5.077404
+  },
+  {
+    "Timestamp": "2022-08-18 22:49",
+    "Speed": 9.3,
+    "Latitude": 52.10172,
+    "Longitude": 5.076412
+  },
+  {
+    "Timestamp": "2022-08-18 22:46",
+    "Speed": 8.9,
+    "Latitude": 52.11003,
+    "Longitude": 5.076963
+  },
+  {
+    "Timestamp": "2022-08-18 22:43",
+    "Speed": 9.3,
+    "Latitude": 52.11555,
+    "Longitude": 5.07285
+  },
+  {
+    "Timestamp": "2022-08-18 22:41",
+    "Speed": 9.6,
+    "Latitude": 52.11979,
+    "Longitude": 5.065542
+  },
+  {
+    "Timestamp": "2022-08-18 22:38",
+    "Speed": 9.4,
+    "Latitude": 52.12465,
+    "Longitude": 5.057297
+  },
+  {
+    "Timestamp": "2022-08-18 22:36",
+    "Speed": 8.9,
+    "Latitude": 52.12921,
+    "Longitude": 5.049132
+  },
+  {
+    "Timestamp": "2022-08-18 22:33",
+    "Speed": 8.8,
+    "Latitude": 52.13225,
+    "Longitude": 5.041467
+  },
+  {
+    "Timestamp": "2022-08-18 22:31",
+    "Speed": 9.5,
+    "Latitude": 52.13656,
+    "Longitude": 5.033475
+  },
+  {
+    "Timestamp": "2022-08-18 22:29",
+    "Speed": 9.4,
+    "Latitude": 52.14048,
+    "Longitude": 5.026697
+  },
+  {
+    "Timestamp": "2022-08-18 22:26",
+    "Speed": 9.6,
+    "Latitude": 52.14497,
+    "Longitude": 5.018808
+  },
+  {
+    "Timestamp": "2022-08-18 22:24",
+    "Speed": 9.6,
+    "Latitude": 52.1495,
+    "Longitude": 5.011035
+  },
+  {
+    "Timestamp": "2022-08-18 22:21",
+    "Speed": 9.2,
+    "Latitude": 52.15396,
+    "Longitude": 5.003285
+  },
+  {
+    "Timestamp": "2022-08-18 22:18",
+    "Speed": 9.4,
+    "Latitude": 52.16095,
+    "Longitude": 4.996645
+  },
+  {
+    "Timestamp": "2022-08-18 22:15",
+    "Speed": 9.4,
+    "Latitude": 52.16839,
+    "Longitude": 4.995118
+  },
+  {
+    "Timestamp": "2022-08-18 22:13",
+    "Speed": 9.3,
+    "Latitude": 52.17831,
+    "Longitude": 4.993923
+  },
+  {
+    "Timestamp": "2022-08-18 22:11",
+    "Speed": 9.1,
+    "Latitude": 52.17965,
+    "Longitude": 4.994075
+  },
+  {
+    "Timestamp": "2022-08-18 22:07",
+    "Speed": 8,
+    "Latitude": 52.18745,
+    "Longitude": 4.996018
+  },
+  {
+    "Timestamp": "2022-08-18 22:03",
+    "Speed": 9.7,
+    "Latitude": 52.19881,
+    "Longitude": 4.998975
+  },
+  {
+    "Timestamp": "2022-08-18 21:59",
+    "Speed": 9.6,
+    "Latitude": 52.20836,
+    "Longitude": 5.001595
+  },
+  {
+    "Timestamp": "2022-08-18 21:56",
+    "Speed": 9.5,
+    "Latitude": 52.21497,
+    "Longitude": 5.003433
+  },
+  {
+    "Timestamp": "2022-08-18 21:52",
+    "Speed": 6.6,
+    "Latitude": 52.22583,
+    "Longitude": 5.00639
+  },
+  {
+    "Timestamp": "2022-08-18 21:49",
+    "Speed": 9.5,
+    "Latitude": 52.23364,
+    "Longitude": 5.008471
+  },
+  {
+    "Timestamp": "2022-08-18 21:46",
+    "Speed": 9.5,
+    "Latitude": 52.24099,
+    "Longitude": 5.010465
+  },
+  {
+    "Timestamp": "2022-08-18 21:43",
+    "Speed": 9.4,
+    "Latitude": 52.24891,
+    "Longitude": 5.012593
+  },
+  {
+    "Timestamp": "2022-08-18 21:41",
+    "Speed": 9.6,
+    "Latitude": 52.25551,
+    "Longitude": 5.014473
+  },
+  {
+    "Timestamp": "2022-08-18 21:38",
+    "Speed": 9.4,
+    "Latitude": 52.26258,
+    "Longitude": 5.01639
+  },
+  {
+    "Timestamp": "2022-08-18 21:35",
+    "Speed": 9.4,
+    "Latitude": 52.26988,
+    "Longitude": 5.018402
+  },
+  {
+    "Timestamp": "2022-08-18 21:33",
+    "Speed": 8.4,
+    "Latitude": 52.27545,
+    "Longitude": 5.020226
+  },
+  {
+    "Timestamp": "2022-08-18 21:29",
+    "Speed": 9.5,
+    "Latitude": 52.28511,
+    "Longitude": 5.021657
+  },
+  {
+    "Timestamp": "2022-08-18 21:26",
+    "Speed": 9.6,
+    "Latitude": 52.29263,
+    "Longitude": 5.021375
+  },
+  {
+    "Timestamp": "2022-08-18 21:23",
+    "Speed": 9.3,
+    "Latitude": 52.30145,
+    "Longitude": 5.021318
+  },
+  {
+    "Timestamp": "2022-08-18 21:20",
+    "Speed": 9.5,
+    "Latitude": 52.30844,
+    "Longitude": 5.020053
+  },
+  {
+    "Timestamp": "2022-08-18 21:18",
+    "Speed": 9.6,
+    "Latitude": 52.31422,
+    "Longitude": 5.019092
+  },
+  {
+    "Timestamp": "2022-08-18 21:16",
+    "Speed": 9.5,
+    "Latitude": 52.32082,
+    "Longitude": 5.017877
+  },
+  {
+    "Timestamp": "2022-08-18 21:14",
+    "Speed": 9.2,
+    "Latitude": 52.32605,
+    "Longitude": 5.017653
+  },
+  {
+    "Timestamp": "2022-08-18 21:11",
+    "Speed": 9.4,
+    "Latitude": 52.33233,
+    "Longitude": 5.01527
+  },
+  {
+    "Timestamp": "2022-08-18 21:06",
+    "Speed": 10.2,
+    "Latitude": 52.34137,
+    "Longitude": 5.000167
+  },
+  {
+    "Timestamp": "2022-08-18 21:04",
+    "Speed": 9.9,
+    "Latitude": 52.34578,
+    "Longitude": 4.9918
+  },
+  {
+    "Timestamp": "2022-08-18 21:01",
+    "Speed": 9.7,
+    "Latitude": 52.35084,
+    "Longitude": 4.98229
+  },
+  {
+    "Timestamp": "2022-08-18 20:59",
+    "Speed": 9.3,
+    "Latitude": 52.35507,
+    "Longitude": 4.973902
+  },
+  {
+    "Timestamp": "2022-08-18 20:56",
+    "Speed": 7.5,
+    "Latitude": 52.35725,
+    "Longitude": 4.964726
+  },
+  {
+    "Timestamp": "2022-08-18 20:53",
+    "Speed": 7.4,
+    "Latitude": 52.36133,
+    "Longitude": 4.959058
+  },
+  {
+    "Timestamp": "2022-08-18 20:50",
+    "Speed": 7.4,
+    "Latitude": 52.36866,
+    "Longitude": 4.956612
+  },
+  {
+    "Timestamp": "2022-08-18 20:47",
+    "Speed": 7.5,
+    "Latitude": 52.37348,
+    "Longitude": 4.955415
+  },
+  {
+    "Timestamp": "2022-08-18 20:45",
+    "Speed": 7.2,
+    "Latitude": 52.3777,
+    "Longitude": 4.953367
+  },
+  {
+    "Timestamp": "2022-08-18 20:43",
+    "Speed": 8,
+    "Latitude": 52.3816,
+    "Longitude": 4.948713
+  },
+  {
+    "Timestamp": "2022-08-18 20:41",
+    "Speed": 8.1,
+    "Latitude": 52.3824,
+    "Longitude": 4.940293
+  },
+  {
+    "Timestamp": "2022-08-18 20:38",
+    "Speed": 8.2,
+    "Latitude": 52.38206,
+    "Longitude": 4.931716
+  },
+  {
+    "Timestamp": "2022-08-18 20:36",
+    "Speed": 7.2,
+    "Latitude": 52.38093,
+    "Longitude": 4.923093
+  },
+  {
+    "Timestamp": "2022-08-18 20:33",
+    "Speed": 5.6,
+    "Latitude": 52.38015,
+    "Longitude": 4.9162
+  },
+  {
+    "Timestamp": "2022-08-18 20:26",
+    "Speed": 0.2,
+    "Latitude": 52.37878,
+    "Longitude": 4.910537
+  },
+  {
+    "Timestamp": "2022-08-18 20:24",
+    "Speed": 0.7,
+    "Latitude": 52.37855,
+    "Longitude": 4.910325
+  },
+  {
+    "Timestamp": "2022-08-18 20:22",
+    "Speed": 0.7,
+    "Latitude": 52.37851,
+    "Longitude": 4.90965
+  },
+  {
+    "Timestamp": "2022-08-18 20:20",
+    "Speed": 0.6,
+    "Latitude": 52.37851,
+    "Longitude": 4.908872
+  },
+  {
+    "Timestamp": "2022-08-18 19:56",
+    "Speed": 0.1,
+    "Latitude": 52.37854,
+    "Longitude": 4.908711
+  },
+  {
+    "Timestamp": "2022-08-18 19:36",
+    "Speed": 0.1,
+    "Latitude": 52.37854,
+    "Longitude": 4.908708
+  },
+  {
+    "Timestamp": "2022-08-18 19:14",
+    "Speed": 0,
+    "Latitude": 52.37852,
+    "Longitude": 4.908715
+  },
+  {
+    "Timestamp": "2022-08-18 18:52",
+    "Speed": 0,
+    "Latitude": 52.37853,
+    "Longitude": 4.908687
+  },
+  {
+    "Timestamp": "2022-08-18 18:30",
+    "Speed": 0,
+    "Latitude": 52.37852,
+    "Longitude": 4.908705
+  },
+  {
+    "Timestamp": "2022-08-18 18:06",
+    "Speed": 0.1,
+    "Latitude": 52.37852,
+    "Longitude": 4.90871
+  },
+  {
+    "Timestamp": "2022-08-18 17:44",
+    "Speed": 0,
+    "Latitude": 52.37853,
+    "Longitude": 4.908702
+  },
+  {
+    "Timestamp": "2022-08-18 17:24",
+    "Speed": 0,
+    "Latitude": 52.37851,
+    "Longitude": 4.908693
+  },
+  {
+    "Timestamp": "2022-08-18 17:01",
+    "Speed": 0,
+    "Latitude": 52.37852,
+    "Longitude": 4.908725
+  },
+  {
+    "Timestamp": "2022-08-18 16:39",
+    "Speed": 0,
+    "Latitude": 52.37849,
+    "Longitude": 4.908723
+  },
+  {
+    "Timestamp": "2022-08-18 16:18",
+    "Speed": 0,
+    "Latitude": 52.37852,
+    "Longitude": 4.908707
+  },
+  {
+    "Timestamp": "2022-08-18 15:57",
+    "Speed": 0,
+    "Latitude": 52.37854,
+    "Longitude": 4.908718
+  },
+  {
+    "Timestamp": "2022-08-18 15:35",
+    "Speed": 0,
+    "Latitude": 52.37852,
+    "Longitude": 4.908685
+  },
+  {
+    "Timestamp": "2022-08-18 15:12",
+    "Speed": 0.4,
+    "Latitude": 52.37849,
+    "Longitude": 4.908703
+  },
+  {
+    "Timestamp": "2022-08-18 14:49",
+    "Speed": 0,
+    "Latitude": 52.37851,
+    "Longitude": 4.90872
+  },
+  {
+    "Timestamp": "2022-08-18 14:27",
+    "Speed": 0.1,
+    "Latitude": 52.37853,
+    "Longitude": 4.908711
+  },
+  {
+    "Timestamp": "2022-08-18 14:25",
+    "Speed": 1.3,
+    "Latitude": 52.3785,
+    "Longitude": 4.908727
+  },
+  {
+    "Timestamp": "2022-08-18 14:03",
+    "Speed": 0.1,
+    "Latitude": 52.37852,
+    "Longitude": 4.908695
+  },
+  {
+    "Timestamp": "2022-08-18 13:40",
+    "Speed": 0,
+    "Latitude": 52.37852,
+    "Longitude": 4.908703
+  },
+  {
+    "Timestamp": "2022-08-18 13:17",
+    "Speed": 0,
+    "Latitude": 52.3785,
+    "Longitude": 4.908715
+  },
+  {
+    "Timestamp": "2022-08-18 12:55",
+    "Speed": 0,
+    "Latitude": 52.37852,
+    "Longitude": 4.90871
+  },
+  {
+    "Timestamp": "2022-08-18 12:32",
+    "Speed": 0,
+    "Latitude": 52.37851,
+    "Longitude": 4.908682
+  },
+  {
+    "Timestamp": "2022-08-18 12:11",
+    "Speed": 0.1,
+    "Latitude": 52.3785,
+    "Longitude": 4.908687
+  },
+  {
+    "Timestamp": "2022-08-18 11:48",
+    "Speed": 0,
+    "Latitude": 52.37852,
+    "Longitude": 4.908692
+  },
+  {
+    "Timestamp": "2022-08-18 11:27",
+    "Speed": 0.1,
+    "Latitude": 52.3785,
+    "Longitude": 4.908702
+  },
+  {
+    "Timestamp": "2022-08-18 11:05",
+    "Speed": 0,
+    "Latitude": 52.37851,
+    "Longitude": 4.908713
+  },
+  {
+    "Timestamp": "2022-08-18 10:43",
+    "Speed": 0,
+    "Latitude": 52.37852,
+    "Longitude": 4.908697
+  },
+  {
+    "Timestamp": "2022-08-18 10:20",
+    "Speed": 0,
+    "Latitude": 52.37852,
+    "Longitude": 4.908672
+  },
+  {
+    "Timestamp": "2022-08-18 09:58",
+    "Speed": 0,
+    "Latitude": 52.3785,
+    "Longitude": 4.908737
+  },
+  {
+    "Timestamp": "2022-08-18 09:36",
+    "Speed": 0,
+    "Latitude": 52.37851,
+    "Longitude": 4.908687
+  },
+  {
+    "Timestamp": "2022-08-18 09:13",
+    "Speed": 0,
+    "Latitude": 52.37852,
+    "Longitude": 4.908689
+  },
+  {
+    "Timestamp": "2022-08-18 08:51",
+    "Speed": 0,
+    "Latitude": 52.3785,
+    "Longitude": 4.908708
+  },
+  {
+    "Timestamp": "2022-08-18 08:30",
+    "Speed": 0,
+    "Latitude": 52.37852,
+    "Longitude": 4.908693
+  },
+  {
+    "Timestamp": "2022-08-18 08:08",
+    "Speed": 0,
+    "Latitude": 52.37852,
+    "Longitude": 4.90871
+  },
+  {
+    "Timestamp": "2022-08-18 07:47",
+    "Speed": 0,
+    "Latitude": 52.37849,
+    "Longitude": 4.908687
+  },
+  {
+    "Timestamp": "2022-08-18 07:25",
+    "Speed": 0,
+    "Latitude": 52.37853,
+    "Longitude": 4.908669
+  },
+  {
+    "Timestamp": "2022-08-18 07:03",
+    "Speed": 0.1,
+    "Latitude": 52.37851,
+    "Longitude": 4.908687
+  },
+  {
+    "Timestamp": "2022-08-18 06:41",
+    "Speed": 0.1,
+    "Latitude": 52.37853,
+    "Longitude": 4.908717
+  },
+  {
+    "Timestamp": "2022-08-18 06:19",
+    "Speed": 0,
+    "Latitude": 52.37852,
+    "Longitude": 4.90871
+  },
+  {
+    "Timestamp": "2022-08-18 05:58",
+    "Speed": 0.1,
+    "Latitude": 52.37852,
+    "Longitude": 4.908673
+  },
+  {
+    "Timestamp": "2022-08-18 05:37",
+    "Speed": 0,
+    "Latitude": 52.37851,
+    "Longitude": 4.908708
+  },
+  {
+    "Timestamp": "2022-08-18 05:15",
+    "Speed": 0,
+    "Latitude": 52.37851,
+    "Longitude": 4.90869
+  },
+  {
+    "Timestamp": "2022-08-18 04:53",
+    "Speed": 0.1,
+    "Latitude": 52.37851,
+    "Longitude": 4.908659
+  },
+  {
+    "Timestamp": "2022-08-18 04:32",
+    "Speed": 0,
+    "Latitude": 52.37851,
+    "Longitude": 4.908693
+  },
+  {
+    "Timestamp": "2022-08-18 04:10",
+    "Speed": 0,
+    "Latitude": 52.37852,
+    "Longitude": 4.908715
+  },
+  {
+    "Timestamp": "2022-08-18 03:48",
+    "Speed": 0,
+    "Latitude": 52.37851,
+    "Longitude": 4.908692
+  },
+  {
+    "Timestamp": "2022-08-18 03:26",
+    "Speed": 0,
+    "Latitude": 52.37852,
+    "Longitude": 4.908695
+  },
+  {
+    "Timestamp": "2022-08-18 03:04",
+    "Speed": 0,
+    "Latitude": 52.37852,
+    "Longitude": 4.908693
+  },
+  {
+    "Timestamp": "2022-08-18 02:43",
+    "Speed": 0,
+    "Latitude": 52.37853,
+    "Longitude": 4.908705
+  },
+  {
+    "Timestamp": "2022-08-18 02:21",
+    "Speed": 0,
+    "Latitude": 52.37852,
+    "Longitude": 4.90871
+  },
+  {
+    "Timestamp": "2022-08-18 01:59",
+    "Speed": 0,
+    "Latitude": 52.37855,
+    "Longitude": 4.908675
+  },
+  {
+    "Timestamp": "2022-08-18 01:36",
+    "Speed": 0,
+    "Latitude": 52.37852,
+    "Longitude": 4.908692
+  },
+  {
+    "Timestamp": "2022-08-18 01:15",
+    "Speed": 0,
+    "Latitude": 52.37854,
+    "Longitude": 4.9087
+  },
+  {
+    "Timestamp": "2022-08-18 00:54",
+    "Speed": 0,
+    "Latitude": 52.37853,
+    "Longitude": 4.908718
+  },
+  {
+    "Timestamp": "2022-08-18 00:31",
+    "Speed": 0,
+    "Latitude": 52.37856,
+    "Longitude": 4.908707
+  },
+  {
+    "Timestamp": "2022-08-18 00:10",
+    "Speed": 0,
+    "Latitude": 52.37848,
+    "Longitude": 4.908682
+  },
+  {
+    "Timestamp": "2022-08-17 23:48",
+    "Speed": 0,
+    "Latitude": 52.37852,
+    "Longitude": 4.908679
+  },
+  {
+    "Timestamp": "2022-08-17 23:27",
+    "Speed": 0,
+    "Latitude": 52.37854,
+    "Longitude": 4.908667
+  },
+  {
+    "Timestamp": "2022-08-17 23:04",
+    "Speed": 0.4,
+    "Latitude": 52.37853,
+    "Longitude": 4.908893
+  },
+  {
+    "Timestamp": "2022-08-17 23:02",
+    "Speed": 1,
+    "Latitude": 52.37852,
+    "Longitude": 4.909544
+  },
+  {
+    "Timestamp": "2022-08-17 22:58",
+    "Speed": 4.2,
+    "Latitude": 52.37951,
+    "Longitude": 4.912973
+  },
+  {
+    "Timestamp": "2022-08-17 22:55",
+    "Speed": 10.3,
+    "Latitude": 52.38107,
+    "Longitude": 4.920217
+  },
+  {
+    "Timestamp": "2022-08-17 22:53",
+    "Speed": 10.6,
+    "Latitude": 52.38236,
+    "Longitude": 4.930702
+  },
+  {
+    "Timestamp": "2022-08-17 22:51",
+    "Speed": 10.8,
+    "Latitude": 52.38271,
+    "Longitude": 4.942662
+  },
+  {
+    "Timestamp": "2022-08-17 22:48",
+    "Speed": 9.2,
+    "Latitude": 52.38136,
+    "Longitude": 4.953802
+  },
+  {
+    "Timestamp": "2022-08-17 22:46",
+    "Speed": 1.8,
+    "Latitude": 52.38016,
+    "Longitude": 4.959103
+  },
+  {
+    "Timestamp": "2022-08-17 22:37",
+    "Speed": 0,
+    "Latitude": 52.38004,
+    "Longitude": 4.959585
+  },
+  {
+    "Timestamp": "2022-08-17 22:35",
+    "Speed": 1,
+    "Latitude": 52.37995,
+    "Longitude": 4.95999
+  },
+  {
+    "Timestamp": "2022-08-17 22:33",
+    "Speed": 1.8,
+    "Latitude": 52.37957,
+    "Longitude": 4.961438
+  },
+  {
+    "Timestamp": "2022-08-17 22:30",
+    "Speed": 1.3,
+    "Latitude": 52.37891,
+    "Longitude": 4.963183
+  },
+  {
+    "Timestamp": "2022-08-17 22:22",
+    "Speed": 0,
+    "Latitude": 52.37876,
+    "Longitude": 4.963304
+  },
+  {
+    "Timestamp": "2022-08-17 22:19",
+    "Speed": 0.5,
+    "Latitude": 52.37875,
+    "Longitude": 4.963493
+  },
+  {
+    "Timestamp": "2022-08-17 22:17",
+    "Speed": 1.7,
+    "Latitude": 52.37863,
+    "Longitude": 4.964628
+  },
+  {
+    "Timestamp": "2022-08-17 22:15",
+    "Speed": 5.6,
+    "Latitude": 52.37784,
+    "Longitude": 4.966953
+  },
+  {
+    "Timestamp": "2022-08-17 22:12",
+    "Speed": 7.2,
+    "Latitude": 52.37487,
+    "Longitude": 4.972792
+  },
+  {
+    "Timestamp": "2022-08-17 22:10",
+    "Speed": 9.1,
+    "Latitude": 52.37165,
+    "Longitude": 4.97941
+  },
+  {
+    "Timestamp": "2022-08-17 22:08",
+    "Speed": 10.7,
+    "Latitude": 52.36899,
+    "Longitude": 4.988402
+  },
+  {
+    "Timestamp": "2022-08-17 22:05",
+    "Speed": 10.6,
+    "Latitude": 52.36863,
+    "Longitude": 5.001312
+  },
+  {
+    "Timestamp": "2022-08-17 22:03",
+    "Speed": 10.5,
+    "Latitude": 52.36975,
+    "Longitude": 5.012457
+  },
+  {
+    "Timestamp": "2022-08-17 22:01",
+    "Speed": 10.5,
+    "Latitude": 52.37194,
+    "Longitude": 5.02193
+  },
+  {
+    "Timestamp": "2022-08-17 21:58",
+    "Speed": 10.4,
+    "Latitude": 52.37492,
+    "Longitude": 5.031882
+  },
+  {
+    "Timestamp": "2022-08-17 21:56",
+    "Speed": 10.7,
+    "Latitude": 52.37809,
+    "Longitude": 5.041623
+  },
+  {
+    "Timestamp": "2022-08-17 21:54",
+    "Speed": 10.9,
+    "Latitude": 52.38104,
+    "Longitude": 5.050192
+  },
+  {
+    "Timestamp": "2022-08-17 21:52",
+    "Speed": 11.2,
+    "Latitude": 52.3843,
+    "Longitude": 5.059757
+  },
+  {
+    "Timestamp": "2022-08-17 21:50",
+    "Speed": 10.8,
+    "Latitude": 52.38781,
+    "Longitude": 5.06976
+  },
+  {
+    "Timestamp": "2022-08-17 21:48",
+    "Speed": 10.6,
+    "Latitude": 52.39079,
+    "Longitude": 5.078122
+  },
+  {
+    "Timestamp": "2022-08-17 21:45",
+    "Speed": 11.2,
+    "Latitude": 52.39442,
+    "Longitude": 5.08779
+  },
+  {
+    "Timestamp": "2022-08-17 21:43",
+    "Speed": 11.6,
+    "Latitude": 52.39851,
+    "Longitude": 5.098027
+  },
+  {
+    "Timestamp": "2022-08-17 21:41",
+    "Speed": 10.6,
+    "Latitude": 52.40245,
+    "Longitude": 5.107762
+  },
+  {
+    "Timestamp": "2022-08-17 21:38",
+    "Speed": 10.5,
+    "Latitude": 52.40593,
+    "Longitude": 5.116505
+  },
+  {
+    "Timestamp": "2022-08-17 21:36",
+    "Speed": 10.9,
+    "Latitude": 52.4093,
+    "Longitude": 5.124557
+  },
+  {
+    "Timestamp": "2022-08-17 21:34",
+    "Speed": 11.4,
+    "Latitude": 52.41313,
+    "Longitude": 5.133363
+  },
+  {
+    "Timestamp": "2022-08-17 21:32",
+    "Speed": 11.7,
+    "Latitude": 52.41721,
+    "Longitude": 5.142502
+  },
+  {
+    "Timestamp": "2022-08-17 21:30",
+    "Speed": 11.5,
+    "Latitude": 52.42116,
+    "Longitude": 5.151898
+  },
+  {
+    "Timestamp": "2022-08-17 21:28",
+    "Speed": 11,
+    "Latitude": 52.42575,
+    "Longitude": 5.160455
+  },
+  {
+    "Timestamp": "2022-08-17 21:26",
+    "Speed": 10.4,
+    "Latitude": 52.43017,
+    "Longitude": 5.167805
+  },
+  {
+    "Timestamp": "2022-08-17 21:23",
+    "Speed": 10.4,
+    "Latitude": 52.43555,
+    "Longitude": 5.17326
+  },
+  {
+    "Timestamp": "2022-08-17 21:21",
+    "Speed": 10.4,
+    "Latitude": 52.44103,
+    "Longitude": 5.178333
+  },
+  {
+    "Timestamp": "2022-08-17 21:19",
+    "Speed": 10,
+    "Latitude": 52.44753,
+    "Longitude": 5.184387
+  },
+  {
+    "Timestamp": "2022-08-17 21:16",
+    "Speed": 10.1,
+    "Latitude": 52.45353,
+    "Longitude": 5.188615
+  },
+  {
+    "Timestamp": "2022-08-17 21:14",
+    "Speed": 10.1,
+    "Latitude": 52.45932,
+    "Longitude": 5.191463
+  },
+  {
+    "Timestamp": "2022-08-17 21:12",
+    "Speed": 10.1,
+    "Latitude": 52.46527,
+    "Longitude": 5.19289
+  },
+  {
+    "Timestamp": "2022-08-17 21:10",
+    "Speed": 10.2,
+    "Latitude": 52.47183,
+    "Longitude": 5.193733
+  },
+  {
+    "Timestamp": "2022-08-17 21:07",
+    "Speed": 10.3,
+    "Latitude": 52.47796,
+    "Longitude": 5.194561
+  },
+  {
+    "Timestamp": "2022-08-17 21:05",
+    "Speed": 10.3,
+    "Latitude": 52.48421,
+    "Longitude": 5.195382
+  },
+  {
+    "Timestamp": "2022-08-17 21:03",
+    "Speed": 10.2,
+    "Latitude": 52.49037,
+    "Longitude": 5.195795
+  },
+  {
+    "Timestamp": "2022-08-17 21:01",
+    "Speed": 10.2,
+    "Latitude": 52.49611,
+    "Longitude": 5.195271
+  },
+  {
+    "Timestamp": "2022-08-17 20:59",
+    "Speed": 10.2,
+    "Latitude": 52.503,
+    "Longitude": 5.1929
+  },
+  {
+    "Timestamp": "2022-08-17 20:56",
+    "Speed": 10.3,
+    "Latitude": 52.50942,
+    "Longitude": 5.189977
+  },
+  {
+    "Timestamp": "2022-08-17 20:54",
+    "Speed": 10.3,
+    "Latitude": 52.51515,
+    "Longitude": 5.18668
+  },
+  {
+    "Timestamp": "2022-08-17 20:52",
+    "Speed": 10.2,
+    "Latitude": 52.52141,
+    "Longitude": 5.18302
+  },
+  {
+    "Timestamp": "2022-08-17 20:49",
+    "Speed": 10.1,
+    "Latitude": 52.52811,
+    "Longitude": 5.179097
+  },
+  {
+    "Timestamp": "2022-08-17 20:47",
+    "Speed": 10.1,
+    "Latitude": 52.53431,
+    "Longitude": 5.175525
+  },
+  {
+    "Timestamp": "2022-08-17 20:45",
+    "Speed": 10.2,
+    "Latitude": 52.53942,
+    "Longitude": 5.171605
+  },
+  {
+    "Timestamp": "2022-08-17 20:43",
+    "Speed": 10.1,
+    "Latitude": 52.54493,
+    "Longitude": 5.167181
+  },
+  {
+    "Timestamp": "2022-08-17 20:40",
+    "Speed": 9.9,
+    "Latitude": 52.55119,
+    "Longitude": 5.162122
+  },
+  {
+    "Timestamp": "2022-08-17 20:38",
+    "Speed": 9.6,
+    "Latitude": 52.55681,
+    "Longitude": 5.15753
+  },
+  {
+    "Timestamp": "2022-08-17 20:36",
+    "Speed": 9.5,
+    "Latitude": 52.562,
+    "Longitude": 5.153214
+  },
+  {
+    "Timestamp": "2022-08-17 20:34",
+    "Speed": 9.5,
+    "Latitude": 52.56705,
+    "Longitude": 5.148972
+  },
+  {
+    "Timestamp": "2022-08-17 20:31",
+    "Speed": 9.5,
+    "Latitude": 52.57218,
+    "Longitude": 5.144683
+  },
+  {
+    "Timestamp": "2022-08-17 20:29",
+    "Speed": 9.4,
+    "Latitude": 52.57718,
+    "Longitude": 5.140312
+  },
+  {
+    "Timestamp": "2022-08-17 20:27",
+    "Speed": 9.4,
+    "Latitude": 52.58229,
+    "Longitude": 5.135007
+  },
+  {
+    "Timestamp": "2022-08-17 20:25",
+    "Speed": 9.4,
+    "Latitude": 52.58703,
+    "Longitude": 5.130025
+  },
+  {
+    "Timestamp": "2022-08-17 20:22",
+    "Speed": 9.4,
+    "Latitude": 52.59216,
+    "Longitude": 5.124649
+  },
+  {
+    "Timestamp": "2022-08-17 20:20",
+    "Speed": 9.4,
+    "Latitude": 52.59653,
+    "Longitude": 5.12003
+  },
+  {
+    "Timestamp": "2022-08-17 20:18",
+    "Speed": 9.4,
+    "Latitude": 52.60171,
+    "Longitude": 5.11453
+  },
+  {
+    "Timestamp": "2022-08-17 20:16",
+    "Speed": 9.2,
+    "Latitude": 52.60705,
+    "Longitude": 5.108867
+  },
+  {
+    "Timestamp": "2022-08-17 20:13",
+    "Speed": 8.4,
+    "Latitude": 52.61187,
+    "Longitude": 5.103785
+  },
+  {
+    "Timestamp": "2022-08-17 20:11",
+    "Speed": 8.2,
+    "Latitude": 52.61602,
+    "Longitude": 5.099365
+  },
+  {
+    "Timestamp": "2022-08-17 20:09",
+    "Speed": 7.7,
+    "Latitude": 52.62007,
+    "Longitude": 5.095072
+  },
+  {
+    "Timestamp": "2022-08-17 20:07",
+    "Speed": 8.2,
+    "Latitude": 52.62253,
+    "Longitude": 5.087673
+  },
+  {
+    "Timestamp": "2022-08-17 20:04",
+    "Speed": 8,
+    "Latitude": 52.62444,
+    "Longitude": 5.079522
+  },
+  {
+    "Timestamp": "2022-08-17 20:02",
+    "Speed": 7.5,
+    "Latitude": 52.62622,
+    "Longitude": 5.071852
+  },
+  {
+    "Timestamp": "2022-08-17 20:00",
+    "Speed": 4.2,
+    "Latitude": 52.62719,
+    "Longitude": 5.065307
+  },
+  {
+    "Timestamp": "2022-08-17 19:57",
+    "Speed": 3.3,
+    "Latitude": 52.62811,
+    "Longitude": 5.064897
+  },
+  {
+    "Timestamp": "2022-08-17 19:55",
+    "Speed": 4.4,
+    "Latitude": 52.63049,
+    "Longitude": 5.065388
+  },
+  {
+    "Timestamp": "2022-08-17 19:52",
+    "Speed": 3.9,
+    "Latitude": 52.63338,
+    "Longitude": 5.064397
+  },
+  {
+    "Timestamp": "2022-08-17 19:50",
+    "Speed": 2,
+    "Latitude": 52.63553,
+    "Longitude": 5.063593
+  },
+  {
+    "Timestamp": "2022-08-17 19:45",
+    "Speed": 0,
+    "Latitude": 52.63584,
+    "Longitude": 5.063362
+  },
+  {
+    "Timestamp": "2022-08-17 19:22",
+    "Speed": 0,
+    "Latitude": 52.63583,
+    "Longitude": 5.063352
+  },
+  {
+    "Timestamp": "2022-08-17 19:00",
+    "Speed": 0,
+    "Latitude": 52.63582,
+    "Longitude": 5.063365
+  },
+  {
+    "Timestamp": "2022-08-17 18:39",
+    "Speed": 0,
+    "Latitude": 52.63582,
+    "Longitude": 5.063368
+  },
+  {
+    "Timestamp": "2022-08-17 18:18",
+    "Speed": 0,
+    "Latitude": 52.63581,
+    "Longitude": 5.063374
+  },
+  {
+    "Timestamp": "2022-08-17 17:56",
+    "Speed": 0,
+    "Latitude": 52.63583,
+    "Longitude": 5.063357
+  },
+  {
+    "Timestamp": "2022-08-17 17:34",
+    "Speed": 0,
+    "Latitude": 52.63585,
+    "Longitude": 5.063347
+  },
+  {
+    "Timestamp": "2022-08-17 17:12",
+    "Speed": 0,
+    "Latitude": 52.63584,
+    "Longitude": 5.063318
+  },
+  {
+    "Timestamp": "2022-08-17 16:49",
+    "Speed": 0,
+    "Latitude": 52.63585,
+    "Longitude": 5.063325
+  },
+  {
+    "Timestamp": "2022-08-17 16:27",
+    "Speed": 0,
+    "Latitude": 52.63586,
+    "Longitude": 5.063323
+  },
+  {
+    "Timestamp": "2022-08-17 16:05",
+    "Speed": 0,
+    "Latitude": 52.63585,
+    "Longitude": 5.063332
+  },
+  {
+    "Timestamp": "2022-08-17 15:44",
+    "Speed": 0,
+    "Latitude": 52.63585,
+    "Longitude": 5.063322
+  },
+  {
+    "Timestamp": "2022-08-17 15:22",
+    "Speed": 0,
+    "Latitude": 52.63583,
+    "Longitude": 5.063317
+  },
+  {
+    "Timestamp": "2022-08-17 14:59",
+    "Speed": 0,
+    "Latitude": 52.63583,
+    "Longitude": 5.063323
+  },
+  {
+    "Timestamp": "2022-08-17 14:37",
+    "Speed": 0,
+    "Latitude": 52.63582,
+    "Longitude": 5.063338
+  },
+  {
+    "Timestamp": "2022-08-17 14:15",
+    "Speed": 0,
+    "Latitude": 52.63581,
+    "Longitude": 5.063357
+  },
+  {
+    "Timestamp": "2022-08-17 13:53",
+    "Speed": 0,
+    "Latitude": 52.63581,
+    "Longitude": 5.063374
+  },
+  {
+    "Timestamp": "2022-08-17 13:31",
+    "Speed": 0,
+    "Latitude": 52.63581,
+    "Longitude": 5.063358
+  },
+  {
+    "Timestamp": "2022-08-17 13:09",
+    "Speed": 0,
+    "Latitude": 52.63583,
+    "Longitude": 5.063352
+  },
+  {
+    "Timestamp": "2022-08-17 12:46",
+    "Speed": 0.2,
+    "Latitude": 52.63567,
+    "Longitude": 5.063583
+  },
+  {
+    "Timestamp": "2022-08-17 12:44",
+    "Speed": 1,
+    "Latitude": 52.63556,
+    "Longitude": 5.063735
+  },
+  {
+    "Timestamp": "2022-08-17 12:42",
+    "Speed": 1.9,
+    "Latitude": 52.6346,
+    "Longitude": 5.063927
+  },
+  {
+    "Timestamp": "2022-08-17 12:39",
+    "Speed": 5.2,
+    "Latitude": 52.63227,
+    "Longitude": 5.065797
+  },
+  {
+    "Timestamp": "2022-08-17 12:36",
+    "Speed": 8.3,
+    "Latitude": 52.63006,
+    "Longitude": 5.071567
+  },
+  {
+    "Timestamp": "2022-08-17 12:34",
+    "Speed": 9,
+    "Latitude": 52.62734,
+    "Longitude": 5.079838
+  },
+  {
+    "Timestamp": "2022-08-17 12:32",
+    "Speed": 9.3,
+    "Latitude": 52.62439,
+    "Longitude": 5.0884
+  },
+  {
+    "Timestamp": "2022-08-17 12:30",
+    "Speed": 9.4,
+    "Latitude": 52.6215,
+    "Longitude": 5.096208
+  },
+  {
+    "Timestamp": "2022-08-17 12:27",
+    "Speed": 9.4,
+    "Latitude": 52.61806,
+    "Longitude": 5.10354
+  },
+  {
+    "Timestamp": "2022-08-17 12:25",
+    "Speed": 9.4,
+    "Latitude": 52.61433,
+    "Longitude": 5.110592
+  },
+  {
+    "Timestamp": "2022-08-17 12:23",
+    "Speed": 9.6,
+    "Latitude": 52.61047,
+    "Longitude": 5.117488
+  },
+  {
+    "Timestamp": "2022-08-17 12:21",
+    "Speed": 9.5,
+    "Latitude": 52.59452,
+    "Longitude": 5.142247
+  },
+  {
+    "Timestamp": "2022-08-17 12:19",
+    "Speed": 9.5,
+    "Latitude": 52.60252,
+    "Longitude": 5.129913
+  },
+  {
+    "Timestamp": "2022-08-17 12:17",
+    "Speed": 9.5,
+    "Latitude": 52.59785,
+    "Longitude": 5.136563
+  },
+  {
+    "Timestamp": "2022-08-17 12:14",
+    "Speed": 9.5,
+    "Latitude": 52.59391,
+    "Longitude": 5.143281
+  },
+  {
+    "Timestamp": "2022-08-17 12:12",
+    "Speed": 9.4,
+    "Latitude": 52.58968,
+    "Longitude": 5.149532
+  },
+  {
+    "Timestamp": "2022-08-17 12:10",
+    "Speed": 9.4,
+    "Latitude": 52.58561,
+    "Longitude": 5.155837
+  },
+  {
+    "Timestamp": "2022-08-17 12:08",
+    "Speed": 9.4,
+    "Latitude": 52.58203,
+    "Longitude": 5.162285
+  },
+  {
+    "Timestamp": "2022-08-17 12:06",
+    "Speed": 9.3,
+    "Latitude": 52.57794,
+    "Longitude": 5.169423
+  },
+  {
+    "Timestamp": "2022-08-17 12:04",
+    "Speed": 9.3,
+    "Latitude": 52.57453,
+    "Longitude": 5.17571
+  },
+  {
+    "Timestamp": "2022-08-17 12:02",
+    "Speed": 9.4,
+    "Latitude": 52.57108,
+    "Longitude": 5.182963
+  },
+  {
+    "Timestamp": "2022-08-17 11:59",
+    "Speed": 9.4,
+    "Latitude": 52.56783,
+    "Longitude": 5.190592
+  },
+  {
+    "Timestamp": "2022-08-17 11:57",
+    "Speed": 9.4,
+    "Latitude": 52.5647,
+    "Longitude": 5.198283
+  },
+  {
+    "Timestamp": "2022-08-17 11:55",
+    "Speed": 9.4,
+    "Latitude": 52.56163,
+    "Longitude": 5.206042
+  },
+  {
+    "Timestamp": "2022-08-17 11:53",
+    "Speed": 9.4,
+    "Latitude": 52.5589,
+    "Longitude": 5.213315
+  },
+  {
+    "Timestamp": "2022-08-17 11:51",
+    "Speed": 9.3,
+    "Latitude": 52.55583,
+    "Longitude": 5.221902
+  },
+  {
+    "Timestamp": "2022-08-17 11:48",
+    "Speed": 9.3,
+    "Latitude": 52.55242,
+    "Longitude": 5.229977
+  },
+  {
+    "Timestamp": "2022-08-17 11:46",
+    "Speed": 9.1,
+    "Latitude": 52.54923,
+    "Longitude": 5.237393
+  },
+  {
+    "Timestamp": "2022-08-17 11:44",
+    "Speed": 9.3,
+    "Latitude": 52.54677,
+    "Longitude": 5.24557
+  },
+  {
+    "Timestamp": "2022-08-17 11:42",
+    "Speed": 9.3,
+    "Latitude": 52.54491,
+    "Longitude": 5.254892
+  },
+  {
+    "Timestamp": "2022-08-17 11:40",
+    "Speed": 9.3,
+    "Latitude": 52.5423,
+    "Longitude": 5.262212
+  },
+  {
+    "Timestamp": "2022-08-17 11:38",
+    "Speed": 9.3,
+    "Latitude": 52.53929,
+    "Longitude": 5.270058
+  },
+  {
+    "Timestamp": "2022-08-17 11:36",
+    "Speed": 9.3,
+    "Latitude": 52.53661,
+    "Longitude": 5.27724
+  },
+  {
+    "Timestamp": "2022-08-17 11:33",
+    "Speed": 9.4,
+    "Latitude": 52.53323,
+    "Longitude": 5.285445
+  },
+  {
+    "Timestamp": "2022-08-17 11:31",
+    "Speed": 9.4,
+    "Latitude": 52.53026,
+    "Longitude": 5.293125
+  },
+  {
+    "Timestamp": "2022-08-17 11:29",
+    "Speed": 9.3,
+    "Latitude": 52.52757,
+    "Longitude": 5.300462
+  },
+  {
+    "Timestamp": "2022-08-17 11:27",
+    "Speed": 9.4,
+    "Latitude": 52.52412,
+    "Longitude": 5.308563
+  },
+  {
+    "Timestamp": "2022-08-17 11:25",
+    "Speed": 9.3,
+    "Latitude": 52.52125,
+    "Longitude": 5.31648
+  },
+  {
+    "Timestamp": "2022-08-17 11:22",
+    "Speed": 9.2,
+    "Latitude": 52.51841,
+    "Longitude": 5.325053
+  },
+  {
+    "Timestamp": "2022-08-17 11:20",
+    "Speed": 9.2,
+    "Latitude": 52.51566,
+    "Longitude": 5.33465
+  },
+  {
+    "Timestamp": "2022-08-17 11:18",
+    "Speed": 9.2,
+    "Latitude": 52.51326,
+    "Longitude": 5.34365
+  },
+  {
+    "Timestamp": "2022-08-17 11:15",
+    "Speed": 9.5,
+    "Latitude": 52.51183,
+    "Longitude": 5.352353
+  },
+  {
+    "Timestamp": "2022-08-17 11:13",
+    "Speed": 9.7,
+    "Latitude": 52.51168,
+    "Longitude": 5.362582
+  },
+  {
+    "Timestamp": "2022-08-17 11:10",
+    "Speed": 9.6,
+    "Latitude": 52.51064,
+    "Longitude": 5.373466
+  },
+  {
+    "Timestamp": "2022-08-17 11:08",
+    "Speed": 9.5,
+    "Latitude": 52.50968,
+    "Longitude": 5.384799
+  },
+  {
+    "Timestamp": "2022-08-17 11:05",
+    "Speed": 9.7,
+    "Latitude": 52.51001,
+    "Longitude": 5.39493
+  },
+  {
+    "Timestamp": "2022-08-17 11:03",
+    "Speed": 9.6,
+    "Latitude": 52.51054,
+    "Longitude": 5.405157
+  },
+  {
+    "Timestamp": "2022-08-17 11:00",
+    "Speed": 9,
+    "Latitude": 52.51105,
+    "Longitude": 5.416615
+  },
+  {
+    "Timestamp": "2022-08-17 10:58",
+    "Speed": 9.1,
+    "Latitude": 52.51301,
+    "Longitude": 5.426971
+  },
+  {
+    "Timestamp": "2022-08-17 10:54",
+    "Speed": 1.2,
+    "Latitude": 52.51747,
+    "Longitude": 5.434558
+  },
+  {
+    "Timestamp": "2022-08-17 10:51",
+    "Speed": 0.8,
+    "Latitude": 52.51778,
+    "Longitude": 5.435177
+  },
+  {
+    "Timestamp": "2022-08-17 10:49",
+    "Speed": 0.7,
+    "Latitude": 52.51786,
+    "Longitude": 5.435817
+  },
+  {
+    "Timestamp": "2022-08-17 10:32",
+    "Speed": 0,
+    "Latitude": 52.51777,
+    "Longitude": 5.436177
+  },
+  {
+    "Timestamp": "2022-08-17 10:11",
+    "Speed": 0,
+    "Latitude": 52.51777,
+    "Longitude": 5.436175
+  },
+  {
+    "Timestamp": "2022-08-17 09:49",
+    "Speed": 0,
+    "Latitude": 52.51777,
+    "Longitude": 5.436175
+  },
+  {
+    "Timestamp": "2022-08-17 09:21",
+    "Speed": 0,
+    "Latitude": 52.51775,
+    "Longitude": 5.43617
+  },
+  {
+    "Timestamp": "2022-08-17 08:59",
+    "Speed": 0,
+    "Latitude": 52.51776,
+    "Longitude": 5.43619
+  },
+  {
+    "Timestamp": "2022-08-17 08:37",
+    "Speed": 0,
+    "Latitude": 52.51775,
+    "Longitude": 5.436195
+  },
+  {
+    "Timestamp": "2022-08-17 08:16",
+    "Speed": 0,
+    "Latitude": 52.51775,
+    "Longitude": 5.43619
+  },
+  {
+    "Timestamp": "2022-08-17 07:55",
+    "Speed": 0,
+    "Latitude": 52.51786,
+    "Longitude": 5.436137
+  },
+  {
+    "Timestamp": "2022-08-17 07:34",
+    "Speed": 0,
+    "Latitude": 52.51785,
+    "Longitude": 5.436137
+  },
+  {
+    "Timestamp": "2022-08-17 07:32",
+    "Speed": 0.8,
+    "Latitude": 52.51768,
+    "Longitude": 5.436067
+  },
+  {
+    "Timestamp": "2022-08-17 07:30",
+    "Speed": 1,
+    "Latitude": 52.51714,
+    "Longitude": 5.43554
+  },
+  {
+    "Timestamp": "2022-08-17 07:28",
+    "Speed": 1,
+    "Latitude": 52.51691,
+    "Longitude": 5.434623
+  },
+  {
+    "Timestamp": "2022-08-17 07:25",
+    "Speed": 1.7,
+    "Latitude": 52.51665,
+    "Longitude": 5.433678
+  },
+  {
+    "Timestamp": "2022-08-17 07:22",
+    "Speed": 10.3,
+    "Latitude": 52.51335,
+    "Longitude": 5.428388
+  },
+  {
+    "Timestamp": "2022-08-17 07:20",
+    "Speed": 10.2,
+    "Latitude": 52.51125,
+    "Longitude": 5.41905
+  },
+  {
+    "Timestamp": "2022-08-17 07:17",
+    "Speed": 10.6,
+    "Latitude": 52.51043,
+    "Longitude": 5.407577
+  },
+  {
+    "Timestamp": "2022-08-17 07:15",
+    "Speed": 10.3,
+    "Latitude": 52.5096,
+    "Longitude": 5.39648
+  },
+  {
+    "Timestamp": "2022-08-17 07:13",
+    "Speed": 10.6,
+    "Latitude": 52.50877,
+    "Longitude": 5.386362
+  },
+  {
+    "Timestamp": "2022-08-17 07:11",
+    "Speed": 10.5,
+    "Latitude": 52.50662,
+    "Longitude": 5.37566
+  },
+  {
+    "Timestamp": "2022-08-17 07:08",
+    "Speed": 10.6,
+    "Latitude": 52.50433,
+    "Longitude": 5.364442
+  },
+  {
+    "Timestamp": "2022-08-17 07:06",
+    "Speed": 10.6,
+    "Latitude": 52.50225,
+    "Longitude": 5.354587
+  },
+  {
+    "Timestamp": "2022-08-17 07:04",
+    "Speed": 10.6,
+    "Latitude": 52.49961,
+    "Longitude": 5.344258
+  },
+  {
+    "Timestamp": "2022-08-17 07:01",
+    "Speed": 10.4,
+    "Latitude": 52.49582,
+    "Longitude": 5.33395
+  },
+  {
+    "Timestamp": "2022-08-17 06:59",
+    "Speed": 10.2,
+    "Latitude": 52.49199,
+    "Longitude": 5.325085
+  },
+  {
+    "Timestamp": "2022-08-17 06:57",
+    "Speed": 10.4,
+    "Latitude": 52.48873,
+    "Longitude": 5.31639
+  },
+  {
+    "Timestamp": "2022-08-17 06:54",
+    "Speed": 10.6,
+    "Latitude": 52.48554,
+    "Longitude": 5.307828
+  },
+  {
+    "Timestamp": "2022-08-17 06:52",
+    "Speed": 10.5,
+    "Latitude": 52.48151,
+    "Longitude": 5.297683
+  },
+  {
+    "Timestamp": "2022-08-17 06:50",
+    "Speed": 10.5,
+    "Latitude": 52.4778,
+    "Longitude": 5.289377
+  },
+  {
+    "Timestamp": "2022-08-17 06:47",
+    "Speed": 10.6,
+    "Latitude": 52.47371,
+    "Longitude": 5.280288
+  },
+  {
+    "Timestamp": "2022-08-17 06:45",
+    "Speed": 10.5,
+    "Latitude": 52.46965,
+    "Longitude": 5.271382
+  },
+  {
+    "Timestamp": "2022-08-17 06:43",
+    "Speed": 10.6,
+    "Latitude": 52.46569,
+    "Longitude": 5.26334
+  },
+  {
+    "Timestamp": "2022-08-17 06:41",
+    "Speed": 10.7,
+    "Latitude": 52.46103,
+    "Longitude": 5.255025
+  },
+  {
+    "Timestamp": "2022-08-17 06:38",
+    "Speed": 11,
+    "Latitude": 52.45652,
+    "Longitude": 5.24535
+  },
+  {
+    "Timestamp": "2022-08-17 06:36",
+    "Speed": 10.9,
+    "Latitude": 52.45235,
+    "Longitude": 5.234748
+  },
+  {
+    "Timestamp": "2022-08-17 06:33",
+    "Speed": 10.9,
+    "Latitude": 52.44842,
+    "Longitude": 5.224222
+  },
+  {
+    "Timestamp": "2022-08-17 06:31",
+    "Speed": 11.1,
+    "Latitude": 52.44463,
+    "Longitude": 5.214275
+  },
+  {
+    "Timestamp": "2022-08-17 06:29",
+    "Speed": 11.2,
+    "Latitude": 52.44101,
+    "Longitude": 5.205071
+  },
+  {
+    "Timestamp": "2022-08-17 06:26",
+    "Speed": 11,
+    "Latitude": 52.437,
+    "Longitude": 5.19532
+  },
+  {
+    "Timestamp": "2022-08-17 06:24",
+    "Speed": 11.1,
+    "Latitude": 52.43347,
+    "Longitude": 5.186283
+  },
+  {
+    "Timestamp": "2022-08-17 06:22",
+    "Speed": 11.1,
+    "Latitude": 52.42995,
+    "Longitude": 5.176927
+  },
+  {
+    "Timestamp": "2022-08-17 06:20",
+    "Speed": 10.9,
+    "Latitude": 52.4262,
+    "Longitude": 5.167023
+  },
+  {
+    "Timestamp": "2022-08-17 06:18",
+    "Speed": 11,
+    "Latitude": 52.42299,
+    "Longitude": 5.158515
+  },
+  {
+    "Timestamp": "2022-08-17 06:13",
+    "Speed": 10.7,
+    "Latitude": 52.41525,
+    "Longitude": 5.139753
+  },
+  {
+    "Timestamp": "2022-08-17 06:11",
+    "Speed": 10.5,
+    "Latitude": 52.41169,
+    "Longitude": 5.132235
+  },
+  {
+    "Timestamp": "2022-08-17 06:09",
+    "Speed": 10.4,
+    "Latitude": 52.40774,
+    "Longitude": 5.123243
+  },
+  {
+    "Timestamp": "2022-08-17 06:06",
+    "Speed": 10.4,
+    "Latitude": 52.40422,
+    "Longitude": 5.113865
+  },
+  {
+    "Timestamp": "2022-08-17 06:04",
+    "Speed": 10.9,
+    "Latitude": 52.40037,
+    "Longitude": 5.103795
+  },
+  {
+    "Timestamp": "2022-08-17 06:01",
+    "Speed": 10.9,
+    "Latitude": 52.3961,
+    "Longitude": 5.092517
+  },
+  {
+    "Timestamp": "2022-08-17 05:59",
+    "Speed": 10.4,
+    "Latitude": 52.39234,
+    "Longitude": 5.082942
+  },
+  {
+    "Timestamp": "2022-08-17 05:57",
+    "Speed": 10.2,
+    "Latitude": 52.38869,
+    "Longitude": 5.073894
+  },
+  {
+    "Timestamp": "2022-08-17 05:53",
+    "Speed": 10.5,
+    "Latitude": 52.38373,
+    "Longitude": 5.059685
+  },
+  {
+    "Timestamp": "2022-08-17 05:51",
+    "Speed": 10.2,
+    "Latitude": 52.38074,
+    "Longitude": 5.050869
+  },
+  {
+    "Timestamp": "2022-08-17 05:49",
+    "Speed": 9.9,
+    "Latitude": 52.37774,
+    "Longitude": 5.042278
+  },
+  {
+    "Timestamp": "2022-08-17 05:45",
+    "Speed": 10.1,
+    "Latitude": 52.37357,
+    "Longitude": 5.028837
+  },
+  {
+    "Timestamp": "2022-08-17 05:42",
+    "Speed": 10,
+    "Latitude": 52.37012,
+    "Longitude": 5.015818
+  },
+  {
+    "Timestamp": "2022-08-17 05:40",
+    "Speed": 10.4,
+    "Latitude": 52.36865,
+    "Longitude": 5.00535
+  },
+  {
+    "Timestamp": "2022-08-17 05:37",
+    "Speed": 10.4,
+    "Latitude": 52.36837,
+    "Longitude": 4.992703
+  },
+  {
+    "Timestamp": "2022-08-17 05:34",
+    "Speed": 10.2,
+    "Latitude": 52.37155,
+    "Longitude": 4.979022
+  },
+  {
+    "Timestamp": "2022-08-17 05:32",
+    "Speed": 9.3,
+    "Latitude": 52.37576,
+    "Longitude": 4.971231
+  },
+  {
+    "Timestamp": "2022-08-17 05:30",
+    "Speed": 5.2,
+    "Latitude": 52.37865,
+    "Longitude": 4.965195
+  },
+  {
+    "Timestamp": "2022-08-17 05:27",
+    "Speed": 1.9,
+    "Latitude": 52.37952,
+    "Longitude": 4.961798
+  },
+  {
+    "Timestamp": "2022-08-17 05:16",
+    "Speed": 1.6,
+    "Latitude": 52.37994,
+    "Longitude": 4.96023
+  },
+  {
+    "Timestamp": "2022-08-17 05:14",
+    "Speed": 1.6,
+    "Latitude": 52.38039,
+    "Longitude": 4.958503
+  },
+  {
+    "Timestamp": "2022-08-17 05:12",
+    "Speed": 0.7,
+    "Latitude": 52.3806,
+    "Longitude": 4.957297
+  },
+  {
+    "Timestamp": "2022-08-17 05:10",
+    "Speed": 0.8,
+    "Latitude": 52.38062,
+    "Longitude": 4.956475
+  },
+  {
+    "Timestamp": "2022-08-17 05:08",
+    "Speed": 1.6,
+    "Latitude": 52.38057,
+    "Longitude": 4.955273
+  },
+  {
+    "Timestamp": "2022-08-17 05:05",
+    "Speed": 2.5,
+    "Latitude": 52.3797,
+    "Longitude": 4.953923
+  },
+  {
+    "Timestamp": "2022-08-17 05:01",
+    "Speed": 0.4,
+    "Latitude": 52.37873,
+    "Longitude": 4.953822
+  },
+  {
+    "Timestamp": "2022-08-17 04:58",
+    "Speed": 3.5,
+    "Latitude": 52.37779,
+    "Longitude": 4.954037
+  },
+  {
+    "Timestamp": "2022-08-17 04:56",
+    "Speed": 7.7,
+    "Latitude": 52.37427,
+    "Longitude": 4.955188
+  },
+  {
+    "Timestamp": "2022-08-17 04:54",
+    "Speed": 6.9,
+    "Latitude": 52.36954,
+    "Longitude": 4.956497
+  },
+  {
+    "Timestamp": "2022-08-17 04:52",
+    "Speed": 8.9,
+    "Latitude": 52.36425,
+    "Longitude": 4.958083
+  },
+  {
+    "Timestamp": "2022-08-17 04:50",
+    "Speed": 9.2,
+    "Latitude": 52.35933,
+    "Longitude": 4.96141
+  },
+  {
+    "Timestamp": "2022-08-17 04:47",
+    "Speed": 9.5,
+    "Latitude": 52.35659,
+    "Longitude": 4.969323
+  },
+  {
+    "Timestamp": "2022-08-17 04:43",
+    "Speed": 9.8,
+    "Latitude": 52.3501,
+    "Longitude": 4.984055
+  },
+  {
+    "Timestamp": "2022-08-17 04:41",
+    "Speed": 9.7,
+    "Latitude": 52.34571,
+    "Longitude": 4.992395
+  },
+  {
+    "Timestamp": "2022-08-17 04:39",
+    "Speed": 9.8,
+    "Latitude": 52.34185,
+    "Longitude": 4.999695
+  },
+  {
+    "Timestamp": "2022-08-17 04:33",
+    "Speed": 9.5,
+    "Latitude": 52.33131,
+    "Longitude": 5.015658
+  },
+  {
+    "Timestamp": "2022-08-17 04:31",
+    "Speed": 9.7,
+    "Latitude": 52.32517,
+    "Longitude": 5.017653
+  },
+  {
+    "Timestamp": "2022-08-17 04:29",
+    "Speed": 9.6,
+    "Latitude": 52.31987,
+    "Longitude": 5.018462
+  },
+  {
+    "Timestamp": "2022-08-17 04:25",
+    "Speed": 9.6,
+    "Latitude": 52.31105,
+    "Longitude": 5.019979
+  },
+  {
+    "Timestamp": "2022-08-17 04:22",
+    "Speed": 9.5,
+    "Latitude": 52.30211,
+    "Longitude": 5.021505
+  },
+  {
+    "Timestamp": "2022-08-17 04:19",
+    "Speed": 9.6,
+    "Latitude": 52.29501,
+    "Longitude": 5.021717
+  },
+  {
+    "Timestamp": "2022-08-17 04:17",
+    "Speed": 9.5,
+    "Latitude": 52.28883,
+    "Longitude": 5.021797
+  },
+  {
+    "Timestamp": "2022-08-17 04:15",
+    "Speed": 9.5,
+    "Latitude": 52.28316,
+    "Longitude": 5.021887
+  },
+  {
+    "Timestamp": "2022-08-17 04:12",
+    "Speed": 9.6,
+    "Latitude": 52.27558,
+    "Longitude": 5.02025
+  },
+  {
+    "Timestamp": "2022-08-17 04:09",
+    "Speed": 7.9,
+    "Latitude": 52.26853,
+    "Longitude": 5.01834
+  },
+  {
+    "Timestamp": "2022-08-17 04:06",
+    "Speed": 9.6,
+    "Latitude": 52.25848,
+    "Longitude": 5.015568
+  },
+  {
+    "Timestamp": "2022-08-17 04:02",
+    "Speed": 9.6,
+    "Latitude": 52.24969,
+    "Longitude": 5.013242
+  },
+  {
+    "Timestamp": "2022-08-17 04:00",
+    "Speed": 9.6,
+    "Latitude": 52.24401,
+    "Longitude": 5.011652
+  },
+  {
+    "Timestamp": "2022-08-17 03:56",
+    "Speed": 9.7,
+    "Latitude": 52.23201,
+    "Longitude": 5.008343
+  },
+  {
+    "Timestamp": "2022-08-17 03:52",
+    "Speed": 9.8,
+    "Latitude": 52.22318,
+    "Longitude": 5.00594
+  },
+  {
+    "Timestamp": "2022-08-17 03:50",
+    "Speed": 9.7,
+    "Latitude": 52.21731,
+    "Longitude": 5.004378
+  },
+  {
+    "Timestamp": "2022-08-17 03:48",
+    "Speed": 9.8,
+    "Latitude": 52.21152,
+    "Longitude": 5.002793
+  },
+  {
+    "Timestamp": "2022-08-17 03:45",
+    "Speed": 9.7,
+    "Latitude": 52.20449,
+    "Longitude": 5.000958
+  },
+  {
+    "Timestamp": "2022-08-17 03:43",
+    "Speed": 9.7,
+    "Latitude": 52.19779,
+    "Longitude": 4.999078
+  },
+  {
+    "Timestamp": "2022-08-17 03:39",
+    "Speed": 7.9,
+    "Latitude": 52.18742,
+    "Longitude": 4.996284
+  },
+  {
+    "Timestamp": "2022-08-17 03:36",
+    "Speed": 9.7,
+    "Latitude": 52.17661,
+    "Longitude": 4.994051
+  },
+  {
+    "Timestamp": "2022-08-17 03:33",
+    "Speed": 9.7,
+    "Latitude": 52.17527,
+    "Longitude": 4.99422
+  },
+  {
+    "Timestamp": "2022-08-17 03:31",
+    "Speed": 8.2,
+    "Latitude": 52.16772,
+    "Longitude": 4.995478
+  },
+  {
+    "Timestamp": "2022-08-17 03:28",
+    "Speed": 9.3,
+    "Latitude": 52.15954,
+    "Longitude": 4.99741
+  },
+  {
+    "Timestamp": "2022-08-17 03:25",
+    "Speed": 9.7,
+    "Latitude": 52.15385,
+    "Longitude": 5.00385
+  },
+  {
+    "Timestamp": "2022-08-17 03:21",
+    "Speed": 9.7,
+    "Latitude": 52.14677,
+    "Longitude": 5.01618
+  },
+  {
+    "Timestamp": "2022-08-17 03:18",
+    "Speed": 9.6,
+    "Latitude": 52.14219,
+    "Longitude": 5.024207
+  },
+  {
+    "Timestamp": "2022-08-17 03:16",
+    "Speed": 9.5,
+    "Latitude": 52.1378,
+    "Longitude": 5.031952
+  },
+  {
+    "Timestamp": "2022-08-17 03:13",
+    "Speed": 9.1,
+    "Latitude": 52.13339,
+    "Longitude": 5.03957
+  },
+  {
+    "Timestamp": "2022-08-17 03:11",
+    "Speed": 9.1,
+    "Latitude": 52.12959,
+    "Longitude": 5.048612
+  },
+  {
+    "Timestamp": "2022-08-17 03:08",
+    "Speed": 9.4,
+    "Latitude": 52.12561,
+    "Longitude": 5.055773
+  },
+  {
+    "Timestamp": "2022-08-17 03:06",
+    "Speed": 9.4,
+    "Latitude": 52.12116,
+    "Longitude": 5.063537
+  },
+  {
+    "Timestamp": "2022-08-17 03:04",
+    "Speed": 9.3,
+    "Latitude": 52.11705,
+    "Longitude": 5.070755
+  },
+  {
+    "Timestamp": "2022-08-17 03:01",
+    "Speed": 9.2,
+    "Latitude": 52.11202,
+    "Longitude": 5.076618
+  },
+  {
+    "Timestamp": "2022-08-17 02:59",
+    "Speed": 9.5,
+    "Latitude": 52.10592,
+    "Longitude": 5.076746
+  },
+  {
+    "Timestamp": "2022-08-17 02:56",
+    "Speed": 9.6,
+    "Latitude": 52.09923,
+    "Longitude": 5.076957
+  },
+  {
+    "Timestamp": "2022-08-17 02:53",
+    "Speed": 9.6,
+    "Latitude": 52.09072,
+    "Longitude": 5.078658
+  },
+  {
+    "Timestamp": "2022-08-17 02:50",
+    "Speed": 9.3,
+    "Latitude": 52.08389,
+    "Longitude": 5.079928
+  },
+  {
+    "Timestamp": "2022-08-17 02:47",
+    "Speed": 8.1,
+    "Latitude": 52.07636,
+    "Longitude": 5.08332
+  },
+  {
+    "Timestamp": "2022-08-17 02:43",
+    "Speed": 8.4,
+    "Latitude": 52.06788,
+    "Longitude": 5.090893
+  },
+  {
+    "Timestamp": "2022-08-17 02:40",
+    "Speed": 8.3,
+    "Latitude": 52.06266,
+    "Longitude": 5.095868
+  },
+  {
+    "Timestamp": "2022-08-17 02:38",
+    "Speed": 7.7,
+    "Latitude": 52.05736,
+    "Longitude": 5.100577
+  },
+  {
+    "Timestamp": "2022-08-17 02:35",
+    "Speed": 6.5,
+    "Latitude": 52.05334,
+    "Longitude": 5.103569
+  },
+  {
+    "Timestamp": "2022-08-17 02:33",
+    "Speed": 6.7,
+    "Latitude": 52.04929,
+    "Longitude": 5.10573
+  },
+  {
+    "Timestamp": "2022-08-17 02:30",
+    "Speed": 7.2,
+    "Latitude": 52.04479,
+    "Longitude": 5.1079
+  },
+  {
+    "Timestamp": "2022-08-17 02:28",
+    "Speed": 8,
+    "Latitude": 52.03954,
+    "Longitude": 5.111698
+  },
+  {
+    "Timestamp": "2022-08-17 02:25",
+    "Speed": 9,
+    "Latitude": 52.03474,
+    "Longitude": 5.117308
+  },
+  {
+    "Timestamp": "2022-08-17 02:22",
+    "Speed": 10.1,
+    "Latitude": 52.02899,
+    "Longitude": 5.124408
+  },
+  {
+    "Timestamp": "2022-08-17 02:20",
+    "Speed": 9.9,
+    "Latitude": 52.02383,
+    "Longitude": 5.132665
+  },
+  {
+    "Timestamp": "2022-08-17 02:17",
+    "Speed": 9.8,
+    "Latitude": 52.01956,
+    "Longitude": 5.139423
+  },
+  {
+    "Timestamp": "2022-08-17 02:13",
+    "Speed": 9.8,
+    "Latitude": 52.01261,
+    "Longitude": 5.152524
+  },
+  {
+    "Timestamp": "2022-08-17 02:11",
+    "Speed": 10,
+    "Latitude": 52.01027,
+    "Longitude": 5.163098
+  },
+  {
+    "Timestamp": "2022-08-17 02:09",
+    "Speed": 10,
+    "Latitude": 52.00845,
+    "Longitude": 5.172403
+  },
+  {
+    "Timestamp": "2022-08-17 02:05",
+    "Speed": 10,
+    "Latitude": 52.00537,
+    "Longitude": 5.187933
+  },
+  {
+    "Timestamp": "2022-08-17 02:02",
+    "Speed": 9.9,
+    "Latitude": 52.00159,
+    "Longitude": 5.202387
+  },
+  {
+    "Timestamp": "2022-08-17 01:59",
+    "Speed": 10,
+    "Latitude": 51.99897,
+    "Longitude": 5.211061
+  },
+  {
+    "Timestamp": "2022-08-17 01:57",
+    "Speed": 10,
+    "Latitude": 51.99575,
+    "Longitude": 5.221869
+  },
+  {
+    "Timestamp": "2022-08-17 01:54",
+    "Speed": 9.9,
+    "Latitude": 51.99269,
+    "Longitude": 5.231977
+  },
+  {
+    "Timestamp": "2022-08-17 01:52",
+    "Speed": 9.8,
+    "Latitude": 51.98964,
+    "Longitude": 5.24182
+  },
+  {
+    "Timestamp": "2022-08-17 01:49",
+    "Speed": 9.7,
+    "Latitude": 51.98651,
+    "Longitude": 5.252332
+  },
+  {
+    "Timestamp": "2022-08-17 01:46",
+    "Speed": 9.7,
+    "Latitude": 51.9835,
+    "Longitude": 5.2629
+  },
+  {
+    "Timestamp": "2022-08-17 01:44",
+    "Speed": 9.9,
+    "Latitude": 51.98046,
+    "Longitude": 5.273603
+  },
+  {
+    "Timestamp": "2022-08-17 01:41",
+    "Speed": 9.8,
+    "Latitude": 51.97778,
+    "Longitude": 5.283047
+  },
+  {
+    "Timestamp": "2022-08-17 01:39",
+    "Speed": 9.2,
+    "Latitude": 51.975,
+    "Longitude": 5.292765
+  },
+  {
+    "Timestamp": "2022-08-17 01:37",
+    "Speed": 7,
+    "Latitude": 51.97292,
+    "Longitude": 5.300263
+  },
+  {
+    "Timestamp": "2022-08-17 01:34",
+    "Speed": 6.6,
+    "Latitude": 51.97113,
+    "Longitude": 5.307555
+  },
+  {
+    "Timestamp": "2022-08-17 01:32",
+    "Speed": 5.2,
+    "Latitude": 51.96974,
+    "Longitude": 5.312922
+  },
+  {
+    "Timestamp": "2022-08-17 01:29",
+    "Speed": 3.2,
+    "Latitude": 51.96845,
+    "Longitude": 5.31747
+  },
+  {
+    "Timestamp": "2022-08-17 01:11",
+    "Speed": 3.1,
+    "Latitude": 51.96703,
+    "Longitude": 5.322653
+  },
+  {
+    "Timestamp": "2022-08-17 01:08",
+    "Speed": 4.1,
+    "Latitude": 51.96579,
+    "Longitude": 5.326823
+  },
+  {
+    "Timestamp": "2022-08-17 01:06",
+    "Speed": 5.9,
+    "Latitude": 51.96409,
+    "Longitude": 5.332358
+  },
+  {
+    "Timestamp": "2022-08-17 01:03",
+    "Speed": 7.5,
+    "Latitude": 51.96213,
+    "Longitude": 5.337986
+  },
+  {
+    "Timestamp": "2022-08-17 01:01",
+    "Speed": 8.7,
+    "Latitude": 51.95901,
+    "Longitude": 5.345308
+  },
+  {
+    "Timestamp": "2022-08-17 00:59",
+    "Speed": 7.9,
+    "Latitude": 51.95558,
+    "Longitude": 5.352752
+  },
+  {
+    "Timestamp": "2022-08-17 00:56",
+    "Speed": 8.1,
+    "Latitude": 51.95235,
+    "Longitude": 5.36038
+  },
+  {
+    "Timestamp": "2022-08-17 00:54",
+    "Speed": 9.2,
+    "Latitude": 51.94982,
+    "Longitude": 5.368607
+  },
+  {
+    "Timestamp": "2022-08-17 00:51",
+    "Speed": 9.5,
+    "Latitude": 51.94656,
+    "Longitude": 5.376945
+  },
+  {
+    "Timestamp": "2022-08-17 00:48",
+    "Speed": 9.3,
+    "Latitude": 51.94187,
+    "Longitude": 5.38721
+  },
+  {
+    "Timestamp": "2022-08-17 00:45",
+    "Speed": 9.6,
+    "Latitude": 51.93691,
+    "Longitude": 5.3981
+  },
+  {
+    "Timestamp": "2022-08-17 00:42",
+    "Speed": 9.8,
+    "Latitude": 51.93225,
+    "Longitude": 5.408055
+  },
+  {
+    "Timestamp": "2022-08-17 00:40",
+    "Speed": 9.5,
+    "Latitude": 51.92821,
+    "Longitude": 5.41667
+  },
+  {
+    "Timestamp": "2022-08-17 00:37",
+    "Speed": 9.3,
+    "Latitude": 51.9242,
+    "Longitude": 5.424859
+  },
+  {
+    "Timestamp": "2022-08-17 00:35",
+    "Speed": 9.3,
+    "Latitude": 51.92027,
+    "Longitude": 5.43338
+  },
+  {
+    "Timestamp": "2022-08-17 00:32",
+    "Speed": 7.8,
+    "Latitude": 51.91606,
+    "Longitude": 5.441906
+  },
+  {
+    "Timestamp": "2022-08-17 00:29",
+    "Speed": 6.5,
+    "Latitude": 51.91206,
+    "Longitude": 5.447575
+  },
+  {
+    "Timestamp": "2022-08-17 00:26",
+    "Speed": 7.1,
+    "Latitude": 51.90776,
+    "Longitude": 5.450755
+  },
+  {
+    "Timestamp": "2022-08-17 00:24",
+    "Speed": 4.8,
+    "Latitude": 51.90438,
+    "Longitude": 5.452933
+  },
+  {
+    "Timestamp": "2022-08-17 00:21",
+    "Speed": 3.3,
+    "Latitude": 51.9007,
+    "Longitude": 5.455195
+  },
+  {
+    "Timestamp": "2022-08-17 00:18",
+    "Speed": 3.4,
+    "Latitude": 51.89802,
+    "Longitude": 5.456883
+  },
+  {
+    "Timestamp": "2022-08-17 00:15",
+    "Speed": 3.3,
+    "Latitude": 51.89609,
+    "Longitude": 5.457837
+  },
+  {
+    "Timestamp": "2022-08-17 00:13",
+    "Speed": 4.6,
+    "Latitude": 51.89315,
+    "Longitude": 5.459308
+  },
+  {
+    "Timestamp": "2022-08-17 00:10",
+    "Speed": 4.3,
+    "Latitude": 51.89023,
+    "Longitude": 5.460772
+  },
+  {
+    "Timestamp": "2022-08-17 00:07",
+    "Speed": 8.6,
+    "Latitude": 51.88998,
+    "Longitude": 5.470322
+  },
+  {
+    "Timestamp": "2022-08-17 00:05",
+    "Speed": 9.2,
+    "Latitude": 51.88998,
+    "Longitude": 5.48051
+  },
+  {
+    "Timestamp": "2022-08-17 00:02",
+    "Speed": 9.6,
+    "Latitude": 51.88923,
+    "Longitude": 5.491217
+  },
+  {
+    "Timestamp": "2022-08-17 00:00",
+    "Speed": 9.5,
+    "Latitude": 51.88925,
+    "Longitude": 5.501133
+  },
+  {
+    "Timestamp": "2022-08-16 23:57",
+    "Speed": 9.6,
+    "Latitude": 51.89013,
+    "Longitude": 5.512398
+  },
+  {
+    "Timestamp": "2022-08-16 23:55",
+    "Speed": 9.7,
+    "Latitude": 51.89206,
+    "Longitude": 5.521948
+  },
+  {
+    "Timestamp": "2022-08-16 23:52",
+    "Speed": 10,
+    "Latitude": 51.89522,
+    "Longitude": 5.5316
+  },
+  {
+    "Timestamp": "2022-08-16 23:50",
+    "Speed": 10,
+    "Latitude": 51.89854,
+    "Longitude": 5.540667
+  },
+  {
+    "Timestamp": "2022-08-16 23:47",
+    "Speed": 9.8,
+    "Latitude": 51.90088,
+    "Longitude": 5.551812
+  },
+  {
+    "Timestamp": "2022-08-16 23:45",
+    "Speed": 9.8,
+    "Latitude": 51.90205,
+    "Longitude": 5.56179
+  },
+  {
+    "Timestamp": "2022-08-16 23:42",
+    "Speed": 9.7,
+    "Latitude": 51.90211,
+    "Longitude": 5.573458
+  },
+  {
+    "Timestamp": "2022-08-16 23:40",
+    "Speed": 8.8,
+    "Latitude": 51.90079,
+    "Longitude": 5.58503
+  },
+  {
+    "Timestamp": "2022-08-16 23:37",
+    "Speed": 9.5,
+    "Latitude": 51.89957,
+    "Longitude": 5.594481
+  },
+  {
+    "Timestamp": "2022-08-16 23:35",
+    "Speed": 9.4,
+    "Latitude": 51.89928,
+    "Longitude": 5.604342
+  },
+  {
+    "Timestamp": "2022-08-16 23:33",
+    "Speed": 9.2,
+    "Latitude": 51.89951,
+    "Longitude": 5.613542
+  },
+  {
+    "Timestamp": "2022-08-16 23:30",
+    "Speed": 9.6,
+    "Latitude": 51.89975,
+    "Longitude": 5.625462
+  },
+  {
+    "Timestamp": "2022-08-16 23:27",
+    "Speed": 9.6,
+    "Latitude": 51.89929,
+    "Longitude": 5.636987
+  },
+  {
+    "Timestamp": "2022-08-16 23:25",
+    "Speed": 9,
+    "Latitude": 51.89827,
+    "Longitude": 5.646733
+  },
+  {
+    "Timestamp": "2022-08-16 23:22",
+    "Speed": 9.5,
+    "Latitude": 51.89656,
+    "Longitude": 5.657415
+  },
+  {
+    "Timestamp": "2022-08-16 23:20",
+    "Speed": 9.8,
+    "Latitude": 51.8956,
+    "Longitude": 5.668792
+  },
+  {
+    "Timestamp": "2022-08-16 23:17",
+    "Speed": 9.8,
+    "Latitude": 51.89583,
+    "Longitude": 5.67897
+  },
+  {
+    "Timestamp": "2022-08-16 23:15",
+    "Speed": 9.3,
+    "Latitude": 51.89604,
+    "Longitude": 5.687868
+  },
+  {
+    "Timestamp": "2022-08-16 23:13",
+    "Speed": 9.6,
+    "Latitude": 51.89523,
+    "Longitude": 5.698628
+  },
+  {
+    "Timestamp": "2022-08-16 23:10",
+    "Speed": 9.1,
+    "Latitude": 51.89351,
+    "Longitude": 5.707198
+  },
+  {
+    "Timestamp": "2022-08-16 23:08",
+    "Speed": 9.6,
+    "Latitude": 51.89036,
+    "Longitude": 5.715607
+  },
+  {
+    "Timestamp": "2022-08-16 23:06",
+    "Speed": 9.4,
+    "Latitude": 51.88739,
+    "Longitude": 5.724514
+  },
+  {
+    "Timestamp": "2022-08-16 23:03",
+    "Speed": 9.7,
+    "Latitude": 51.88595,
+    "Longitude": 5.735673
+  },
+  {
+    "Timestamp": "2022-08-16 23:01",
+    "Speed": 9.7,
+    "Latitude": 51.88504,
+    "Longitude": 5.745626
+  },
+  {
+    "Timestamp": "2022-08-16 22:58",
+    "Speed": 9.8,
+    "Latitude": 51.88245,
+    "Longitude": 5.75628
+  },
+  {
+    "Timestamp": "2022-08-16 22:56",
+    "Speed": 9.6,
+    "Latitude": 51.87987,
+    "Longitude": 5.766428
+  },
+  {
+    "Timestamp": "2022-08-16 22:53",
+    "Speed": 9.1,
+    "Latitude": 51.87824,
+    "Longitude": 5.776445
+  },
+  {
+    "Timestamp": "2022-08-16 22:51",
+    "Speed": 9.4,
+    "Latitude": 51.87748,
+    "Longitude": 5.785465
+  },
+  {
+    "Timestamp": "2022-08-16 22:48",
+    "Speed": 9.5,
+    "Latitude": 51.87617,
+    "Longitude": 5.796535
+  },
+  {
+    "Timestamp": "2022-08-16 22:46",
+    "Speed": 9.3,
+    "Latitude": 51.87376,
+    "Longitude": 5.807168
+  },
+  {
+    "Timestamp": "2022-08-16 22:43",
+    "Speed": 10.4,
+    "Latitude": 51.8706,
+    "Longitude": 5.816985
+  },
+  {
+    "Timestamp": "2022-08-16 22:41",
+    "Speed": 10.3,
+    "Latitude": 51.86602,
+    "Longitude": 5.826082
+  },
+  {
+    "Timestamp": "2022-08-16 22:38",
+    "Speed": 9.5,
+    "Latitude": 51.86159,
+    "Longitude": 5.833763
+  },
+  {
+    "Timestamp": "2022-08-16 22:36",
+    "Speed": 10.3,
+    "Latitude": 51.85742,
+    "Longitude": 5.841777
+  },
+  {
+    "Timestamp": "2022-08-16 22:33",
+    "Speed": 6.5,
+    "Latitude": 51.85389,
+    "Longitude": 5.849803
+  },
+  {
+    "Timestamp": "2022-08-16 22:31",
+    "Speed": 7.3,
+    "Latitude": 51.85197,
+    "Longitude": 5.85547
+  },
+  {
+    "Timestamp": "2022-08-16 22:29",
+    "Speed": 7.7,
+    "Latitude": 51.85093,
+    "Longitude": 5.863057
+  },
+  {
+    "Timestamp": "2022-08-16 22:26",
+    "Speed": 8.7,
+    "Latitude": 51.85194,
+    "Longitude": 5.872798
+  },
+  {
+    "Timestamp": "2022-08-16 22:24",
+    "Speed": 9.7,
+    "Latitude": 51.8562,
+    "Longitude": 5.878968
+  },
+  {
+    "Timestamp": "2022-08-16 22:21",
+    "Speed": 9.9,
+    "Latitude": 51.86244,
+    "Longitude": 5.88327
+  },
+  {
+    "Timestamp": "2022-08-16 22:19",
+    "Speed": 9.5,
+    "Latitude": 51.86779,
+    "Longitude": 5.889872
+  },
+  {
+    "Timestamp": "2022-08-16 22:16",
+    "Speed": 9.4,
+    "Latitude": 51.87154,
+    "Longitude": 5.898368
+  },
+  {
+    "Timestamp": "2022-08-16 22:14",
+    "Speed": 9.4,
+    "Latitude": 51.87376,
+    "Longitude": 5.907804
+  },
+  {
+    "Timestamp": "2022-08-16 22:11",
+    "Speed": 9.5,
+    "Latitude": 51.87494,
+    "Longitude": 5.918837
+  },
+  {
+    "Timestamp": "2022-08-16 22:09",
+    "Speed": 9.6,
+    "Latitude": 51.87414,
+    "Longitude": 5.928812
+  },
+  {
+    "Timestamp": "2022-08-16 22:07",
+    "Speed": 8.8,
+    "Latitude": 51.87134,
+    "Longitude": 5.937153
+  },
+  {
+    "Timestamp": "2022-08-16 22:04",
+    "Speed": 9.8,
+    "Latitude": 51.86674,
+    "Longitude": 5.943443
+  },
+  {
+    "Timestamp": "2022-08-16 22:02",
+    "Speed": 9.4,
+    "Latitude": 51.86078,
+    "Longitude": 5.949752
+  },
+  {
+    "Timestamp": "2022-08-16 21:59",
+    "Speed": 8.9,
+    "Latitude": 51.85623,
+    "Longitude": 5.956717
+  },
+  {
+    "Timestamp": "2022-08-16 21:57",
+    "Speed": 8.6,
+    "Latitude": 51.85436,
+    "Longitude": 5.965125
+  },
+  {
+    "Timestamp": "2022-08-16 21:54",
+    "Speed": 8.8,
+    "Latitude": 51.8557,
+    "Longitude": 5.974525
+  },
+  {
+    "Timestamp": "2022-08-16 21:52",
+    "Speed": 9.5,
+    "Latitude": 51.86015,
+    "Longitude": 5.981167
+  },
+  {
+    "Timestamp": "2022-08-16 21:49",
+    "Speed": 9.6,
+    "Latitude": 51.86697,
+    "Longitude": 5.984618
+  },
+  {
+    "Timestamp": "2022-08-16 21:47",
+    "Speed": 9.9,
+    "Latitude": 51.87255,
+    "Longitude": 5.988915
+  },
+  {
+    "Timestamp": "2022-08-16 21:44",
+    "Speed": 10.2,
+    "Latitude": 51.87776,
+    "Longitude": 5.995413
+  },
+  {
+    "Timestamp": "2022-08-16 21:41",
+    "Speed": 9.8,
+    "Latitude": 51.88177,
+    "Longitude": 6.007038
+  },
+  {
+    "Timestamp": "2022-08-16 21:39",
+    "Speed": 9.3,
+    "Latitude": 51.88111,
+    "Longitude": 6.016963
+  },
+  {
+    "Timestamp": "2022-08-16 21:37",
+    "Speed": 9.6,
+    "Latitude": 51.87759,
+    "Longitude": 6.025193
+  },
+  {
+    "Timestamp": "2022-08-16 21:34",
+    "Speed": 9.6,
+    "Latitude": 51.87371,
+    "Longitude": 6.033635
+  },
+  {
+    "Timestamp": "2022-08-16 21:32",
+    "Speed": 9.7,
+    "Latitude": 51.87149,
+    "Longitude": 6.043008
+  },
+  {
+    "Timestamp": "2022-08-16 21:30",
+    "Speed": 9.5,
+    "Latitude": 51.86965,
+    "Longitude": 6.052691
+  },
+  {
+    "Timestamp": "2022-08-16 21:27",
+    "Speed": 10,
+    "Latitude": 51.86689,
+    "Longitude": 6.061828
+  },
+  {
+    "Timestamp": "2022-08-16 21:25",
+    "Speed": 9.7,
+    "Latitude": 51.8632,
+    "Longitude": 6.070492
+  },
+  {
+    "Timestamp": "2022-08-16 21:22",
+    "Speed": 8.8,
+    "Latitude": 51.85863,
+    "Longitude": 6.079098
+  },
+  {
+    "Timestamp": "2022-08-16 21:19",
+    "Speed": 9.7,
+    "Latitude": 51.85351,
+    "Longitude": 6.087471
+  },
+  {
+    "Timestamp": "2022-08-16 21:17",
+    "Speed": 9.7,
+    "Latitude": 51.85005,
+    "Longitude": 6.09597
+  },
+  {
+    "Timestamp": "2022-08-16 21:14",
+    "Speed": 8.5,
+    "Latitude": 51.84835,
+    "Longitude": 6.106194
+  },
+  {
+    "Timestamp": "2022-08-16 21:12",
+    "Speed": 9.8,
+    "Latitude": 51.84832,
+    "Longitude": 6.116695
+  },
+  {
+    "Timestamp": "2022-08-16 21:10",
+    "Speed": 10,
+    "Latitude": 51.8483,
+    "Longitude": 6.126224
+  },
+  {
+    "Timestamp": "2022-08-16 21:05",
+    "Speed": 9.3,
+    "Latitude": 51.84628,
+    "Longitude": 6.14459
+  },
+  {
+    "Timestamp": "2022-08-16 21:02",
+    "Speed": 9.9,
+    "Latitude": 51.84313,
+    "Longitude": 6.158165
+  },
+  {
+    "Timestamp": "2022-08-16 20:59",
+    "Speed": 8.9,
+    "Latitude": 51.8392,
+    "Longitude": 6.170528
+  },
+  {
+    "Timestamp": "2022-08-16 20:54",
+    "Speed": 9.7,
+    "Latitude": 51.83233,
+    "Longitude": 6.187545
+  },
+  {
+    "Timestamp": "2022-08-16 20:14",
+    "Speed": 9.9,
+    "Latitude": 51.78124,
+    "Longitude": 6.323009
+  },
+  {
+    "Timestamp": "2022-08-16 20:07",
+    "Speed": 9.8,
+    "Latitude": 51.76277,
+    "Longitude": 6.332757
+  },
+  {
+    "Timestamp": "2022-08-16 19:48",
+    "Speed": 10.1,
+    "Latitude": 51.75511,
+    "Longitude": 6.4082
+  },
+  {
+    "Timestamp": "2022-08-16 19:46",
+    "Speed": 10.4,
+    "Latitude": 51.75121,
+    "Longitude": 6.417553
+  },
+  {
+    "Timestamp": "2022-08-16 19:43",
+    "Speed": 10.1,
+    "Latitude": 51.74513,
+    "Longitude": 6.422895
+  },
+  {
+    "Timestamp": "2022-08-16 19:41",
+    "Speed": 8.3,
+    "Latitude": 51.73865,
+    "Longitude": 6.422184
+  },
+  {
+    "Timestamp": "2022-08-16 19:34",
+    "Speed": 10.3,
+    "Latitude": 51.72185,
+    "Longitude": 6.407486
+  },
+  {
+    "Timestamp": "2022-08-16 19:31",
+    "Speed": 10,
+    "Latitude": 51.71564,
+    "Longitude": 6.410296
+  },
+  {
+    "Timestamp": "2022-08-16 19:29",
+    "Speed": 8.9,
+    "Latitude": 51.71193,
+    "Longitude": 6.417893
+  },
+  {
+    "Timestamp": "2022-08-16 19:27",
+    "Speed": 10.1,
+    "Latitude": 51.71056,
+    "Longitude": 6.426737
+  },
+  {
+    "Timestamp": "2022-08-16 19:20",
+    "Speed": 9.9,
+    "Latitude": 51.70535,
+    "Longitude": 6.455423
+  },
+  {
+    "Timestamp": "2022-08-16 19:18",
+    "Speed": 9.7,
+    "Latitude": 51.70195,
+    "Longitude": 6.461813
+  },
+  {
+    "Timestamp": "2022-08-16 19:16",
+    "Speed": 9.5,
+    "Latitude": 51.69616,
+    "Longitude": 6.466998
+  },
+  {
+    "Timestamp": "2022-08-16 19:14",
+    "Speed": 9.7,
+    "Latitude": 51.69061,
+    "Longitude": 6.46951
+  },
+  {
+    "Timestamp": "2022-08-16 19:11",
+    "Speed": 9.8,
+    "Latitude": 51.68483,
+    "Longitude": 6.470887
+  },
+  {
+    "Timestamp": "2022-08-16 19:08",
+    "Speed": 10.5,
+    "Latitude": 51.67623,
+    "Longitude": 6.473788
+  },
+  {
+    "Timestamp": "2022-08-16 19:05",
+    "Speed": 9.9,
+    "Latitude": 51.66677,
+    "Longitude": 6.480363
+  },
+  {
+    "Timestamp": "2022-08-16 19:02",
+    "Speed": 9.9,
+    "Latitude": 51.66307,
+    "Longitude": 6.488739
+  },
+  {
+    "Timestamp": "2022-08-16 18:57",
+    "Speed": 10.1,
+    "Latitude": 51.66231,
+    "Longitude": 6.513443
+  },
+  {
+    "Timestamp": "2022-08-16 18:54",
+    "Speed": 10.2,
+    "Latitude": 51.66213,
+    "Longitude": 6.525885
+  },
+  {
+    "Timestamp": "2022-08-16 18:49",
+    "Speed": 9.4,
+    "Latitude": 51.65808,
+    "Longitude": 6.546652
+  },
+  {
+    "Timestamp": "2022-08-16 18:46",
+    "Speed": 9.6,
+    "Latitude": 51.65863,
+    "Longitude": 6.557697
+  },
+  {
+    "Timestamp": "2022-08-16 18:44",
+    "Speed": 10.1,
+    "Latitude": 51.65967,
+    "Longitude": 6.567147
+  },
+  {
+    "Timestamp": "2022-08-16 18:42",
+    "Speed": 9.9,
+    "Latitude": 51.66006,
+    "Longitude": 6.578238
+  },
+  {
+    "Timestamp": "2022-08-16 18:39",
+    "Speed": 10.1,
+    "Latitude": 51.65811,
+    "Longitude": 6.589545
+  },
+  {
+    "Timestamp": "2022-08-16 18:36",
+    "Speed": 9.8,
+    "Latitude": 51.65346,
+    "Longitude": 6.599473
+  },
+  {
+    "Timestamp": "2022-08-16 18:34",
+    "Speed": 10.2,
+    "Latitude": 51.64779,
+    "Longitude": 6.604673
+  },
+  {
+    "Timestamp": "2022-08-16 18:31",
+    "Speed": 9.3,
+    "Latitude": 51.63908,
+    "Longitude": 6.605102
+  },
+  {
+    "Timestamp": "2022-08-16 18:28",
+    "Speed": 10,
+    "Latitude": 51.63388,
+    "Longitude": 6.598598
+  },
+  {
+    "Timestamp": "2022-08-16 18:26",
+    "Speed": 9.7,
+    "Latitude": 51.62939,
+    "Longitude": 6.591352
+  },
+  {
+    "Timestamp": "2022-08-16 18:23",
+    "Speed": 9.5,
+    "Latitude": 51.62392,
+    "Longitude": 6.586465
+  },
+  {
+    "Timestamp": "2022-08-16 18:21",
+    "Speed": 9.5,
+    "Latitude": 51.6178,
+    "Longitude": 6.586998
+  },
+  {
+    "Timestamp": "2022-08-16 18:19",
+    "Speed": 9.4,
+    "Latitude": 51.61212,
+    "Longitude": 6.590887
+  },
+  {
+    "Timestamp": "2022-08-16 18:16",
+    "Speed": 9.7,
+    "Latitude": 51.60632,
+    "Longitude": 6.594202
+  },
+  {
+    "Timestamp": "2022-08-16 18:14",
+    "Speed": 9.2,
+    "Latitude": 51.59927,
+    "Longitude": 6.597415
+  },
+  {
+    "Timestamp": "2022-08-16 18:11",
+    "Speed": 9.8,
+    "Latitude": 51.59264,
+    "Longitude": 6.598673
+  },
+  {
+    "Timestamp": "2022-08-16 18:09",
+    "Speed": 10,
+    "Latitude": 51.58625,
+    "Longitude": 6.59821
+  },
+  {
+    "Timestamp": "2022-08-16 18:07",
+    "Speed": 10.1,
+    "Latitude": 51.58026,
+    "Longitude": 6.597424
+  },
+  {
+    "Timestamp": "2022-08-16 18:04",
+    "Speed": 9.7,
+    "Latitude": 51.57241,
+    "Longitude": 6.599437
+  },
+  {
+    "Timestamp": "2022-08-16 18:01",
+    "Speed": 10,
+    "Latitude": 51.56751,
+    "Longitude": 6.607823
+  },
+  {
+    "Timestamp": "2022-08-16 17:58",
+    "Speed": 9.1,
+    "Latitude": 51.56658,
+    "Longitude": 6.618165
+  },
+  {
+    "Timestamp": "2022-08-16 17:56",
+    "Speed": 8.8,
+    "Latitude": 51.56905,
+    "Longitude": 6.628385
+  },
+  {
+    "Timestamp": "2022-08-16 17:52",
+    "Speed": 9.1,
+    "Latitude": 51.57364,
+    "Longitude": 6.63887
+  },
+  {
+    "Timestamp": "2022-08-16 17:50",
+    "Speed": 9.8,
+    "Latitude": 51.57691,
+    "Longitude": 6.648762
+  },
+  {
+    "Timestamp": "2022-08-16 17:48",
+    "Speed": 9.8,
+    "Latitude": 51.57829,
+    "Longitude": 6.658015
+  },
+  {
+    "Timestamp": "2022-08-16 17:45",
+    "Speed": 9.5,
+    "Latitude": 51.57787,
+    "Longitude": 6.669818
+  },
+  {
+    "Timestamp": "2022-08-16 17:42",
+    "Speed": 9.3,
+    "Latitude": 51.57555,
+    "Longitude": 6.679228
+  },
+  {
+    "Timestamp": "2022-08-16 17:40",
+    "Speed": 9.3,
+    "Latitude": 51.57058,
+    "Longitude": 6.685737
+  },
+  {
+    "Timestamp": "2022-08-16 17:38",
+    "Speed": 9.7,
+    "Latitude": 51.56461,
+    "Longitude": 6.687851
+  },
+  {
+    "Timestamp": "2022-08-16 17:35",
+    "Speed": 9.2,
+    "Latitude": 51.55828,
+    "Longitude": 6.685677
+  },
+  {
+    "Timestamp": "2022-08-16 17:33",
+    "Speed": 9,
+    "Latitude": 51.55289,
+    "Longitude": 6.681618
+  },
+  {
+    "Timestamp": "2022-08-16 17:30",
+    "Speed": 9.9,
+    "Latitude": 51.5471,
+    "Longitude": 6.677735
+  },
+  {
+    "Timestamp": "2022-08-16 17:28",
+    "Speed": 9.5,
+    "Latitude": 51.54051,
+    "Longitude": 6.675752
+  },
+  {
+    "Timestamp": "2022-08-16 17:25",
+    "Speed": 9.4,
+    "Latitude": 51.53461,
+    "Longitude": 6.678031
+  },
+  {
+    "Timestamp": "2022-08-16 17:23",
+    "Speed": 9.5,
+    "Latitude": 51.52992,
+    "Longitude": 6.684873
+  },
+  {
+    "Timestamp": "2022-08-16 17:21",
+    "Speed": 9,
+    "Latitude": 51.52694,
+    "Longitude": 6.69287
+  },
+  {
+    "Timestamp": "2022-08-16 17:18",
+    "Speed": 9.8,
+    "Latitude": 51.52448,
+    "Longitude": 6.701102
+  },
+  {
+    "Timestamp": "2022-08-16 17:16",
+    "Speed": 9.8,
+    "Latitude": 51.52104,
+    "Longitude": 6.71063
+  },
+  {
+    "Timestamp": "2022-08-16 17:14",
+    "Speed": 9.8,
+    "Latitude": 51.51656,
+    "Longitude": 6.71825
+  },
+  {
+    "Timestamp": "2022-08-16 17:11",
+    "Speed": 9.9,
+    "Latitude": 51.51123,
+    "Longitude": 6.723802
+  },
+  {
+    "Timestamp": "2022-08-16 17:09",
+    "Speed": 9.8,
+    "Latitude": 51.50463,
+    "Longitude": 6.724623
+  },
+  {
+    "Timestamp": "2022-08-16 17:07",
+    "Speed": 9.7,
+    "Latitude": 51.49932,
+    "Longitude": 6.720927
+  },
+  {
+    "Timestamp": "2022-08-16 17:04",
+    "Speed": 8.9,
+    "Latitude": 51.4956,
+    "Longitude": 6.71299
+  },
+  {
+    "Timestamp": "2022-08-16 17:01",
+    "Speed": 9.6,
+    "Latitude": 51.49354,
+    "Longitude": 6.702607
+  },
+  {
+    "Timestamp": "2022-08-16 16:59",
+    "Speed": 9.8,
+    "Latitude": 51.49097,
+    "Longitude": 6.691793
+  },
+  {
+    "Timestamp": "2022-08-16 16:56",
+    "Speed": 9.7,
+    "Latitude": 51.48692,
+    "Longitude": 6.683845
+  },
+  {
+    "Timestamp": "2022-08-16 16:54",
+    "Speed": 9.5,
+    "Latitude": 51.48028,
+    "Longitude": 6.680262
+  },
+  {
+    "Timestamp": "2022-08-16 16:51",
+    "Speed": 9.2,
+    "Latitude": 51.47489,
+    "Longitude": 6.684275
+  },
+  {
+    "Timestamp": "2022-08-16 16:49",
+    "Speed": 9.4,
+    "Latitude": 51.47193,
+    "Longitude": 6.69263
+  },
+  {
+    "Timestamp": "2022-08-16 16:46",
+    "Speed": 9.5,
+    "Latitude": 51.47088,
+    "Longitude": 6.704205
+  },
+  {
+    "Timestamp": "2022-08-16 16:44",
+    "Speed": 10.4,
+    "Latitude": 51.46918,
+    "Longitude": 6.713322
+  },
+  {
+    "Timestamp": "2022-08-16 16:42",
+    "Speed": 9.9,
+    "Latitude": 51.46451,
+    "Longitude": 6.721725
+  },
+  {
+    "Timestamp": "2022-08-16 16:39",
+    "Speed": 8.5,
+    "Latitude": 51.45813,
+    "Longitude": 6.724422
+  },
+  {
+    "Timestamp": "2022-08-16 16:36",
+    "Speed": 9.7,
+    "Latitude": 51.45238,
+    "Longitude": 6.721238
+  },
+  {
+    "Timestamp": "2022-08-16 16:34",
+    "Speed": 9.3,
+    "Latitude": 51.44757,
+    "Longitude": 6.71482
+  },
+  {
+    "Timestamp": "2022-08-16 16:32",
+    "Speed": 9.9,
+    "Latitude": 51.44184,
+    "Longitude": 6.711242
+  },
+  {
+    "Timestamp": "2022-08-16 16:30",
+    "Speed": 9.6,
+    "Latitude": 51.43604,
+    "Longitude": 6.712158
+  },
+  {
+    "Timestamp": "2022-08-16 16:27",
+    "Speed": 9.4,
+    "Latitude": 51.43009,
+    "Longitude": 6.717745
+  },
+  {
+    "Timestamp": "2022-08-16 16:25",
+    "Speed": 9.6,
+    "Latitude": 51.4259,
+    "Longitude": 6.72487
+  },
+  {
+    "Timestamp": "2022-08-16 16:22",
+    "Speed": 9.5,
+    "Latitude": 51.4215,
+    "Longitude": 6.732127
+  },
+  {
+    "Timestamp": "2022-08-16 16:19",
+    "Speed": 10,
+    "Latitude": 51.41524,
+    "Longitude": 6.739646
+  },
+  {
+    "Timestamp": "2022-08-16 16:17",
+    "Speed": 10.2,
+    "Latitude": 51.40967,
+    "Longitude": 6.744212
+  },
+  {
+    "Timestamp": "2022-08-16 16:15",
+    "Speed": 10.4,
+    "Latitude": 51.40269,
+    "Longitude": 6.745868
+  },
+  {
+    "Timestamp": "2022-08-16 16:11",
+    "Speed": 9.3,
+    "Latitude": 51.39347,
+    "Longitude": 6.742735
+  },
+  {
+    "Timestamp": "2022-08-16 16:08",
+    "Speed": 9.4,
+    "Latitude": 51.38752,
+    "Longitude": 6.736661
+  },
+  {
+    "Timestamp": "2022-08-16 16:06",
+    "Speed": 9.7,
+    "Latitude": 51.3829,
+    "Longitude": 6.730018
+  },
+  {
+    "Timestamp": "2022-08-16 16:04",
+    "Speed": 8.9,
+    "Latitude": 51.37871,
+    "Longitude": 6.722587
+  },
+  {
+    "Timestamp": "2022-08-16 16:01",
+    "Speed": 8.5,
+    "Latitude": 51.37557,
+    "Longitude": 6.715127
+  },
+  {
+    "Timestamp": "2022-08-16 15:59",
+    "Speed": 9.5,
+    "Latitude": 51.37369,
+    "Longitude": 6.706958
+  },
+  {
+    "Timestamp": "2022-08-16 15:57",
+    "Speed": 9.7,
+    "Latitude": 51.37292,
+    "Longitude": 6.696563
+  },
+  {
+    "Timestamp": "2022-08-16 15:54",
+    "Speed": 9.9,
+    "Latitude": 51.37223,
+    "Longitude": 6.686352
+  },
+  {
+    "Timestamp": "2022-08-16 15:52",
+    "Speed": 9.9,
+    "Latitude": 51.37041,
+    "Longitude": 6.675127
+  },
+  {
+    "Timestamp": "2022-08-16 15:49",
+    "Speed": 9.2,
+    "Latitude": 51.36779,
+    "Longitude": 6.665787
+  },
+  {
+    "Timestamp": "2022-08-16 15:47",
+    "Speed": 8.4,
+    "Latitude": 51.36445,
+    "Longitude": 6.658158
+  },
+  {
+    "Timestamp": "2022-08-16 15:44",
+    "Speed": 8.5,
+    "Latitude": 51.35972,
+    "Longitude": 6.653882
+  },
+  {
+    "Timestamp": "2022-08-16 15:42",
+    "Speed": 9.6,
+    "Latitude": 51.35255,
+    "Longitude": 6.654489
+  },
+  {
+    "Timestamp": "2022-08-16 15:39",
+    "Speed": 9.7,
+    "Latitude": 51.34805,
+    "Longitude": 6.660917
+  },
+  {
+    "Timestamp": "2022-08-16 15:37",
+    "Speed": 8.9,
+    "Latitude": 51.34557,
+    "Longitude": 6.671216
+  },
+  {
+    "Timestamp": "2022-08-16 15:34",
+    "Speed": 9.3,
+    "Latitude": 51.34369,
+    "Longitude": 6.680745
+  },
+  {
+    "Timestamp": "2022-08-16 15:32",
+    "Speed": 9.5,
+    "Latitude": 51.34161,
+    "Longitude": 6.690647
+  },
+  {
+    "Timestamp": "2022-08-16 15:28",
+    "Speed": 9.7,
+    "Latitude": 51.33833,
+    "Longitude": 6.703498
+  },
+  {
+    "Timestamp": "2022-08-16 15:26",
+    "Speed": 10.5,
+    "Latitude": 51.335,
+    "Longitude": 6.712238
+  },
+  {
+    "Timestamp": "2022-08-16 15:24",
+    "Speed": 10,
+    "Latitude": 51.33091,
+    "Longitude": 6.72097
+  },
+  {
+    "Timestamp": "2022-08-16 15:21",
+    "Speed": 9.7,
+    "Latitude": 51.32609,
+    "Longitude": 6.728951
+  },
+  {
+    "Timestamp": "2022-08-16 15:19",
+    "Speed": 9.7,
+    "Latitude": 51.32042,
+    "Longitude": 6.734112
+  },
+  {
+    "Timestamp": "2022-08-16 15:16",
+    "Speed": 9.5,
+    "Latitude": 51.31422,
+    "Longitude": 6.735456
+  },
+  {
+    "Timestamp": "2022-08-16 15:14",
+    "Speed": 9.8,
+    "Latitude": 51.30772,
+    "Longitude": 6.734358
+  },
+  {
+    "Timestamp": "2022-08-16 15:11",
+    "Speed": 9.2,
+    "Latitude": 51.30137,
+    "Longitude": 6.730303
+  },
+  {
+    "Timestamp": "2022-08-16 15:09",
+    "Speed": 9.1,
+    "Latitude": 51.29645,
+    "Longitude": 6.724885
+  },
+  {
+    "Timestamp": "2022-08-16 15:06",
+    "Speed": 9.1,
+    "Latitude": 51.29172,
+    "Longitude": 6.719267
+  },
+  {
+    "Timestamp": "2022-08-16 15:04",
+    "Speed": 9.5,
+    "Latitude": 51.28694,
+    "Longitude": 6.713087
+  },
+  {
+    "Timestamp": "2022-08-16 15:02",
+    "Speed": 10,
+    "Latitude": 51.28157,
+    "Longitude": 6.7067
+  },
+  {
+    "Timestamp": "2022-08-16 14:59",
+    "Speed": 9.6,
+    "Latitude": 51.27632,
+    "Longitude": 6.702587
+  },
+  {
+    "Timestamp": "2022-08-16 14:57",
+    "Speed": 9.6,
+    "Latitude": 51.27018,
+    "Longitude": 6.701915
+  },
+  {
+    "Timestamp": "2022-08-16 14:55",
+    "Speed": 10,
+    "Latitude": 51.26458,
+    "Longitude": 6.706672
+  },
+  {
+    "Timestamp": "2022-08-16 14:52",
+    "Speed": 9.9,
+    "Latitude": 51.26035,
+    "Longitude": 6.714248
+  },
+  {
+    "Timestamp": "2022-08-16 14:50",
+    "Speed": 8.6,
+    "Latitude": 51.25753,
+    "Longitude": 6.722103
+  },
+  {
+    "Timestamp": "2022-08-16 14:48",
+    "Speed": 8.8,
+    "Latitude": 51.25555,
+    "Longitude": 6.73059
+  },
+  {
+    "Timestamp": "2022-08-16 14:46",
+    "Speed": 9.7,
+    "Latitude": 51.25409,
+    "Longitude": 6.739217
+  },
+  {
+    "Timestamp": "2022-08-16 14:43",
+    "Speed": 9.7,
+    "Latitude": 51.25153,
+    "Longitude": 6.750007
+  },
+  {
+    "Timestamp": "2022-08-16 14:40",
+    "Speed": 7.9,
+    "Latitude": 51.24697,
+    "Longitude": 6.75918
+  },
+  {
+    "Timestamp": "2022-08-16 14:38",
+    "Speed": 3.3,
+    "Latitude": 51.24379,
+    "Longitude": 6.763008
+  },
+  {
+    "Timestamp": "2022-08-16 14:35",
+    "Speed": 1.1,
+    "Latitude": 51.2429,
+    "Longitude": 6.76537
+  },
+  {
+    "Timestamp": "2022-08-16 14:32",
+    "Speed": 2.8,
+    "Latitude": 51.24081,
+    "Longitude": 6.767241
+  },
+  {
+    "Timestamp": "2022-08-16 14:29",
+    "Speed": 2.6,
+    "Latitude": 51.23972,
+    "Longitude": 6.767923
+  },
+  {
+    "Timestamp": "2022-08-16 14:12",
+    "Speed": 0,
+    "Latitude": 51.23907,
+    "Longitude": 6.768492
+  },
+  {
+    "Timestamp": "",
+    "Speed": "#,###.#",
+    "Latitude": "",
+    "Longitude": ""
+  }
+]
